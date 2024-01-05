@@ -27,6 +27,6 @@ data.slice(1).forEach(line => {
 
 })
 
-const jsonString = JSON.stringify(courses, null, 2)
+const jsonString = JSON.stringify({ courses }, null, 2)
 
 fs.writeFileSync('./data/schedule.json', jsonString)
