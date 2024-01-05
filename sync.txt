@@ -1,1 +1,7 @@
-run npm install
+To run the website on your machine, run in root directory of app:
+
+npm install
+npm install axios
+npm install json-server --save-dev (Only used in the development process)
+
+(2)
