@@ -1,6 +1,6 @@
 const fs = require('node:fs')
 
-const data = fs.readFileSync('./schedule.csv', 'utf-8').split('\r\n')
+const data = fs.readFileSync('./data/schedule.csv', 'utf-8').split('\r\n')
 data[0] = data[0].slice(1)
 
 
@@ -14,10 +14,10 @@ data.slice(1).forEach(line => {
     const ID = templines[0].split(' ')[1]
     const name = templines[0].split(' ').slice(2).join(' ')
     const teacher = templines[1].slice(1, -1)
-    const schedule = templines.slice(2)
+    const classes = templines.slice(2)
 
     courses.push({
-      section, ID, name, teacher, schedule
+      section, ID, name, teacher, classes
     })
 
     templines = [line]
@@ -29,4 +29,4 @@ data.slice(1).forEach(line => {
 
 const jsonString = JSON.stringify(courses, null, 2)
 
-fs.writeFileSync('./schedule.json', jsonString)
+fs.writeFileSync('./data/schedule.json', jsonString)
