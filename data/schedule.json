@@ -114,7 +114,7 @@
       "section": 3,
       "ID": "201-NYA-05",
       "name": "Calculus I",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 10:15-12:15",
         "W 11:15-12:45",
@@ -235,7 +235,7 @@
       "section": 11,
       "ID": "201-NYB-05",
       "name": "Calculus II",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 14:15-16:15",
         "W 14:15-15:45",
@@ -246,7 +246,7 @@
       "section": 12,
       "ID": "201-NYB-05",
       "name": "Calculus II",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 12:45-14:15",
         "T 08:15-09:45",
@@ -290,7 +290,7 @@
       "section": 2,
       "ID": "201-NYC-05",
       "name": "Linear Algebra I",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 10:15-12:15",
         "T 16:15-17:45",
@@ -301,7 +301,7 @@
       "section": 3,
       "ID": "201-NYC-05",
       "name": "GHOST - Linear Algebra I",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 14:15-15:45",
         "W 14:15-16:15",
@@ -455,7 +455,7 @@
       "section": 13,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 10:15-12:15",
         "T 09:45-11:15",
@@ -488,7 +488,7 @@
       "section": 16,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 16:15-17:45",
         "T 16:15-18:15",
@@ -532,7 +532,7 @@
       "section": 3,
       "ID": "203-NYA-05",
       "name": "Mechanics",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 08:15-10:15",
         "W 08:15-09:45",
@@ -543,7 +543,7 @@
       "section": 4,
       "ID": "203-NYA-05",
       "name": "Mechanics",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "T 14:15-15:45",
         "W 12:15-14:15",
@@ -554,7 +554,7 @@
       "section": 5,
       "ID": "203-NYA-05",
       "name": "Mechanics",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "T 10:45-12:45",
         "W 14:15-15:45",
@@ -565,7 +565,7 @@
       "section": 6,
       "ID": "203-NYA-05",
       "name": "Mechanics",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 16:15-17:45",
         "W 16:15-17:45",
@@ -576,7 +576,7 @@
       "section": 7,
       "ID": "203-NYA-05",
       "name": "Mechanics",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 12:45-14:15",
         "T 09:45-11:15",
@@ -587,7 +587,7 @@
       "section": 8,
       "ID": "203-NYA-05",
       "name": "Mechanics",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "T 08:15-09:45",
         "W 14:15-16:15",
@@ -719,7 +719,7 @@
       "section": 9,
       "ID": "203-NYB-05",
       "name": "Electricity and Magnetism",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 11:15-12:45",
         "T 10:45-12:45",
@@ -730,7 +730,7 @@
       "section": 10,
       "ID": "203-NYB-05",
       "name": "Electricity and Magnetism",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 08:15-10:15",
         "W 08:15-09:45",
@@ -741,7 +741,7 @@
       "section": 11,
       "ID": "203-NYB-05",
       "name": "Electricity and Magnetism",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "T 08:15-09:45",
         "W 12:15-14:15",
@@ -812,7 +812,7 @@
       "section": 3,
       "ID": "101-LCU-05",
       "name": "General Biology II",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "T 16:15-17:45",
         "H 16:15-17:45",
@@ -1087,7 +1087,7 @@
       "section": 3,
       "ID": "420-LCU-05",
       "name": "Computer Programming",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "T 10:45-12:45",
         "W 11:15-12:45",
@@ -2070,7 +2070,7 @@
       "section": 1,
       "ID": "602-100-MQ",
       "name": "Langue et expression I",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 12:45-14:15",
         "H 09:45-11:15"
@@ -2080,7 +2080,7 @@
       "section": 2,
       "ID": "602-100-MQ",
       "name": "Langue et expression I",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "W 12:45-14:15",
         "F 12:45-14:15"
@@ -2090,7 +2090,7 @@
       "section": 3,
       "ID": "602-100-MQ",
       "name": "Langue et expression I",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 16:15-17:45",
         "W 16:15-17:45"
@@ -2100,7 +2100,7 @@
       "section": 1,
       "ID": "602-LPW-MS",
       "name": "Langue et expression II",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "T 09:45-11:15",
         "F 09:45-11:15"
@@ -2130,7 +2130,7 @@
       "section": 3,
       "ID": "602-101-MQ",
       "name": "Langue et communication",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 14:15-15:45",
         "H 11:15-12:45"
@@ -2140,7 +2140,7 @@
       "section": 4,
       "ID": "602-101-MQ",
       "name": "Langue et communication",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "W 14:15-15:45",
         "F 14:15-15:45"
@@ -2150,7 +2150,7 @@
       "section": 5,
       "ID": "602-101-MQ",
       "name": "Langue et communication",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "T 09:45-11:15",
         "F 09:45-11:15"
@@ -2160,7 +2160,7 @@
       "section": 6,
       "ID": "602-101-MQ",
       "name": "Langue et communication",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "T 14:15-15:45",
         "H 14:15-15:45"
@@ -2230,7 +2230,7 @@
       "section": 3,
       "ID": "602-102-MQ",
       "name": "Langue française et culture",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "T 16:15-17:45",
         "H 16:15-17:45"
@@ -2428,7 +2428,7 @@
       "section": 2,
       "ID": "602-UF0-MQ",
       "name": "Oeuvres narratives et écriture",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "W 11:15-12:45",
         "F 14:15-15:45"
@@ -2438,72 +2438,168 @@
       "section": 3,
       "ID": "602-UF0-MQ",
       "name": "Oeuvres narratives et écriture",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "T 11:15-12:45",
-        "F 11:15-12:45",
-        "\"1 602-UF1-MQ Poésie, théâtre et écriture\"",
-        "\"Dupuis, Amélie\"",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "section": 1,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "Dupuis, Amélie",
+      "classes": [
         "M 11:15-12:45",
-        "H 08:15-09:45",
-        "\"2 602-UF1-MQ Poésie, théâtre et écriture\"",
-        "\"Dupuis, Amélie\"",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "section": 2,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "Dupuis, Amélie",
+      "classes": [
         "T 09:45-11:15",
-        "F 09:45-11:15",
-        "\"3 602-UF1-MQ Poésie, théâtre et écriture\"",
-        "\"Coutu-Perrault, Jérémi\"",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "section": 3,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "Coutu-Perrault, Jérémi",
+      "classes": [
         "T 11:15-12:45",
-        "F 11:15-12:45",
-        "\"4 602-UF1-MQ Poésie, théâtre et écriture\"",
-        "\"Jutras, Alexandre\"",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "section": 4,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "Jutras, Alexandre",
+      "classes": [
         "W 12:45-14:15",
-        "F 12:45-14:15",
-        "\"5 602-UF1-MQ Poésie, théâtre et écriture\"",
-        "\"Jutras, Alexandre\"",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "section": 5,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "Jutras, Alexandre",
+      "classes": [
         "M 12:45-14:15",
-        "H 09:45-11:15",
-        "\"6 602-UF1-MQ Poésie, théâtre et écriture\"",
-        "\"Jutras, Alexandre\"",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "section": 6,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "Jutras, Alexandre",
+      "classes": [
         "M 14:15-15:45",
-        "H 11:15-12:45",
-        "\"7 602-UF1-MQ Poésie, théâtre et écriture\"",
-        "TBA",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "section": 7,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
         "W 14:15-15:45",
-        "F 14:15-15:45",
-        "\"8 602-UF1-MQ Poésie, théâtre et écriture\"",
-        "TBA",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "section": 8,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
         "M 16:15-17:45",
-        "W 16:15-17:45",
-        "\"9 602-UF1-MQ Poésie, théâtre et écriture\"",
-        "TBA",
+        "W 16:15-17:45"
+      ]
+    },
+    {
+      "section": 9,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
         "M 14:15-15:45",
-        "H 11:15-12:45",
-        "\"10 602-UF1-MQ Poésie, théâtre et écriture\"",
-        "TBA",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "section": 10,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
         "T 14:15-15:45",
-        "H 14:15-15:45",
-        "\"11 602-UF1-MQ Poésie, théâtre et écriture\"",
-        "TBA",
+        "H 14:15-15:45"
+      ]
+    },
+    {
+      "section": 11,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
         "M 08:15-09:45",
-        "W 08:15-09:45",
-        "\"12 602-UF1-MQ Poésie, théâtre et écriture\"",
-        "TBA",
+        "W 08:15-09:45"
+      ]
+    },
+    {
+      "section": 12,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
         "T 08:15-09:45",
-        "F 08:15-09:45",
-        "\"13 602-UF1-MQ Poésie, théâtre et écriture\"",
-        "TBA",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "section": 13,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
         "M 11:15-12:45",
-        "H 08:15-09:45",
-        "\"14 602-UF1-MQ Poésie, théâtre et écriture\"",
-        "TBA",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "section": 14,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
         "W 12:45-14:15",
-        "F 12:45-14:15",
-        "\"15 602-UF1-MQ Poésie, théâtre et écriture\"",
-        "TBA",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "section": 15,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
         "T 16:15-17:45",
-        "H 16:15-17:45",
-        "\"16 602-UF1-MQ Poésie, théâtre et écriture\"",
-        "TBA",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "section": 16,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
         "M 09:45-11:15",
         "W 09:45-11:15"
       ]
@@ -2512,7 +2608,7 @@
       "section": 1,
       "ID": "PRO-LAM",
       "name": "Enhancing Computer Skills",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 09:45-11:15",
         "W 09:45-11:15"
@@ -2522,7 +2618,7 @@
       "section": 2,
       "ID": "PRO-LAM",
       "name": "Enhancing Computer Skills",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 09:45-11:15",
         "H 08:15-09:45"
@@ -2532,7 +2628,7 @@
       "section": 3,
       "ID": "PRO-LAM",
       "name": "Enhancing Computer Skills",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 09:45-11:15",
         "W 14:15-15:45"
@@ -2542,7 +2638,7 @@
       "section": 4,
       "ID": "PRO-LAM",
       "name": "Enhancing Computer Skills",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 09:45-11:15",
         "F 12:45-14:15"
@@ -2552,7 +2648,7 @@
       "section": 5,
       "ID": "PRO-LAM",
       "name": "Enhancing Computer Skills",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 11:15-12:45",
         "H 08:15-09:45"
@@ -2562,7 +2658,7 @@
       "section": 6,
       "ID": "PRO-LAM",
       "name": "Enhancing Computer Skills",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 11:15-12:45",
         "W 09:45-11:15"
@@ -2572,7 +2668,7 @@
       "section": 7,
       "ID": "PRO-LAM",
       "name": "Enhancing Computer Skills",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 11:15-12:45",
         "W 14:15-15:45"
@@ -2582,7 +2678,7 @@
       "section": 8,
       "ID": "PRO-LAM",
       "name": "Enhancing Computer Skills",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 11:15-12:45",
         "F 12:45-14:15"
@@ -2641,7 +2737,7 @@
       "section": 2,
       "ID": "ART-LAA-A1",
       "name": "Introduction to Studio Art",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "W 14:15-17:15"
       ]
@@ -2659,7 +2755,7 @@
       "section": 1,
       "ID": "ART-LBA-A1",
       "name": "The Human Figure",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "F 11:15-14:15"
       ]
@@ -2668,7 +2764,7 @@
       "section": 1,
       "ID": "ART-LBA-A2",
       "name": "Drawing",
-      "teacher": "B",
+      "teacher": "TBA",
       "classes": [
         "M 14:15-17:15"
       ]
