@@ -1,12 +1,19 @@
-import { useState } from 'react'
-
-function App() {
-  const [count, setCount] = useState(0)
-
+const Second = () => {
+  console.log("Loaded Second")
   return (
-    <>
-      <h1>Mari-Scheduler</h1>
-    </>
+    <div>
+      second
+    </div>
+  )
+}
+
+const App = () => {
+  console.log("Loaded App")
+  return (
+    <div>
+      <p>first app</p>
+      <Second/>
+    </div>
   )
 }
 
