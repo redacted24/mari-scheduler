@@ -10,7 +10,7 @@ let templines = [data[0]]
 
 data.slice(1).forEach(line => {
   if ('1234567890'.includes(line[0])) {
-    const section = templines[0].split(' ')[0]
+    const section = parseInt(templines[0].split(' ')[0])
     const ID = templines[0].split(' ')[1]
     const name = templines[0].split(' ').slice(2).join(' ')
     const teacher = templines[1].slice(1, -1)

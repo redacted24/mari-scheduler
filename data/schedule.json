@@ -1,6 +1,6 @@
 [
   {
-    "section": "1",
+    "section": 1,
     "ID": "101-NYA-05",
     "name": "General Biology I",
     "teacher": "D'Abramo, Claudia",
@@ -11,7 +11,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "101-NYA-05",
     "name": "General Biology I",
     "teacher": "D'Abramo, Claudia",
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "101-NYA-05",
     "name": "General Biology I",
     "teacher": "Di Flumeri, Celestino",
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "101-NYA-05",
     "name": "General Biology I",
     "teacher": "Di Flumeri, Celestino",
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "101-NYA-05",
     "name": "General Biology I",
     "teacher": "Oberholzer, Ursula",
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "101-NYA-05",
     "name": "General Biology I",
     "teacher": "Oberholzer, Ursula",
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "section": "7",
+    "section": 7,
     "ID": "101-NYA-05",
     "name": "General Biology I",
     "teacher": "Saumier, Michèle",
@@ -77,7 +77,7 @@
     ]
   },
   {
-    "section": "21",
+    "section": 21,
     "ID": "101-NYA-05",
     "name": "ENRICHED - General Biology I",
     "teacher": "Oberholzer, Ursula",
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "201-NYA-05",
     "name": "Calculus I",
     "teacher": "Rinehart, Joseph",
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "201-NYA-05",
     "name": "Calculus I",
     "teacher": "Slavchev, Pavel",
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "201-NYA-05",
     "name": "Calculus I",
     "teacher": "B",
@@ -121,7 +121,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "201-NYB-05",
     "name": "Calculus II",
     "teacher": "Bigdely, Hadi",
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "201-NYB-05",
     "name": "Calculus II",
     "teacher": "Bigdely, Hadi",
@@ -143,7 +143,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "201-NYB-05",
     "name": "Calculus II",
     "teacher": "Bigdely, Hadi",
@@ -154,7 +154,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "201-NYB-05",
     "name": "Calculus II",
     "teacher": "Egan, Matthew",
@@ -165,7 +165,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "201-NYB-05",
     "name": "Calculus II",
     "teacher": "Fenwick, Andrew",
@@ -176,7 +176,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "201-NYB-05",
     "name": "Calculus II",
     "teacher": "Hamel, Mariah",
@@ -187,7 +187,7 @@
     ]
   },
   {
-    "section": "7",
+    "section": 7,
     "ID": "201-NYB-05",
     "name": "Calculus II",
     "teacher": "Nobile, Louise",
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "section": "8",
+    "section": 8,
     "ID": "201-NYB-05",
     "name": "Calculus II",
     "teacher": "Slavchev, Pavel",
@@ -209,7 +209,7 @@
     ]
   },
   {
-    "section": "9",
+    "section": 9,
     "ID": "201-NYB-05",
     "name": "Calculus II",
     "teacher": "Turner, Christopher",
@@ -220,7 +220,7 @@
     ]
   },
   {
-    "section": "10",
+    "section": 10,
     "ID": "201-NYB-05",
     "name": "Calculus II",
     "teacher": "Wang, Qian",
@@ -231,7 +231,7 @@
     ]
   },
   {
-    "section": "11",
+    "section": 11,
     "ID": "201-NYB-05",
     "name": "Calculus II",
     "teacher": "B",
@@ -242,7 +242,7 @@
     ]
   },
   {
-    "section": "12",
+    "section": 12,
     "ID": "201-NYB-05",
     "name": "Calculus II",
     "teacher": "B",
@@ -253,7 +253,7 @@
     ]
   },
   {
-    "section": "21",
+    "section": 21,
     "ID": "201-NYB-05",
     "name": "ENRICHED - Calculus II",
     "teacher": "Lim, Wee Keong",
@@ -264,7 +264,7 @@
     ]
   },
   {
-    "section": "22",
+    "section": 22,
     "ID": "201-NYB-05",
     "name": "ENRICHED - Calculus II",
     "teacher": "Lim, Wee Keong",
@@ -275,7 +275,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "201-NYC-05",
     "name": "Linear Algebra I",
     "teacher": "Carrington, Rebecca",
@@ -286,7 +286,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "201-NYC-05",
     "name": "Linear Algebra I",
     "teacher": "B",
@@ -297,7 +297,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "201-NYC-05",
     "name": "GHOST - Linear Algebra I",
     "teacher": "B",
@@ -308,7 +308,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "202-NYA-05",
     "name": "General Chemistry",
     "teacher": "Jinbachian, Lori",
@@ -319,7 +319,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "Abraham, Stephanie",
@@ -330,7 +330,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "Abraham, Stephanie",
@@ -341,7 +341,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "Butt, Roby",
@@ -352,7 +352,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "Halab, Liliane",
@@ -363,7 +363,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "Halab, Liliane",
@@ -374,7 +374,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "Williams, Daniel",
@@ -385,7 +385,7 @@
     ]
   },
   {
-    "section": "7",
+    "section": 7,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "Williams, Daniel",
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "section": "8",
+    "section": 8,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "Jinbachian, Lori",
@@ -407,7 +407,7 @@
     ]
   },
   {
-    "section": "9",
+    "section": 9,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "Jinbachian, Lori",
@@ -418,7 +418,7 @@
     ]
   },
   {
-    "section": "10",
+    "section": 10,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "Keane, Angela",
@@ -429,7 +429,7 @@
     ]
   },
   {
-    "section": "11",
+    "section": 11,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "Li, Jason",
@@ -440,7 +440,7 @@
     ]
   },
   {
-    "section": "12",
+    "section": 12,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "Gallant, Pascal",
@@ -451,7 +451,7 @@
     ]
   },
   {
-    "section": "13",
+    "section": 13,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "B",
@@ -462,7 +462,7 @@
     ]
   },
   {
-    "section": "14",
+    "section": 14,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "Goldner-Sauvé, Audrey",
@@ -473,7 +473,7 @@
     ]
   },
   {
-    "section": "15",
+    "section": 15,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "Goldner-Sauvé, Audrey",
@@ -484,7 +484,7 @@
     ]
   },
   {
-    "section": "16",
+    "section": 16,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "B",
@@ -495,7 +495,7 @@
     ]
   },
   {
-    "section": "17",
+    "section": 17,
     "ID": "202-NYB-05",
     "name": "General Chemistry II",
     "teacher": "Gallant, Pascal",
@@ -506,7 +506,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "203-NYA-05",
     "name": "Mechanics",
     "teacher": "Livingstone, Margaret",
@@ -517,7 +517,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "203-NYA-05",
     "name": "Mechanics",
     "teacher": "Vinet, Jérémie",
@@ -528,7 +528,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "203-NYA-05",
     "name": "Mechanics",
     "teacher": "B",
@@ -539,7 +539,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "203-NYA-05",
     "name": "Mechanics",
     "teacher": "B",
@@ -550,7 +550,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "203-NYA-05",
     "name": "Mechanics",
     "teacher": "B",
@@ -561,7 +561,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "203-NYA-05",
     "name": "Mechanics",
     "teacher": "B",
@@ -572,7 +572,7 @@
     ]
   },
   {
-    "section": "7",
+    "section": 7,
     "ID": "203-NYA-05",
     "name": "Mechanics",
     "teacher": "B",
@@ -583,7 +583,7 @@
     ]
   },
   {
-    "section": "8",
+    "section": 8,
     "ID": "203-NYA-05",
     "name": "Mechanics",
     "teacher": "B",
@@ -594,7 +594,7 @@
     ]
   },
   {
-    "section": "21",
+    "section": 21,
     "ID": "203-NYA-05",
     "name": "ENRICHED - MODERN PHYSICS - Mechanics",
     "teacher": "Sabik, Simon",
@@ -605,7 +605,7 @@
     ]
   },
   {
-    "section": "71",
+    "section": 71,
     "ID": "203-NYA-05",
     "name": "Mechanics",
     "teacher": "Dayon, Matthieu",
@@ -616,7 +616,7 @@
     ]
   },
   {
-    "section": "72",
+    "section": 72,
     "ID": "203-NYA-05",
     "name": "Mechanics",
     "teacher": "Dayon, Matthieu",
@@ -627,7 +627,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "203-NYB-05",
     "name": "Electricity and Magnetism",
     "teacher": "Fatholahzadeh, Baharak",
@@ -638,7 +638,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "203-NYB-05",
     "name": "Electricity and Magnetism",
     "teacher": "Fatholahzadeh, Baharak",
@@ -649,7 +649,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "203-NYB-05",
     "name": "Electricity and Magnetism",
     "teacher": "Hernandez, Oscar",
@@ -660,7 +660,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "203-NYB-05",
     "name": "Electricity and Magnetism",
     "teacher": "Paradis, Dominique",
@@ -671,7 +671,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "203-NYB-05",
     "name": "Electricity and Magnetism",
     "teacher": "Perreault, Jean",
@@ -682,7 +682,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "203-NYB-05",
     "name": "Electricity and Magnetism",
     "teacher": "Sankeralli, Marcel",
@@ -693,7 +693,7 @@
     ]
   },
   {
-    "section": "7",
+    "section": 7,
     "ID": "203-NYB-05",
     "name": "Electricity and Magnetism",
     "teacher": "Sankeralli, Marcel",
@@ -704,7 +704,7 @@
     ]
   },
   {
-    "section": "8",
+    "section": 8,
     "ID": "203-NYB-05",
     "name": "Electricity and Magnetism",
     "teacher": "Sankeralli, Marcel",
@@ -715,7 +715,7 @@
     ]
   },
   {
-    "section": "9",
+    "section": 9,
     "ID": "203-NYB-05",
     "name": "Electricity and Magnetism",
     "teacher": "B",
@@ -726,7 +726,7 @@
     ]
   },
   {
-    "section": "10",
+    "section": 10,
     "ID": "203-NYB-05",
     "name": "Electricity and Magnetism",
     "teacher": "B",
@@ -737,7 +737,7 @@
     ]
   },
   {
-    "section": "11",
+    "section": 11,
     "ID": "203-NYB-05",
     "name": "Electricity and Magnetism",
     "teacher": "B",
@@ -748,7 +748,7 @@
     ]
   },
   {
-    "section": "21",
+    "section": 21,
     "ID": "203-NYB-05",
     "name": "ENRICHED - MODERN PHYSICS - Electricity and Magnetism",
     "teacher": "Fatholahzadeh, Baharak",
@@ -759,7 +759,7 @@
     ]
   },
   {
-    "section": "22",
+    "section": 22,
     "ID": "203-NYB-05",
     "name": "ENRICHED - LIFE SCIENCES - Electricity and Magnetism",
     "teacher": "Rogers, Patrick",
@@ -770,7 +770,7 @@
     ]
   },
   {
-    "section": "71",
+    "section": 71,
     "ID": "203-NYB-05",
     "name": "Electricity and Magnetism",
     "teacher": "Rogers, Patrick",
@@ -786,7 +786,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "101-LCU-05",
     "name": "General Biology II",
     "teacher": "Colatriano, David",
@@ -797,7 +797,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "101-LCU-05",
     "name": "General Biology II",
     "teacher": "D'Abramo, Claudia",
@@ -808,7 +808,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "101-LCU-05",
     "name": "General Biology II",
     "teacher": "B",
@@ -819,7 +819,7 @@
     ]
   },
   {
-    "section": "71",
+    "section": 71,
     "ID": "101-LCU-05",
     "name": "General Biology II",
     "teacher": "Daly, Stewart",
@@ -830,7 +830,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "101-LCV-05",
     "name": "Human Physiology",
     "teacher": "Barrie, Christine",
@@ -841,7 +841,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "101-LCV-05",
     "name": "Human Physiology",
     "teacher": "Brunet, Stephanie",
@@ -852,7 +852,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "101-LCV-05",
     "name": "Human Physiology",
     "teacher": "Di Flumeri, Celestino",
@@ -863,7 +863,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "101-LCV-05",
     "name": "Human Physiology",
     "teacher": "Saumier, Michèle",
@@ -874,7 +874,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "101-LCV-05",
     "name": "Human Physiology",
     "teacher": "Saumier, Michèle",
@@ -885,7 +885,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "101-LCW-MS",
     "name": "Molecular Genetics",
     "teacher": "Brunet, Stephanie",
@@ -896,7 +896,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "201-LCT-MS",
     "name": "Topics in Advanced Mathematics",
     "teacher": "Hamel, Mariah",
@@ -907,7 +907,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "201-LCU-05",
     "name": "Calculus III",
     "teacher": "Egan, Matthew",
@@ -918,7 +918,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "201-LCU-05",
     "name": "Calculus III",
     "teacher": "Lemelin, Dominic",
@@ -929,7 +929,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "201-LCV-05",
     "name": "Linear Algebra II",
     "teacher": "Godin, Veronique",
@@ -940,7 +940,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "201-LCW-05",
     "name": "Probability and Statistics",
     "teacher": "Charette, François",
@@ -951,7 +951,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "201-LCY-05",
     "name": "Finite Mathematics",
     "teacher": "Deslandes, Jean-François",
@@ -962,7 +962,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "202-LCU-05",
     "name": "Organic Chemistry I",
     "teacher": "Butt, Roby",
@@ -973,7 +973,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "202-LCU-05",
     "name": "Organic Chemistry I",
     "teacher": "Daly, Stewart",
@@ -984,7 +984,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "202-LCU-05",
     "name": "Organic Chemistry I",
     "teacher": "Daly, Stewart",
@@ -995,7 +995,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "202-LCU-05",
     "name": "Organic Chemistry I",
     "teacher": "Halab, Liliane",
@@ -1006,7 +1006,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "202-LCU-05",
     "name": "Organic Chemistry I",
     "teacher": "Gallant, Pascal",
@@ -1017,7 +1017,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "202-LCU-05",
     "name": "Organic Chemistry I",
     "teacher": "Keane, Angela",
@@ -1028,7 +1028,7 @@
     ]
   },
   {
-    "section": "7",
+    "section": 7,
     "ID": "202-LCU-05",
     "name": "Organic Chemistry I",
     "teacher": "Li, Jason",
@@ -1039,7 +1039,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "203-LCV-05",
     "name": "Digital Electronics",
     "teacher": "Paradis, Dominique",
@@ -1050,7 +1050,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "203-LCW-05",
     "name": "Astrophysics",
     "teacher": "Paradis, Dominique",
@@ -1061,7 +1061,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "420-LCU-05",
     "name": "Computer Programming",
     "teacher": "Hilal, Samia",
@@ -1072,7 +1072,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "420-LCU-05",
     "name": "Computer Programming",
     "teacher": "Hilal, Samia",
@@ -1083,7 +1083,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "420-LCU-05",
     "name": "Computer Programming",
     "teacher": "B",
@@ -1094,7 +1094,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "420-LCV-05",
     "name": "Technical Drawing",
     "teacher": "Vincent, Robert",
@@ -1105,7 +1105,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "420-LCW-MS",
     "name": "Programming Techniques and Applications",
     "teacher": "Vincent, Robert",
@@ -1116,7 +1116,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "603-101-MQ",
     "name": "Introduction to College English",
     "teacher": "Pedersen, Susan",
@@ -1130,7 +1130,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "603-102-MQ",
     "name": "Folk and Fairy Tales",
     "teacher": "Arnot, Elizabeth",
@@ -1140,7 +1140,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "603-102-MQ",
     "name": "Comics as Literature",
     "teacher": "Carrier, Nicolas",
@@ -1150,7 +1150,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "603-102-MQ",
     "name": "Magic Realism",
     "teacher": "Dubé, Peter",
@@ -1160,7 +1160,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "603-102-MQ",
     "name": "The Origins and Innovations of the Short Story",
     "teacher": "MacDonald, John",
@@ -1170,7 +1170,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "603-102-MQ",
     "name": "The Origins and Innovations of the Short Story",
     "teacher": "MacDonald, John",
@@ -1180,7 +1180,7 @@
     ]
   },
   {
-    "section": "7",
+    "section": 7,
     "ID": "603-102-MQ",
     "name": "Gothic Fiction",
     "teacher": "Huffels, Natalie",
@@ -1190,7 +1190,7 @@
     ]
   },
   {
-    "section": "8",
+    "section": 8,
     "ID": "603-102-MQ",
     "name": "Gothic Fiction",
     "teacher": "Huffels, Natalie",
@@ -1200,7 +1200,7 @@
     ]
   },
   {
-    "section": "11",
+    "section": 11,
     "ID": "603-102-MQ",
     "name": "Arthurian Legends: The Medieval Romance Tradition",
     "teacher": "Fitz-James, Megan",
@@ -1210,7 +1210,7 @@
     ]
   },
   {
-    "section": "12",
+    "section": 12,
     "ID": "603-102-MQ",
     "name": "Philosophical Approaches to The Teleplay",
     "teacher": "McCambridge, Andrew",
@@ -1220,7 +1220,7 @@
     ]
   },
   {
-    "section": "13",
+    "section": 13,
     "ID": "603-102-MQ",
     "name": "Short Fiction",
     "teacher": "Newell, Megan",
@@ -1230,7 +1230,7 @@
     ]
   },
   {
-    "section": "14",
+    "section": 14,
     "ID": "603-102-MQ",
     "name": "Short Fiction",
     "teacher": "Newell, Megan",
@@ -1240,7 +1240,7 @@
     ]
   },
   {
-    "section": "15",
+    "section": 15,
     "ID": "603-102-MQ",
     "name": "The American Short Story",
     "teacher": "Pedersen, Susan",
@@ -1250,7 +1250,7 @@
     ]
   },
   {
-    "section": "16",
+    "section": 16,
     "ID": "603-102-MQ",
     "name": "The American Short Story",
     "teacher": "Pedersen, Susan",
@@ -1264,7 +1264,7 @@
     ]
   },
   {
-    "section": "20",
+    "section": 20,
     "ID": "603-102-MQ",
     "name": "Travel Writing as Genre",
     "teacher": "Dann, Philip",
@@ -1274,7 +1274,7 @@
     ]
   },
   {
-    "section": "21",
+    "section": 21,
     "ID": "603-102-MQ",
     "name": "Travel Writing as Genre",
     "teacher": "Dann, Philip",
@@ -1284,7 +1284,7 @@
     ]
   },
   {
-    "section": "22",
+    "section": 22,
     "ID": "603-102-MQ",
     "name": "The Social Novel",
     "teacher": "Webster, Barry",
@@ -1294,7 +1294,7 @@
     ]
   },
   {
-    "section": "23",
+    "section": 23,
     "ID": "603-102-MQ",
     "name": "Science Fiction",
     "teacher": "Sheckler, Catherine",
@@ -1304,7 +1304,7 @@
     ]
   },
   {
-    "section": "25",
+    "section": 25,
     "ID": "603-102-MQ",
     "name": "The Social Novel",
     "teacher": "Webster, Barry",
@@ -1318,7 +1318,7 @@
     ]
   },
   {
-    "section": "27",
+    "section": 27,
     "ID": "603-102-MQ",
     "name": "Folk and Fairy Tales",
     "teacher": "Arnot, Elizabeth",
@@ -1328,7 +1328,7 @@
     ]
   },
   {
-    "section": "28",
+    "section": 28,
     "ID": "603-102-MQ",
     "name": "Magic Realism",
     "teacher": "Dubé, Peter",
@@ -1338,7 +1338,7 @@
     ]
   },
   {
-    "section": "29",
+    "section": 29,
     "ID": "603-102-MQ",
     "name": "The Weird Tale",
     "teacher": "Vann, Matthew",
@@ -1348,7 +1348,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "603-102-MQ",
     "name": "The Weird tale",
     "teacher": "Vann, Matthew",
@@ -1358,7 +1358,7 @@
     ]
   },
   {
-    "section": "31",
+    "section": 31,
     "ID": "603-102-MQ",
     "name": "Shakespeare on Screen",
     "teacher": "Morris, Blair",
@@ -1368,7 +1368,7 @@
     ]
   },
   {
-    "section": "71",
+    "section": 71,
     "ID": "603-102-MQ",
     "name": "A&S AND LIBERAL ARTS - Literary Genres",
     "teacher": "Vann, Matthew",
@@ -1378,7 +1378,7 @@
     ]
   },
   {
-    "section": "72",
+    "section": 72,
     "ID": "603-102-MQ",
     "name": "A&S AND LIBERAL ARTS - Literary Genres",
     "teacher": "Sheckler, Catherine",
@@ -1388,7 +1388,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "603-103-MQ",
     "name": "Shakespeare's Communities",
     "teacher": "Morris, Blair",
@@ -1398,7 +1398,7 @@
     ]
   },
   {
-    "section": "71",
+    "section": 71,
     "ID": "603-704-MS",
     "name": "A&S - English Adapted to Programs",
     "teacher": "Berdichevsky, Leon",
@@ -1408,7 +1408,7 @@
     ]
   },
   {
-    "section": "72",
+    "section": 72,
     "ID": "603-704-MS",
     "name": "A&S - English Adapted to Programs",
     "teacher": "Dubé, Peter",
@@ -1418,7 +1418,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "603-LPE-MS",
     "name": "Creative Nonfiction: Writing (True) Stories",
     "teacher": "Walser, Sabine",
@@ -1428,7 +1428,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "603-LPE-MS",
     "name": "Business Communication",
     "teacher": "Burton, Andrew",
@@ -1438,7 +1438,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "603-LPE-MS",
     "name": "Business Communication",
     "teacher": "Burton, Andrew",
@@ -1448,7 +1448,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "603-LPE-MS",
     "name": "The Power of Representation",
     "teacher": "Carrier, Nicolas",
@@ -1458,7 +1458,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "603-LPE-MS",
     "name": "The Power of Representation",
     "teacher": "Carrier, Nicolas",
@@ -1468,7 +1468,7 @@
     ]
   },
   {
-    "section": "7",
+    "section": 7,
     "ID": "603-LPE-MS",
     "name": "The Artist in Fiction and Non-Fiction",
     "teacher": "MacDonald, John",
@@ -1478,7 +1478,7 @@
     ]
   },
   {
-    "section": "8",
+    "section": 8,
     "ID": "603-LPE-MS",
     "name": "Writings and Writing about Food",
     "teacher": "Khoo, Jun Ling",
@@ -1488,7 +1488,7 @@
     ]
   },
   {
-    "section": "9",
+    "section": 9,
     "ID": "603-LPE-MS",
     "name": "Writings and Writing about Food",
     "teacher": "Khoo, Jun Ling",
@@ -1498,7 +1498,7 @@
     ]
   },
   {
-    "section": "10",
+    "section": 10,
     "ID": "603-LPE-MS",
     "name": "Gossip in Literature and Film",
     "teacher": "King, Stephanie",
@@ -1508,7 +1508,7 @@
     ]
   },
   {
-    "section": "11",
+    "section": 11,
     "ID": "603-LPE-MS",
     "name": "Gossip in Literature and Film",
     "teacher": "King, Stephanie",
@@ -1518,7 +1518,7 @@
     ]
   },
   {
-    "section": "12",
+    "section": 12,
     "ID": "603-LPE-MS",
     "name": "Law and Literature",
     "teacher": "Fitz-James, Megan",
@@ -1528,7 +1528,7 @@
     ]
   },
   {
-    "section": "13",
+    "section": 13,
     "ID": "603-LPE-MS",
     "name": "Literature and The Body",
     "teacher": "Malott, Paul",
@@ -1538,7 +1538,7 @@
     ]
   },
   {
-    "section": "14",
+    "section": 14,
     "ID": "603-LPE-MS",
     "name": "World Mythology and Critical Theory",
     "teacher": "McCambridge, Andrew",
@@ -1548,7 +1548,7 @@
     ]
   },
   {
-    "section": "15",
+    "section": 15,
     "ID": "603-LPE-MS",
     "name": "World Mythology and Critical Theory",
     "teacher": "McCambridge, Andrew",
@@ -1558,7 +1558,7 @@
     ]
   },
   {
-    "section": "16",
+    "section": 16,
     "ID": "603-LPE-MS",
     "name": "Creative Nonfiction: Writing (True) Stories",
     "teacher": "Walser, Sabine",
@@ -1568,7 +1568,7 @@
     ]
   },
   {
-    "section": "17",
+    "section": 17,
     "ID": "603-LPE-MS",
     "name": "American Nature Writing",
     "teacher": "Fleming, David",
@@ -1578,7 +1578,7 @@
     ]
   },
   {
-    "section": "18",
+    "section": 18,
     "ID": "603-LPE-MS",
     "name": "Literature and Religion",
     "teacher": "Webster, Barry",
@@ -1588,7 +1588,7 @@
     ]
   },
   {
-    "section": "19",
+    "section": 19,
     "ID": "603-LPE-MS",
     "name": "Creative Writing",
     "teacher": "Scheckler, Kate",
@@ -1598,7 +1598,7 @@
     ]
   },
   {
-    "section": "22",
+    "section": 22,
     "ID": "603-LPE-MS",
     "name": "Shakespeare over Time",
     "teacher": "Morris, Blair",
@@ -1608,7 +1608,7 @@
     ]
   },
   {
-    "section": "23",
+    "section": 23,
     "ID": "603-LPE-MS",
     "name": "Eroticism in Poetry",
     "teacher": "Ralickas, Vivian",
@@ -1618,7 +1618,7 @@
     ]
   },
   {
-    "section": "24",
+    "section": 24,
     "ID": "603-LPE-MS",
     "name": "Eroticism in Poetry",
     "teacher": "Ralickas, Vivian",
@@ -1628,7 +1628,7 @@
     ]
   },
   {
-    "section": "25",
+    "section": 25,
     "ID": "603-LPE-MS",
     "name": "Literature and Theory",
     "teacher": "Huffels, Natalie",
@@ -1638,7 +1638,7 @@
     ]
   },
   {
-    "section": "26",
+    "section": 26,
     "ID": "603-LPE-MS",
     "name": "Law and Literature",
     "teacher": "Fitz-James, Megan",
@@ -1648,7 +1648,7 @@
     ]
   },
   {
-    "section": "71",
+    "section": 71,
     "ID": "603-LPE-MS",
     "name": "LIBERAL ARTS - English Adapted to Programs",
     "teacher": "Berdichevsky, Leon",
@@ -1658,7 +1658,7 @@
     ]
   },
   {
-    "section": "72",
+    "section": 72,
     "ID": "603-LPE-MS",
     "name": "LIBERAL ARTS - English Adapted to Programs",
     "teacher": "Dubé, Peter",
@@ -1668,7 +1668,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "345-101-MQ",
     "name": "Why Rome?",
     "teacher": "Levine, Rachel",
@@ -1678,7 +1678,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "345-101-MQ",
     "name": "The Practice of Everyday Life",
     "teacher": "Koutsoyannis, Sophia",
@@ -1688,7 +1688,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "345-101-MQ",
     "name": "The Practice of Everyday Life",
     "teacher": "Koutsoyannis, Sophia",
@@ -1698,7 +1698,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "345-101-MQ",
     "name": "Modernity and Consumer Culture",
     "teacher": "Sumner, Lisa",
@@ -1708,7 +1708,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "345-101-MQ",
     "name": "Understanding Canadian Society through the Arts",
     "teacher": "Khatchadourian, Annie",
@@ -1722,7 +1722,7 @@
     ]
   },
   {
-    "section": "8",
+    "section": 8,
     "ID": "345-101-MQ",
     "name": "Understanding Place",
     "teacher": "Barbone, Patrizia",
@@ -1732,7 +1732,7 @@
     ]
   },
   {
-    "section": "9",
+    "section": 9,
     "ID": "345-101-MQ",
     "name": "Understanding Place",
     "teacher": "Barbone, Patrizia",
@@ -1742,7 +1742,7 @@
     ]
   },
   {
-    "section": "91",
+    "section": 91,
     "ID": "345-101-MQ",
     "name": "Medieval Knowledge",
     "teacher": "Levine, Rachel",
@@ -1752,7 +1752,7 @@
     ]
   },
   {
-    "section": "71",
+    "section": 71,
     "ID": "345-701-MS",
     "name": "A&S ONLY - Knowledge & Integration - Science and Society",
     "teacher": "Richardson, Wendy",
@@ -1762,7 +1762,7 @@
     ]
   },
   {
-    "section": "72",
+    "section": 72,
     "ID": "345-701-MS",
     "name": "A&S ONLY - Knowledge & Integration - Science and Society",
     "teacher": "Richardson, Wendy",
@@ -1776,7 +1776,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "345-102-MQ",
     "name": "Believers and Non-Believers",
     "teacher": "Miceli, Calogero",
@@ -1786,7 +1786,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "345-102-MQ",
     "name": "Beyond Bollywood",
     "teacher": "Chew, Dolores",
@@ -1796,7 +1796,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "345-102-MQ",
     "name": "Indigenous Cultures in Canada",
     "teacher": "Khatchadourian, Annie",
@@ -1806,7 +1806,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "345-102-MQ",
     "name": "Art and Culture of the Ancient Americas",
     "teacher": "Cerrolaza, Elena",
@@ -1816,7 +1816,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "345-102-MQ",
     "name": "Art and Culture of the Ancient Americas",
     "teacher": "Cerrolaza, Elena",
@@ -1830,7 +1830,7 @@
     ]
   },
   {
-    "section": "8",
+    "section": 8,
     "ID": "345-102-MQ",
     "name": "XY Vision: How Gender Shapes our World",
     "teacher": "Brand, Sarah",
@@ -1840,7 +1840,7 @@
     ]
   },
   {
-    "section": "9",
+    "section": 9,
     "ID": "345-102-MQ",
     "name": "Utopian Dreamers",
     "teacher": "Sumner, Lisa",
@@ -1850,7 +1850,7 @@
     ]
   },
   {
-    "section": "10",
+    "section": 10,
     "ID": "345-102-MQ",
     "name": "Utopian Dreamers",
     "teacher": "Sumner, Lisa",
@@ -1860,7 +1860,7 @@
     ]
   },
   {
-    "section": "11",
+    "section": 11,
     "ID": "345-102-MQ",
     "name": "African Worldviews through the Arts",
     "teacher": "Lortie, Marie",
@@ -1870,7 +1870,7 @@
     ]
   },
   {
-    "section": "12",
+    "section": 12,
     "ID": "345-102-MQ",
     "name": "African Worldviews through the Arts",
     "teacher": "Lortie, Marie",
@@ -1880,7 +1880,7 @@
     ]
   },
   {
-    "section": "13",
+    "section": 13,
     "ID": "345-102-MQ",
     "name": "Believers and Non-Believers",
     "teacher": "Miceli, Calogero",
@@ -1890,7 +1890,7 @@
     ]
   },
   {
-    "section": "14",
+    "section": 14,
     "ID": "345-102-MQ",
     "name": "XY Vision: How Gender Shapes our World",
     "teacher": "Brand, Sarah",
@@ -1900,7 +1900,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "345-LPH-MS",
     "name": "Global Religious Violence",
     "teacher": "Miceli, Calogero",
@@ -1910,7 +1910,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "345-LPH-MS",
     "name": "Ethics and the Family",
     "teacher": "Richardson, Wendy",
@@ -1920,7 +1920,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "345-LPH-MS",
     "name": "Ethics and the Family",
     "teacher": "Richardson, Wendy",
@@ -1930,7 +1930,7 @@
     ]
   },
   {
-    "section": "7",
+    "section": 7,
     "ID": "345-LPH-MS",
     "name": "Global Religious Violence",
     "teacher": "Miceli, Calogero",
@@ -1940,7 +1940,7 @@
     ]
   },
   {
-    "section": "8",
+    "section": 8,
     "ID": "345-LPH-MS",
     "name": "Just Progress? Ethics of Innovation",
     "teacher": "Sumner, Lisa",
@@ -1950,7 +1950,7 @@
     ]
   },
   {
-    "section": "9",
+    "section": 9,
     "ID": "345-LPH-MS",
     "name": "Biblical Sex",
     "teacher": "Koumouzelis, Angelique",
@@ -1960,7 +1960,7 @@
     ]
   },
   {
-    "section": "10",
+    "section": 10,
     "ID": "345-LPH-MS",
     "name": "Biblical Sex",
     "teacher": "Koumouzelis, Angelique",
@@ -1970,7 +1970,7 @@
     ]
   },
   {
-    "section": "11",
+    "section": 11,
     "ID": "345-LPH-MS",
     "name": "Ethics and Appropriation",
     "teacher": "Lortie, Marie",
@@ -1984,7 +1984,7 @@
     ]
   },
   {
-    "section": "13",
+    "section": 13,
     "ID": "345-LPH-MS",
     "name": "Ethical Issues in Music",
     "teacher": "Cawker, Hugh",
@@ -1994,7 +1994,7 @@
     ]
   },
   {
-    "section": "14",
+    "section": 14,
     "ID": "345-LPH-MS",
     "name": "The Da Vinci Code: Fact and Fiction in Popular Culture",
     "teacher": "Cerrolaza, Elena",
@@ -2004,7 +2004,7 @@
     ]
   },
   {
-    "section": "15",
+    "section": 15,
     "ID": "345-LPH-MS",
     "name": "The Da Vinci Code: Fact and Fiction in Popular Culture",
     "teacher": "Cerrolaza, Elena",
@@ -2014,7 +2014,7 @@
     ]
   },
   {
-    "section": "16",
+    "section": 16,
     "ID": "345-LPH-MS",
     "name": "Popular Culture and Sexual Representation",
     "teacher": "Hays, Matthew",
@@ -2036,7 +2036,7 @@
     ]
   },
   {
-    "section": "71",
+    "section": 71,
     "ID": "345-LPH-MS",
     "name": "Ethics of Globalization",
     "teacher": "Dufour, Maurice",
@@ -2046,7 +2046,7 @@
     ]
   },
   {
-    "section": "72",
+    "section": 72,
     "ID": "345-LPH-MS",
     "name": "Ethics of Globalization",
     "teacher": "Dufour, Maurice",
@@ -2056,7 +2056,7 @@
     ]
   },
   {
-    "section": "91",
+    "section": 91,
     "ID": "345-LPH-MS",
     "name": "Just and Unjust Wars",
     "teacher": "Dufour, Maurice",
@@ -2066,7 +2066,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "602-100-MQ",
     "name": "Langue et expression I",
     "teacher": "B",
@@ -2076,7 +2076,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "602-100-MQ",
     "name": "Langue et expression I",
     "teacher": "B",
@@ -2086,7 +2086,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "602-100-MQ",
     "name": "Langue et expression I",
     "teacher": "B",
@@ -2096,7 +2096,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "602-LPW-MS",
     "name": "Langue et expression II",
     "teacher": "B",
@@ -2106,7 +2106,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "602-101-MQ",
     "name": "Langue et communication",
     "teacher": "Jutras, Alexandre",
@@ -2116,7 +2116,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "602-101-MQ",
     "name": "Langue et communication",
     "teacher": "Jutras, Alexandre",
@@ -2126,7 +2126,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "602-101-MQ",
     "name": "Langue et communication",
     "teacher": "B",
@@ -2136,7 +2136,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "602-101-MQ",
     "name": "Langue et communication",
     "teacher": "B",
@@ -2146,7 +2146,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "602-101-MQ",
     "name": "Langue et communication",
     "teacher": "B",
@@ -2156,7 +2156,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "602-101-MQ",
     "name": "Langue et communication",
     "teacher": "B",
@@ -2166,7 +2166,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "602-LPX-MS",
     "name": "Découvertes",
     "teacher": "Gasse-Houle, Magali",
@@ -2176,7 +2176,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "602-LPX-MS",
     "name": "Découvertes",
     "teacher": "Gasse-Houle, Magali",
@@ -2186,7 +2186,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "602-LPX-MS",
     "name": "Découvertes",
     "teacher": "Levasseur, Isabelle",
@@ -2196,7 +2196,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "602-LPX-MS",
     "name": "Découvertes",
     "teacher": "Levasseur, Isabelle",
@@ -2206,7 +2206,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "602-102-MQ",
     "name": "Langue française et culture",
     "teacher": "Dupuis, Amélie",
@@ -2216,7 +2216,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "602-102-MQ",
     "name": "Langue française et culture",
     "teacher": "Dupuis, Amélie",
@@ -2226,7 +2226,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "602-102-MQ",
     "name": "Langue française et culture",
     "teacher": "B",
@@ -2236,7 +2236,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "602-LPY-MS",
     "name": "Fictions",
     "teacher": "Gasse-Houle, Magali",
@@ -2246,7 +2246,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "602-LPY-MS",
     "name": "Fictions",
     "teacher": "Gasse-Houle, Magali",
@@ -2256,7 +2256,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "602-LPY-MS",
     "name": "Médias et cinéma",
     "teacher": "Coutu-Perrault, Jérémi",
@@ -2266,7 +2266,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "602-LPY-MS",
     "name": "Médias et cinéma",
     "teacher": "Coutu-Perrault, Jérémi",
@@ -2276,7 +2276,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "602-LPY-MS",
     "name": "Médias et cinéma",
     "teacher": "Coutu-Perrault, Jérémi",
@@ -2286,7 +2286,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "602-LPY-MS",
     "name": "Médias et cinéma",
     "teacher": "Coutu-Perrault, Jérémi",
@@ -2296,7 +2296,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "602-LPZ-MS",
     "name": "Science moderne",
     "teacher": "Pagé, Sylvain",
@@ -2306,7 +2306,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "602-LPZ-MS",
     "name": "Science moderne",
     "teacher": "Pagé, Sylvain",
@@ -2316,7 +2316,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "602-LPZ-MS",
     "name": "Science moderne",
     "teacher": "Pagé, Sylvain",
@@ -2326,7 +2326,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "602-LPZ-MS",
     "name": "Science moderne",
     "teacher": "Pagé, Sylvain",
@@ -2336,7 +2336,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "602-LPZ-MS",
     "name": "L'absurde dans la littérature",
     "teacher": "Savescu, Olivia",
@@ -2346,7 +2346,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "602-LPZ-MS",
     "name": "L'absurde dans la littérature",
     "teacher": "Savescu, Olivia",
@@ -2356,7 +2356,7 @@
     ]
   },
   {
-    "section": "7",
+    "section": 7,
     "ID": "602-LPZ-MS",
     "name": "L'absurde dans la littérature",
     "teacher": "Savescu, Olivia",
@@ -2366,7 +2366,7 @@
     ]
   },
   {
-    "section": "8",
+    "section": 8,
     "ID": "602-LPZ-MS",
     "name": "L'absurde dans la littérature",
     "teacher": "Savescu, Olivia",
@@ -2376,7 +2376,7 @@
     ]
   },
   {
-    "section": "9",
+    "section": 9,
     "ID": "602-LPZ-MS",
     "name": "Écriture scénaristique",
     "teacher": "Lariviere, Fanny",
@@ -2386,7 +2386,7 @@
     ]
   },
   {
-    "section": "10",
+    "section": 10,
     "ID": "602-LPZ-MS",
     "name": "Écriture scénaristique",
     "teacher": "Lariviere, Fanny",
@@ -2396,7 +2396,7 @@
     ]
   },
   {
-    "section": "11",
+    "section": 11,
     "ID": "602-LPZ-MS",
     "name": "Écriture scénaristique",
     "teacher": "Lariviere, Fanny",
@@ -2414,7 +2414,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "602-UF0-MQ",
     "name": "Oeuvres narratives et écriture",
     "teacher": "Levasseur, Isabelle",
@@ -2424,7 +2424,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "602-UF0-MQ",
     "name": "Oeuvres narratives et écriture",
     "teacher": "B",
@@ -2434,7 +2434,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "602-UF0-MQ",
     "name": "Oeuvres narratives et écriture",
     "teacher": "B",
@@ -2508,7 +2508,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "PRO-LAM",
     "name": "Enhancing Computer Skills",
     "teacher": "B",
@@ -2518,7 +2518,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "PRO-LAM",
     "name": "Enhancing Computer Skills",
     "teacher": "B",
@@ -2528,7 +2528,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "PRO-LAM",
     "name": "Enhancing Computer Skills",
     "teacher": "B",
@@ -2538,7 +2538,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "PRO-LAM",
     "name": "Enhancing Computer Skills",
     "teacher": "B",
@@ -2548,7 +2548,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "PRO-LAM",
     "name": "Enhancing Computer Skills",
     "teacher": "B",
@@ -2558,7 +2558,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "PRO-LAM",
     "name": "Enhancing Computer Skills",
     "teacher": "B",
@@ -2568,7 +2568,7 @@
     ]
   },
   {
-    "section": "7",
+    "section": 7,
     "ID": "PRO-LAM",
     "name": "Enhancing Computer Skills",
     "teacher": "B",
@@ -2578,7 +2578,7 @@
     ]
   },
   {
-    "section": "8",
+    "section": 8,
     "ID": "PRO-LAM",
     "name": "Enhancing Computer Skills",
     "teacher": "B",
@@ -2588,7 +2588,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "ARH-LAA-A1",
     "name": "Medieval and Renaissance Art",
     "teacher": "Spriggs, Megan",
@@ -2598,7 +2598,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "ARH-LAA-A1",
     "name": "Medieval and Renaissance Art",
     "teacher": "Spriggs, Megan",
@@ -2608,7 +2608,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "ARH-LAA-A2",
     "name": "Ancient Art",
     "teacher": "Levine, Rachel",
@@ -2618,7 +2618,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "ARH-LBA",
     "name": "Modern and Contemporary Art",
     "teacher": "Khatchadourian, Annie",
@@ -2628,7 +2628,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "ART-LAA-A1",
     "name": "Introduction to Studio Art",
     "teacher": "Brandl, Eva",
@@ -2637,7 +2637,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "ART-LAA-A1",
     "name": "Introduction to Studio Art",
     "teacher": "B",
@@ -2646,7 +2646,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "ART-LAA-A2",
     "name": "Visual Expression: Aspects of Narrative",
     "teacher": "Brandl, Eva",
@@ -2655,7 +2655,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "ART-LBA-A1",
     "name": "The Human Figure",
     "teacher": "B",
@@ -2664,7 +2664,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "ART-LBA-A2",
     "name": "Drawing",
     "teacher": "B",
@@ -2673,7 +2673,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "CIN-LAA-A2",
     "name": "History of cinema",
     "teacher": "Hays, Matthew",
@@ -2682,7 +2682,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "CIN-LBA-A1",
     "name": "The Language of Film",
     "teacher": "Hays, Matthew",
@@ -2691,7 +2691,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "CIN-LBA-A1",
     "name": "The Language of Film",
     "teacher": "Hays, Matthew",
@@ -2700,7 +2700,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "FLM-LBA",
     "name": "Filmmaking Techniques",
     "teacher": "Li, Han Han",
@@ -2709,7 +2709,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "PHI-LBS-A1",
     "name": "What is Justice?",
     "teacher": "Ponce, Veronica",
@@ -2719,7 +2719,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "REL-LBS-A1",
     "name": "Eastern Religions",
     "teacher": "Sasson, Vanessa",
@@ -2729,7 +2729,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "REL-LBS-A3",
     "name": "Topics in Religious Studies: Magic and Ritual",
     "teacher": "Koumouzelis, Angelique",
@@ -2739,7 +2739,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "AAA-LBQ-A1",
     "name": "Digital Music Technologies",
     "teacher": "McKay, Cory",
@@ -2749,7 +2749,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "BUS-LBA-A1",
     "name": "Introduction to Business",
     "teacher": "De Stefano, Jacqueline",
@@ -2759,7 +2759,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "BUS-LBA-A1",
     "name": "Introduction to Business",
     "teacher": "De Stefano, Jacqueline",
@@ -2769,7 +2769,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "ECO-LBA-A1",
     "name": "Introduction to Economics",
     "teacher": "Thomas, Melecia",
@@ -2779,7 +2779,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "ECO-LBA-A1",
     "name": "Introduction to Economics",
     "teacher": "Thomas, Melecia",
@@ -2789,7 +2789,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "POL-LBA-A1",
     "name": "Introduction to World Politics",
     "teacher": "Lee, Rebecca",
@@ -2799,7 +2799,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "POL-LBA-A1",
     "name": "Introduction to World Politics",
     "teacher": "Lee, Rebecca",
@@ -2809,7 +2809,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "PSY-LAA-A1",
     "name": "Inside your mind: Explorations in Psychology",
     "teacher": "Andrews, Julie",
@@ -2819,7 +2819,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "PSY-LAA-A1",
     "name": "Inside your mind: Explorations in Psychology",
     "teacher": "Tobin, Stephanie",
@@ -2829,7 +2829,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "ITA-LAA",
     "name": "Italian I",
     "teacher": "Vasquez, Javier",
@@ -2839,7 +2839,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "ITA-LAA",
     "name": "Italian I",
     "teacher": "Vasquez, Javier",
@@ -2849,7 +2849,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "SPA-LAL",
     "name": "Spanish I",
     "teacher": "Vasquez, Javier",
@@ -2859,7 +2859,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "SPA-LAL",
     "name": "Spanish I",
     "teacher": "Vasquez, Javier",
@@ -2869,7 +2869,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "SPA-LAL",
     "name": "Spanish I",
     "teacher": "Vasquez, Javier",
@@ -2879,7 +2879,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "109-101-MQ",
     "name": "Fit/ Combatives",
     "teacher": "Bellevue-Fortin, Nicolas",
@@ -2888,7 +2888,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "109-101-MQ",
     "name": "Fit/ Combatives",
     "teacher": "Bellevue-Fortin, Nicolas",
@@ -2897,7 +2897,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "109-101-MQ",
     "name": "Fit/Barre",
     "teacher": "McDonald, Shelly",
@@ -2906,7 +2906,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "109-101-MQ",
     "name": "Fit/Barre",
     "teacher": "McDonald, Shelly",
@@ -2915,7 +2915,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "109-101-MQ",
     "name": "Fitness",
     "teacher": "McDonald, Shelly",
@@ -2924,7 +2924,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "109-101-MQ",
     "name": "Fitness",
     "teacher": "McDonald, Shelly",
@@ -2933,7 +2933,7 @@
     ]
   },
   {
-    "section": "7",
+    "section": 7,
     "ID": "109-101-MQ",
     "name": "Fit/ Games",
     "teacher": "Scrase, Julia",
@@ -2942,7 +2942,7 @@
     ]
   },
   {
-    "section": "8",
+    "section": 8,
     "ID": "109-101-MQ",
     "name": "Fit/ Games",
     "teacher": "Scrase, Julia",
@@ -2951,7 +2951,7 @@
     ]
   },
   {
-    "section": "9",
+    "section": 9,
     "ID": "109-101-MQ",
     "name": "Fitness",
     "teacher": "Scrase, Julia",
@@ -2960,7 +2960,7 @@
     ]
   },
   {
-    "section": "10",
+    "section": 10,
     "ID": "109-101-MQ",
     "name": "Fitness",
     "teacher": "Scrase, Julia",
@@ -2969,7 +2969,7 @@
     ]
   },
   {
-    "section": "11",
+    "section": 11,
     "ID": "109-101-MQ",
     "name": "Fit/Yoga",
     "teacher": "Tipney, Laura",
@@ -2978,7 +2978,7 @@
     ]
   },
   {
-    "section": "12",
+    "section": 12,
     "ID": "109-101-MQ",
     "name": "Fit/Yoga",
     "teacher": "Tipney, Laura",
@@ -2987,7 +2987,7 @@
     ]
   },
   {
-    "section": "13",
+    "section": 13,
     "ID": "109-101-MQ",
     "name": "Fit/Yoga",
     "teacher": "Tipney, Laura",
@@ -2996,7 +2996,7 @@
     ]
   },
   {
-    "section": "14",
+    "section": 14,
     "ID": "109-101-MQ",
     "name": "Fitness",
     "teacher": "Tipney, Laura",
@@ -3005,7 +3005,7 @@
     ]
   },
   {
-    "section": "15",
+    "section": 15,
     "ID": "109-101-MQ",
     "name": "Fitness",
     "teacher": "Tipney, Laura",
@@ -3014,7 +3014,7 @@
     ]
   },
   {
-    "section": "16",
+    "section": 16,
     "ID": "109-101-MQ",
     "name": "Fit/ Games",
     "teacher": "Epstein, Neall",
@@ -3023,7 +3023,7 @@
     ]
   },
   {
-    "section": "17",
+    "section": 17,
     "ID": "109-101-MQ",
     "name": "Fitness",
     "teacher": "Dafniotis, Zoe",
@@ -3032,7 +3032,7 @@
     ]
   },
   {
-    "section": "18",
+    "section": 18,
     "ID": "109-101-MQ",
     "name": "Fitness",
     "teacher": "Dafniotis, Zoe",
@@ -3041,7 +3041,7 @@
     ]
   },
   {
-    "section": "19",
+    "section": 19,
     "ID": "109-101-MQ",
     "name": "Fitness",
     "teacher": "Dafniotis, Zoe",
@@ -3050,7 +3050,7 @@
     ]
   },
   {
-    "section": "20",
+    "section": 20,
     "ID": "109-101-MQ",
     "name": "Fitness",
     "teacher": "Perron, Josee",
@@ -3059,7 +3059,7 @@
     ]
   },
   {
-    "section": "21",
+    "section": 21,
     "ID": "109-101-MQ",
     "name": "Fitness",
     "teacher": "Perron, Josee",
@@ -3068,7 +3068,7 @@
     ]
   },
   {
-    "section": "22",
+    "section": 22,
     "ID": "109-101-MQ",
     "name": "Fitness",
     "teacher": "Perron, Josee",
@@ -3077,7 +3077,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "109-102-MQ",
     "name": "Badminton",
     "teacher": "Vachon-Gee, Alexandre",
@@ -3086,7 +3086,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "109-102-MQ",
     "name": "Badminton",
     "teacher": "Vachon-Gee, Alexandre",
@@ -3095,7 +3095,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "109-102-MQ",
     "name": "Badminton",
     "teacher": "Vachon-Gee, Alexandre",
@@ -3104,7 +3104,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "109-102-MQ",
     "name": "Cross-Country Skiing - INTENSIVE: See course description for full schedule",
     "teacher": "Perron, Josee",
@@ -3113,7 +3113,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "109-102-MQ",
     "name": "Dance",
     "teacher": "Dafniotis, Zoe",
@@ -3122,7 +3122,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "109-102-MQ",
     "name": "Dance",
     "teacher": "Dafniotis, Zoe",
@@ -3131,7 +3131,7 @@
     ]
   },
   {
-    "section": "7",
+    "section": 7,
     "ID": "109-102-MQ",
     "name": "Martial Arts",
     "teacher": "Bellevue-Fortin, Nicolas",
@@ -3140,7 +3140,7 @@
     ]
   },
   {
-    "section": "8",
+    "section": 8,
     "ID": "109-102-MQ",
     "name": "Martial Arts",
     "teacher": "Bellevue-Fortin, Nicolas",
@@ -3149,7 +3149,7 @@
     ]
   },
   {
-    "section": "9",
+    "section": 9,
     "ID": "109-102-MQ",
     "name": "Orienteering - INTENSIVE: See course description for full schedule",
     "teacher": "Epstein, Neall",
@@ -3158,7 +3158,7 @@
     ]
   },
   {
-    "section": "10",
+    "section": 10,
     "ID": "109-102-MQ",
     "name": "Ultimate",
     "teacher": "Epstein, Neall",
@@ -3167,7 +3167,7 @@
     ]
   },
   {
-    "section": "11",
+    "section": 11,
     "ID": "109-102-MQ",
     "name": "Ultimate",
     "teacher": "Epstein, Neall",
@@ -3176,7 +3176,7 @@
     ]
   },
   {
-    "section": "12",
+    "section": 12,
     "ID": "109-102-MQ",
     "name": "Basketball",
     "teacher": "Rountree, Cody",
@@ -3185,7 +3185,7 @@
     ]
   },
   {
-    "section": "13",
+    "section": 13,
     "ID": "109-102-MQ",
     "name": "Cross-Country Skiing - INTENSIVE: See course description for full schedule",
     "teacher": "Rountree, Cody",
@@ -3194,7 +3194,7 @@
     ]
   },
   {
-    "section": "14",
+    "section": 14,
     "ID": "109-102-MQ",
     "name": "Soccer",
     "teacher": "Scrase, Julia",
@@ -3203,7 +3203,7 @@
     ]
   },
   {
-    "section": "15",
+    "section": 15,
     "ID": "109-102-MQ",
     "name": "Soccer",
     "teacher": "Scrase, Julia",
@@ -3212,7 +3212,7 @@
     ]
   },
   {
-    "section": "16",
+    "section": 16,
     "ID": "109-102-MQ",
     "name": "Yoga",
     "teacher": "Scrase, Julia",
@@ -3221,7 +3221,7 @@
     ]
   },
   {
-    "section": "17",
+    "section": 17,
     "ID": "109-102-MQ",
     "name": "Yoga",
     "teacher": "Scrase, Julia",
@@ -3230,7 +3230,7 @@
     ]
   },
   {
-    "section": "1",
+    "section": 1,
     "ID": "109-103-MQ",
     "name": "Weight Training",
     "teacher": "Vachon-Gee, Alexandre",
@@ -3239,7 +3239,7 @@
     ]
   },
   {
-    "section": "2",
+    "section": 2,
     "ID": "109-103-MQ",
     "name": "Cross Training",
     "teacher": "Dafniotis, Zoe",
@@ -3248,7 +3248,7 @@
     ]
   },
   {
-    "section": "3",
+    "section": 3,
     "ID": "109-103-MQ",
     "name": "Badminton",
     "teacher": "Perron, Josee",
@@ -3257,7 +3257,7 @@
     ]
   },
   {
-    "section": "4",
+    "section": 4,
     "ID": "109-103-MQ",
     "name": "Badminton",
     "teacher": "Perron, Josee",
@@ -3266,7 +3266,7 @@
     ]
   },
   {
-    "section": "5",
+    "section": 5,
     "ID": "109-103-MQ",
     "name": "Cross-Country Skiing - INTENSIVE: See course description for full schedule",
     "teacher": "Perron, Josee",
@@ -3275,7 +3275,7 @@
     ]
   },
   {
-    "section": "6",
+    "section": 6,
     "ID": "109-103-MQ",
     "name": "Jiujitsu",
     "teacher": "Bellevue-Fortin, Nicolas",
@@ -3284,7 +3284,7 @@
     ]
   },
   {
-    "section": "7",
+    "section": 7,
     "ID": "109-103-MQ",
     "name": "Jiujitsu",
     "teacher": "Bellevue-Fortin, Nicolas",
@@ -3293,7 +3293,7 @@
     ]
   },
   {
-    "section": "8",
+    "section": 8,
     "ID": "109-103-MQ",
     "name": "Power Yoga",
     "teacher": "McDonald, Shelly",
@@ -3302,7 +3302,7 @@
     ]
   },
   {
-    "section": "9",
+    "section": 9,
     "ID": "109-103-MQ",
     "name": "Power Yoga",
     "teacher": "McDonald, Shelly",
@@ -3311,7 +3311,7 @@
     ]
   },
   {
-    "section": "10",
+    "section": 10,
     "ID": "109-103-MQ",
     "name": "Weight Training",
     "teacher": "McDonald, Shelly",
@@ -3320,7 +3320,7 @@
     ]
   },
   {
-    "section": "11",
+    "section": 11,
     "ID": "109-103-MQ",
     "name": "Weight Training",
     "teacher": "McDonald, Shelly",
@@ -3329,7 +3329,7 @@
     ]
   },
   {
-    "section": "12",
+    "section": 12,
     "ID": "109-103-MQ",
     "name": "Stress Management",
     "teacher": "Tipney, Laura",
@@ -3338,7 +3338,7 @@
     ]
   },
   {
-    "section": "13",
+    "section": 13,
     "ID": "109-103-MQ",
     "name": "Stress Management",
     "teacher": "Tipney, Laura",
@@ -3347,7 +3347,7 @@
     ]
   },
   {
-    "section": "14",
+    "section": 14,
     "ID": "109-103-MQ",
     "name": "Soccer",
     "teacher": "Tipney, Laura",
@@ -3356,7 +3356,7 @@
     ]
   },
   {
-    "section": "15",
+    "section": 15,
     "ID": "109-103-MQ",
     "name": "Ultimate",
     "teacher": "Epstein, Neall",
@@ -3365,7 +3365,7 @@
     ]
   },
   {
-    "section": "16",
+    "section": 16,
     "ID": "109-103-MQ",
     "name": "Snowshoe Hikes - INTENSIVE: See course description for full schedule",
     "teacher": "Epstein, Neall",
@@ -3374,7 +3374,7 @@
     ]
   },
   {
-    "section": "17",
+    "section": 17,
     "ID": "109-103-MQ",
     "name": "Team Sports",
     "teacher": "Epstein, Neall",
@@ -3383,7 +3383,7 @@
     ]
   },
   {
-    "section": "18",
+    "section": 18,
     "ID": "109-103-MQ",
     "name": "Team Sports",
     "teacher": "Epstein, Neall",
