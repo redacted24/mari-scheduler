@@ -1,11 +1,12 @@
 import backendService from './services/backend'
 import { useState, useEffect } from 'react'
+import SearchBar from './components/searchBar'
 
-const Second = () => {
-  console.log("Loaded Second")
+const Title = () => {
+  console.log("Loaded Title")
   return (
     <div>
-      second
+      title
     </div>
   )
 }
@@ -14,7 +15,8 @@ const App = () => {
   console.log("Loaded App")
 
   const [courses, setCourses] = useState([])
-  const [errorMessage, setErrorMessage] = useState(null)  
+  const [errorMessage, setErrorMessage] = useState(null)
+  const [search, setSearch] = useState('')
 
   // Initial data fetch
   useEffect(() => {
@@ -29,15 +31,16 @@ const App = () => {
     // Make an Error Message Component
     .catch(() => {
       console.log('❌ Courses data could not be fetched')
-      setErrorMessage('Error in fetching country data')
+      setErrorMessage('Error in fetching courses data')
       setTimeout(() => setErrorMessage(null), 3000)
     })
   }, [])
 
   return (
     <div>
+      <Title/>
       <p>first app</p>
-      <Second/>
+      <SearchBar search = {search} setSearch = {setSearch}></SearchBar>
     </div>
   )
 }
