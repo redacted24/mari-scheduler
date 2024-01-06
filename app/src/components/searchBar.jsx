@@ -1,5 +1,6 @@
 const SearchBar = ({search, setSearch}) => {
-    // Handle the Input Bar
+    // This component includes the search bar as well as the results.
+    
     const handleSearchChange = (event) => {
         console.log(event.target.value)
         setSearch(event.target.value)

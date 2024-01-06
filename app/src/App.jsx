@@ -1,22 +1,18 @@
 import backendService from './services/backend'
 import { useState, useEffect } from 'react'
 import SearchBar from './components/searchBar'
-
-const Title = () => {
-  console.log("Loaded Title")
-  return (
-    <div>
-      title
-    </div>
-  )
-}
+import SelectedCourses from './components/selectedCourses'
+import Title from './components/title'
+import SearchResult from './components/searchResult'
 
 const App = () => {
   console.log("Loaded App")
 
+  // States
   const [courses, setCourses] = useState([])
   const [errorMessage, setErrorMessage] = useState(null)
   const [search, setSearch] = useState('')
+  const [selected, setSelected] = useState([])
 
   // Initial data fetch
   useEffect(() => {
@@ -39,8 +35,9 @@ const App = () => {
   return (
     <div>
       <Title/>
-      <p>first app</p>
-      <SearchBar search = {search} setSearch = {setSearch}></SearchBar>
+      <SelectedCourses selected = {selected} setSelected = {setSelected}/>
+      <SearchBar search = {search} setSearch = {setSearch}/>
+      <SearchResult search = {search} courses = {courses}/>
     </div>
   )
 }
