@@ -1,0 +1,3832 @@
+{
+  "courses": [
+    {
+      "key": 1,
+      "section": 1,
+      "ID": "101-NYA-05",
+      "name": "General Biology I",
+      "teacher": "D'Abramo, Claudia",
+      "classes": [
+        "T 14:15-15:45",
+        "W 12:15-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 2,
+      "section": 2,
+      "ID": "101-NYA-05",
+      "name": "General Biology I",
+      "teacher": "D'Abramo, Claudia",
+      "classes": [
+        "M 11:15-12:45",
+        "T 09:45-11:15",
+        "H 08:15-10:15"
+      ]
+    },
+    {
+      "key": 3,
+      "section": 3,
+      "ID": "101-NYA-05",
+      "name": "General Biology I",
+      "teacher": "Di Flumeri, Celestino",
+      "classes": [
+        "T 14:15-16:15",
+        "H 14:15-15:45",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 4,
+      "section": 4,
+      "ID": "101-NYA-05",
+      "name": "General Biology I",
+      "teacher": "Di Flumeri, Celestino",
+      "classes": [
+        "M 08:15-09:45",
+        "W 08:15-10:15",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 5,
+      "section": 5,
+      "ID": "101-NYA-05",
+      "name": "General Biology I",
+      "teacher": "Oberholzer, Ursula",
+      "classes": [
+        "M 14:15-15:45",
+        "T 16:15-18:15",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 6,
+      "section": 6,
+      "ID": "101-NYA-05",
+      "name": "General Biology I",
+      "teacher": "Oberholzer, Ursula",
+      "classes": [
+        "M 16:15-17:45",
+        "W 14:15-16:15",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 7,
+      "section": 7,
+      "ID": "101-NYA-05",
+      "name": "General Biology I",
+      "teacher": "Saumier, Michèle",
+      "classes": [
+        "M 12:45-14:15",
+        "W 10:15-12:15",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 8,
+      "section": 21,
+      "ID": "101-NYA-05",
+      "name": "ENRICHED - General Biology I",
+      "teacher": "Oberholzer, Ursula",
+      "classes": [
+        "T 11:15-12:45",
+        "F 11:15-12:45",
+        "H 10:45-12:45"
+      ]
+    },
+    {
+      "key": 9,
+      "section": 1,
+      "ID": "201-NYA-05",
+      "name": "Calculus I",
+      "teacher": "Rinehart, Joseph",
+      "classes": [
+        "T 11:15-12:45",
+        "H 10:45-12:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 10,
+      "section": 2,
+      "ID": "201-NYA-05",
+      "name": "Calculus I",
+      "teacher": "Slavchev, Pavel",
+      "classes": [
+        "M 14:15-16:15",
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 11,
+      "section": 3,
+      "ID": "201-NYA-05",
+      "name": "Calculus I",
+      "teacher": "TBA",
+      "classes": [
+        "M 10:15-12:15",
+        "W 11:15-12:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 12,
+      "section": 1,
+      "ID": "201-NYB-05",
+      "name": "Calculus II",
+      "teacher": "Bigdely, Hadi",
+      "classes": [
+        "M 16:15-17:45",
+        "T 14:15-15:45",
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 13,
+      "section": 2,
+      "ID": "201-NYB-05",
+      "name": "Calculus II",
+      "teacher": "Bigdely, Hadi",
+      "classes": [
+        "T 09:45-11:15",
+        "W 14:15-16:15",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 14,
+      "section": 3,
+      "ID": "201-NYB-05",
+      "name": "Calculus II",
+      "teacher": "Bigdely, Hadi",
+      "classes": [
+        "M 14:15-15:45",
+        "W 10:15-12:15",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 15,
+      "section": 4,
+      "ID": "201-NYB-05",
+      "name": "Calculus II",
+      "teacher": "Egan, Matthew",
+      "classes": [
+        "T 16:15-17:45",
+        "H 16:15-18:15",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 16,
+      "section": 5,
+      "ID": "201-NYB-05",
+      "name": "Calculus II",
+      "teacher": "Fenwick, Andrew",
+      "classes": [
+        "M 16:15-18:15",
+        "W 16:15-17:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 17,
+      "section": 6,
+      "ID": "201-NYB-05",
+      "name": "Calculus II",
+      "teacher": "Hamel, Mariah",
+      "classes": [
+        "M 11:15-12:45",
+        "W 08:15-10:15",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "key": 18,
+      "section": 7,
+      "ID": "201-NYB-05",
+      "name": "Calculus II",
+      "teacher": "Nobile, Louise",
+      "classes": [
+        "T 08:15-09:45",
+        "H 10:45-12:45",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 19,
+      "section": 8,
+      "ID": "201-NYB-05",
+      "name": "Calculus II",
+      "teacher": "Slavchev, Pavel",
+      "classes": [
+        "T 10:45-12:45",
+        "H 14:15-15:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 20,
+      "section": 9,
+      "ID": "201-NYB-05",
+      "name": "Calculus II",
+      "teacher": "Turner, Christopher",
+      "classes": [
+        "M 10:15-12:15",
+        "W 12:45-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 21,
+      "section": 10,
+      "ID": "201-NYB-05",
+      "name": "Calculus II",
+      "teacher": "Wang, Qian",
+      "classes": [
+        "M 08:15-10:15",
+        "W 08:15-09:45",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 22,
+      "section": 11,
+      "ID": "201-NYB-05",
+      "name": "Calculus II",
+      "teacher": "TBA",
+      "classes": [
+        "M 14:15-16:15",
+        "W 14:15-15:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 23,
+      "section": 12,
+      "ID": "201-NYB-05",
+      "name": "Calculus II",
+      "teacher": "TBA",
+      "classes": [
+        "M 12:45-14:15",
+        "T 08:15-09:45",
+        "H 08:15-10:15"
+      ]
+    },
+    {
+      "key": 24,
+      "section": 21,
+      "ID": "201-NYB-05",
+      "name": "ENRICHED - Calculus II",
+      "teacher": "Lim, Wee Keong",
+      "classes": [
+        "M 08:15-09:45",
+        "W 08:15-09:45",
+        "F 08:15-10:15"
+      ]
+    },
+    {
+      "key": 25,
+      "section": 22,
+      "ID": "201-NYB-05",
+      "name": "ENRICHED - Calculus II",
+      "teacher": "Lim, Wee Keong",
+      "classes": [
+        "M 12:45-14:15",
+        "W 12:15-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 26,
+      "section": 1,
+      "ID": "201-NYC-05",
+      "name": "Linear Algebra I",
+      "teacher": "Carrington, Rebecca",
+      "classes": [
+        "T 11:15-12:45",
+        "H 08:15-10:15",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 27,
+      "section": 2,
+      "ID": "201-NYC-05",
+      "name": "Linear Algebra I",
+      "teacher": "TBA",
+      "classes": [
+        "M 10:15-12:15",
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 28,
+      "section": 3,
+      "ID": "201-NYC-05",
+      "name": "GHOST - Linear Algebra I",
+      "teacher": "TBA",
+      "classes": [
+        "M 14:15-15:45",
+        "W 14:15-16:15",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 29,
+      "section": 1,
+      "ID": "202-NYA-05",
+      "name": "General Chemistry",
+      "teacher": "Jinbachian, Lori",
+      "classes": [
+        "T 11:15-12:45",
+        "W 12:45-14:15",
+        "F 12:15-14:15"
+      ]
+    },
+    {
+      "key": 30,
+      "section": 1,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "Abraham, Stephanie",
+      "classes": [
+        "M 12:15-14:15",
+        "T 14:15-15:45",
+        "H 14:15-15:45"
+      ]
+    },
+    {
+      "key": 31,
+      "section": 2,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "Abraham, Stephanie",
+      "classes": [
+        "M 16:15-18:15",
+        "W 16:15-17:45",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 32,
+      "section": 3,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "Butt, Roby",
+      "classes": [
+        "T 11:15-12:45",
+        "W 14:15-16:15",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 33,
+      "section": 4,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "Halab, Liliane",
+      "classes": [
+        "T 08:15-09:45",
+        "H 08:15-09:45",
+        "F 08:15-10:15"
+      ]
+    },
+    {
+      "key": 34,
+      "section": 5,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "Halab, Liliane",
+      "classes": [
+        "T 10:45-12:45",
+        "W 14:15-15:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 35,
+      "section": 6,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "Williams, Daniel",
+      "classes": [
+        "M 11:15-12:45",
+        "W 10:15-12:15",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "key": 36,
+      "section": 7,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "Williams, Daniel",
+      "classes": [
+        "M 14:15-16:15",
+        "H 11:15-12:45",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 37,
+      "section": 8,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "Jinbachian, Lori",
+      "classes": [
+        "M 09:45-11:15",
+        "T 08:15-10:15",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 38,
+      "section": 9,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "Jinbachian, Lori",
+      "classes": [
+        "M 14:15-15:45",
+        "W 09:45-11:15",
+        "H 10:45-12:45"
+      ]
+    },
+    {
+      "key": 39,
+      "section": 10,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "Keane, Angela",
+      "classes": [
+        "T 14:15-16:15",
+        "W 12:45-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 40,
+      "section": 11,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "Li, Jason",
+      "classes": [
+        "T 16:15-17:45",
+        "H 16:15-18:15",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 41,
+      "section": 12,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "Gallant, Pascal",
+      "classes": [
+        "M 08:15-09:45",
+        "W 08:15-10:15",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 42,
+      "section": 13,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "TBA",
+      "classes": [
+        "M 10:15-12:15",
+        "T 09:45-11:15",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 43,
+      "section": 14,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "Goldner-Sauvé, Audrey",
+      "classes": [
+        "T 08:15-09:45",
+        "H 08:15-10:15",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 44,
+      "section": 15,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "Goldner-Sauvé, Audrey",
+      "classes": [
+        "T 09:45-11:15",
+        "W 12:15-14:15",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 45,
+      "section": 16,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "TBA",
+      "classes": [
+        "M 16:15-17:45",
+        "T 16:15-18:15",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 46,
+      "section": 17,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "Gallant, Pascal",
+      "classes": [
+        "M 12:45-14:15",
+        "T 14:15-15:45",
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 47,
+      "section": 1,
+      "ID": "203-NYA-05",
+      "name": "Mechanics",
+      "teacher": "Livingstone, Margaret",
+      "classes": [
+        "M 12:15-14:15",
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 48,
+      "section": 2,
+      "ID": "203-NYA-05",
+      "name": "Mechanics",
+      "teacher": "Vinet, Jérémie",
+      "classes": [
+        "M 08:15-09:45",
+        "W 08:15-10:15",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 49,
+      "section": 3,
+      "ID": "203-NYA-05",
+      "name": "Mechanics",
+      "teacher": "TBA",
+      "classes": [
+        "M 08:15-10:15",
+        "W 08:15-09:45",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 50,
+      "section": 4,
+      "ID": "203-NYA-05",
+      "name": "Mechanics",
+      "teacher": "TBA",
+      "classes": [
+        "T 14:15-15:45",
+        "W 12:15-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 51,
+      "section": 5,
+      "ID": "203-NYA-05",
+      "name": "Mechanics",
+      "teacher": "TBA",
+      "classes": [
+        "T 10:45-12:45",
+        "W 14:15-15:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 52,
+      "section": 6,
+      "ID": "203-NYA-05",
+      "name": "Mechanics",
+      "teacher": "TBA",
+      "classes": [
+        "M 16:15-17:45",
+        "W 16:15-17:45",
+        "H 10:45-12:45"
+      ]
+    },
+    {
+      "key": 53,
+      "section": 7,
+      "ID": "203-NYA-05",
+      "name": "Mechanics",
+      "teacher": "TBA",
+      "classes": [
+        "M 12:45-14:15",
+        "T 09:45-11:15",
+        "H 08:15-10:15"
+      ]
+    },
+    {
+      "key": 54,
+      "section": 8,
+      "ID": "203-NYA-05",
+      "name": "Mechanics",
+      "teacher": "TBA",
+      "classes": [
+        "T 08:15-09:45",
+        "W 14:15-16:15",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 55,
+      "section": 21,
+      "ID": "203-NYA-05",
+      "name": "ENRICHED - MODERN PHYSICS - Mechanics",
+      "teacher": "Sabik, Simon",
+      "classes": [
+        "M 11:15-12:45",
+        "T 08:15-10:15",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "key": 56,
+      "section": 71,
+      "ID": "203-NYA-05",
+      "name": "Mechanics",
+      "teacher": "Dayon, Matthieu",
+      "classes": [
+        "M 14:15-16:15",
+        "W 11:15-12:45",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 57,
+      "section": 72,
+      "ID": "203-NYA-05",
+      "name": "Mechanics",
+      "teacher": "Dayon, Matthieu",
+      "classes": [
+        "T 14:15-16:15",
+        "H 14:15-15:45",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 58,
+      "section": 1,
+      "ID": "203-NYB-05",
+      "name": "Electricity and Magnetism",
+      "teacher": "Fatholahzadeh, Baharak",
+      "classes": [
+        "M 16:15-17:45",
+        "T 14:15-15:45",
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 59,
+      "section": 2,
+      "ID": "203-NYB-05",
+      "name": "Electricity and Magnetism",
+      "teacher": "Fatholahzadeh, Baharak",
+      "classes": [
+        "M 14:15-16:15",
+        "W 11:15-12:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 60,
+      "section": 3,
+      "ID": "203-NYB-05",
+      "name": "Electricity and Magnetism",
+      "teacher": "Hernandez, Oscar",
+      "classes": [
+        "M 10:15-12:15",
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 61,
+      "section": 4,
+      "ID": "203-NYB-05",
+      "name": "Electricity and Magnetism",
+      "teacher": "Paradis, Dominique",
+      "classes": [
+        "T 09:45-11:15",
+        "H 10:45-12:45",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 62,
+      "section": 5,
+      "ID": "203-NYB-05",
+      "name": "Electricity and Magnetism",
+      "teacher": "Perreault, Jean",
+      "classes": [
+        "M 16:15-17:45",
+        "W 16:15-17:45",
+        "F 10:15-12:15"
+      ]
+    },
+    {
+      "key": 63,
+      "section": 6,
+      "ID": "203-NYB-05",
+      "name": "Electricity and Magnetism",
+      "teacher": "Sankeralli, Marcel",
+      "classes": [
+        "M 08:15-09:45",
+        "W 08:15-10:15",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 64,
+      "section": 7,
+      "ID": "203-NYB-05",
+      "name": "Electricity and Magnetism",
+      "teacher": "Sankeralli, Marcel",
+      "classes": [
+        "T 14:15-16:15",
+        "W 12:45-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 65,
+      "section": 8,
+      "ID": "203-NYB-05",
+      "name": "Electricity and Magnetism",
+      "teacher": "Sankeralli, Marcel",
+      "classes": [
+        "M 12:45-14:15",
+        "T 09:45-11:15",
+        "H 08:15-10:15"
+      ]
+    },
+    {
+      "key": 66,
+      "section": 9,
+      "ID": "203-NYB-05",
+      "name": "Electricity and Magnetism",
+      "teacher": "TBA",
+      "classes": [
+        "M 11:15-12:45",
+        "T 10:45-12:45",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "key": 67,
+      "section": 10,
+      "ID": "203-NYB-05",
+      "name": "Electricity and Magnetism",
+      "teacher": "TBA",
+      "classes": [
+        "M 08:15-10:15",
+        "W 08:15-09:45",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 68,
+      "section": 11,
+      "ID": "203-NYB-05",
+      "name": "Electricity and Magnetism",
+      "teacher": "TBA",
+      "classes": [
+        "T 08:15-09:45",
+        "W 12:15-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 69,
+      "section": 21,
+      "ID": "203-NYB-05",
+      "name": "ENRICHED - MODERN PHYSICS - Electricity and Magnetism",
+      "teacher": "Fatholahzadeh, Baharak",
+      "classes": [
+        "T 11:15-12:45",
+        "W 14:15-16:15",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 70,
+      "section": 22,
+      "ID": "203-NYB-05",
+      "name": "ENRICHED - LIFE SCIENCES - Electricity and Magnetism",
+      "teacher": "Rogers, Patrick",
+      "classes": [
+        "T 08:15-10:15",
+        "H 11:15-12:45",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 71,
+      "section": 71,
+      "ID": "203-NYB-05",
+      "name": "Electricity and Magnetism",
+      "teacher": "Rogers, Patrick",
+      "classes": [
+        "T 11:15-12:45",
+        "W 12:45-14:15",
+        "F 12:15-14:15",
+        "\"1 203-NYC-05 Waves, Light and Modern Physics\"",
+        "\"Dayon, Matthieu\"",
+        "M 16:15-17:45",
+        "W 16:15-17:45",
+        "F 12:15-14:15"
+      ]
+    },
+    {
+      "key": 72,
+      "section": 1,
+      "ID": "101-LCU-05",
+      "name": "General Biology II",
+      "teacher": "Colatriano, David",
+      "classes": [
+        "T 08:15-09:45",
+        "H 08:15-09:45",
+        "F 08:15-10:15"
+      ]
+    },
+    {
+      "key": 73,
+      "section": 2,
+      "ID": "101-LCU-05",
+      "name": "General Biology II",
+      "teacher": "D'Abramo, Claudia",
+      "classes": [
+        "M 08:15-09:45",
+        "W 08:15-09:45",
+        "F 14:15-16:15"
+      ]
+    },
+    {
+      "key": 74,
+      "section": 3,
+      "ID": "101-LCU-05",
+      "name": "General Biology II",
+      "teacher": "TBA",
+      "classes": [
+        "T 16:15-17:45",
+        "H 16:15-17:45",
+        "F 10:15-12:15"
+      ]
+    },
+    {
+      "key": 75,
+      "section": 71,
+      "ID": "101-LCU-05",
+      "name": "General Biology II",
+      "teacher": "Daly, Stewart",
+      "classes": [
+        "T 11:15-12:45",
+        "W 12:45-14:15",
+        "F 12:15-14:15"
+      ]
+    },
+    {
+      "key": 76,
+      "section": 1,
+      "ID": "101-LCV-05",
+      "name": "Human Physiology",
+      "teacher": "Barrie, Christine",
+      "classes": [
+        "M 14:15-16:15",
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 77,
+      "section": 2,
+      "ID": "101-LCV-05",
+      "name": "Human Physiology",
+      "teacher": "Brunet, Stephanie",
+      "classes": [
+        "M 12:15-14:15",
+        "W 11:15-12:45",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 78,
+      "section": 3,
+      "ID": "101-LCV-05",
+      "name": "Human Physiology",
+      "teacher": "Di Flumeri, Celestino",
+      "classes": [
+        "M 10:15-12:15",
+        "W 12:45-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 79,
+      "section": 4,
+      "ID": "101-LCV-05",
+      "name": "Human Physiology",
+      "teacher": "Saumier, Michèle",
+      "classes": [
+        "M 08:15-10:15",
+        "T 08:15-09:45",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 80,
+      "section": 5,
+      "ID": "101-LCV-05",
+      "name": "Human Physiology",
+      "teacher": "Saumier, Michèle",
+      "classes": [
+        "T 10:45-12:45",
+        "W 14:15-15:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 81,
+      "section": 1,
+      "ID": "101-LCW-MS",
+      "name": "Molecular Genetics",
+      "teacher": "Brunet, Stephanie",
+      "classes": [
+        "M 08:15-09:45",
+        "W 08:15-09:45",
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 82,
+      "section": 1,
+      "ID": "201-LCT-MS",
+      "name": "Topics in Advanced Mathematics",
+      "teacher": "Hamel, Mariah",
+      "classes": [
+        "M 14:15-15:45",
+        "W 12:15-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 83,
+      "section": 1,
+      "ID": "201-LCU-05",
+      "name": "Calculus III",
+      "teacher": "Egan, Matthew",
+      "classes": [
+        "T 11:15-12:45",
+        "W 14:15-16:15",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 84,
+      "section": 2,
+      "ID": "201-LCU-05",
+      "name": "Calculus III",
+      "teacher": "Lemelin, Dominic",
+      "classes": [
+        "M 11:15-12:45",
+        "T 14:15-16:15",
+        "H 14:15-15:45"
+      ]
+    },
+    {
+      "key": 85,
+      "section": 1,
+      "ID": "201-LCV-05",
+      "name": "Linear Algebra II",
+      "teacher": "Godin, Veronique",
+      "classes": [
+        "M 08:15-09:45",
+        "W 08:15-09:45",
+        "F 14:15-16:15"
+      ]
+    },
+    {
+      "key": 86,
+      "section": 1,
+      "ID": "201-LCW-05",
+      "name": "Probability and Statistics",
+      "teacher": "Charette, François",
+      "classes": [
+        "M 12:45-14:15",
+        "T 16:15-18:15",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 87,
+      "section": 1,
+      "ID": "201-LCY-05",
+      "name": "Finite Mathematics",
+      "teacher": "Deslandes, Jean-François",
+      "classes": [
+        "M 11:15-12:45",
+        "T 14:15-16:15",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "key": 88,
+      "section": 1,
+      "ID": "202-LCU-05",
+      "name": "Organic Chemistry I",
+      "teacher": "Butt, Roby",
+      "classes": [
+        "T 16:15-17:45",
+        "H 16:15-17:45",
+        "F 10:15-12:15"
+      ]
+    },
+    {
+      "key": 89,
+      "section": 2,
+      "ID": "202-LCU-05",
+      "name": "Organic Chemistry I",
+      "teacher": "Daly, Stewart",
+      "classes": [
+        "M 11:15-12:45",
+        "W 10:15-12:15",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "key": 90,
+      "section": 3,
+      "ID": "202-LCU-05",
+      "name": "Organic Chemistry I",
+      "teacher": "Daly, Stewart",
+      "classes": [
+        "M 14:15-16:15",
+        "T 08:15-09:45",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 91,
+      "section": 4,
+      "ID": "202-LCU-05",
+      "name": "Organic Chemistry I",
+      "teacher": "Halab, Liliane",
+      "classes": [
+        "M 14:15-15:45",
+        "W 12:45-14:15",
+        "H 10:45-12:45"
+      ]
+    },
+    {
+      "key": 92,
+      "section": 5,
+      "ID": "202-LCU-05",
+      "name": "Organic Chemistry I",
+      "teacher": "Gallant, Pascal",
+      "classes": [
+        "T 09:45-11:15",
+        "W 14:15-16:15",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 93,
+      "section": 6,
+      "ID": "202-LCU-05",
+      "name": "Organic Chemistry I",
+      "teacher": "Keane, Angela",
+      "classes": [
+        "T 10:45-12:45",
+        "W 16:15-17:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 94,
+      "section": 7,
+      "ID": "202-LCU-05",
+      "name": "Organic Chemistry I",
+      "teacher": "Li, Jason",
+      "classes": [
+        "M 16:15-17:45",
+        "T 14:15-16:15",
+        "H 14:15-15:45"
+      ]
+    },
+    {
+      "key": 95,
+      "section": 1,
+      "ID": "203-LCV-05",
+      "name": "Digital Electronics",
+      "teacher": "Paradis, Dominique",
+      "classes": [
+        "M 16:15-17:45",
+        "W 16:15-17:45",
+        "H 16:15-18:15"
+      ]
+    },
+    {
+      "key": 96,
+      "section": 1,
+      "ID": "203-LCW-05",
+      "name": "Astrophysics",
+      "teacher": "Paradis, Dominique",
+      "classes": [
+        "M 14:15-15:45",
+        "W 12:15-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 97,
+      "section": 1,
+      "ID": "420-LCU-05",
+      "name": "Computer Programming",
+      "teacher": "Hilal, Samia",
+      "classes": [
+        "M 14:15-16:15",
+        "H 11:15-12:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 98,
+      "section": 2,
+      "ID": "420-LCU-05",
+      "name": "Computer Programming",
+      "teacher": "Hilal, Samia",
+      "classes": [
+        "M 10:15-12:15",
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 99,
+      "section": 3,
+      "ID": "420-LCU-05",
+      "name": "Computer Programming",
+      "teacher": "TBA",
+      "classes": [
+        "T 10:45-12:45",
+        "W 11:15-12:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 100,
+      "section": 1,
+      "ID": "420-LCV-05",
+      "name": "Technical Drawing",
+      "teacher": "Vincent, Robert",
+      "classes": [
+        "T 08:15-09:45",
+        "H 11:15-12:45",
+        "F 08:15-10:15"
+      ]
+    },
+    {
+      "key": 101,
+      "section": 2,
+      "ID": "420-LCW-MS",
+      "name": "Programming Techniques and Applications",
+      "teacher": "Vincent, Robert",
+      "classes": [
+        "M 09:45-11:15",
+        "W 09:45-11:15",
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 102,
+      "section": 1,
+      "ID": "603-101-MQ",
+      "name": "Introduction to College English",
+      "teacher": "Pedersen, Susan",
+      "classes": [
+        "M 08:15-10:15",
+        "W 08:15-10:15",
+        "\"1 603-102-MQ Novels of Nature, the Environment, and the Ecological Imagination\"",
+        "\"Fleming, David\"",
+        "T 10:15-12:15",
+        "F 10:15-12:15"
+      ]
+    },
+    {
+      "key": 103,
+      "section": 2,
+      "ID": "603-102-MQ",
+      "name": "Folk and Fairy Tales",
+      "teacher": "Arnot, Elizabeth",
+      "classes": [
+        "M 16:15-18:15",
+        "W 16:15-18:15"
+      ]
+    },
+    {
+      "key": 104,
+      "section": 3,
+      "ID": "603-102-MQ",
+      "name": "Comics as Literature",
+      "teacher": "Carrier, Nicolas",
+      "classes": [
+        "T 16:15-18:15",
+        "H 16:15-18:15"
+      ]
+    },
+    {
+      "key": 105,
+      "section": 4,
+      "ID": "603-102-MQ",
+      "name": "Magic Realism",
+      "teacher": "Dubé, Peter",
+      "classes": [
+        "M 16:15-18:15",
+        "W 16:15-18:15"
+      ]
+    },
+    {
+      "key": 106,
+      "section": 5,
+      "ID": "603-102-MQ",
+      "name": "The Origins and Innovations of the Short Story",
+      "teacher": "MacDonald, John",
+      "classes": [
+        "M 14:15-16:15",
+        "H 10:45-12:45"
+      ]
+    },
+    {
+      "key": 107,
+      "section": 6,
+      "ID": "603-102-MQ",
+      "name": "The Origins and Innovations of the Short Story",
+      "teacher": "MacDonald, John",
+      "classes": [
+        "T 14:15-16:15",
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 108,
+      "section": 7,
+      "ID": "603-102-MQ",
+      "name": "Gothic Fiction",
+      "teacher": "Huffels, Natalie",
+      "classes": [
+        "T 16:15-18:15",
+        "H 16:15-18:15"
+      ]
+    },
+    {
+      "key": 109,
+      "section": 8,
+      "ID": "603-102-MQ",
+      "name": "Gothic Fiction",
+      "teacher": "Huffels, Natalie",
+      "classes": [
+        "W 14:15-16:15",
+        "F 14:15-16:15"
+      ]
+    },
+    {
+      "key": 110,
+      "section": 11,
+      "ID": "603-102-MQ",
+      "name": "Arthurian Legends: The Medieval Romance Tradition",
+      "teacher": "Fitz-James, Megan",
+      "classes": [
+        "T 08:15-10:15",
+        "F 08:15-10:15"
+      ]
+    },
+    {
+      "key": 111,
+      "section": 12,
+      "ID": "603-102-MQ",
+      "name": "Philosophical Approaches to The Teleplay",
+      "teacher": "McCambridge, Andrew",
+      "classes": [
+        "T 08:15-10:15",
+        "F 08:15-10:15"
+      ]
+    },
+    {
+      "key": 112,
+      "section": 13,
+      "ID": "603-102-MQ",
+      "name": "Short Fiction",
+      "teacher": "Newell, Megan",
+      "classes": [
+        "M 08:15-10:15",
+        "W 08:15-10:15"
+      ]
+    },
+    {
+      "key": 113,
+      "section": 14,
+      "ID": "603-102-MQ",
+      "name": "Short Fiction",
+      "teacher": "Newell, Megan",
+      "classes": [
+        "M 10:15-12:15",
+        "W 10:15-12:15"
+      ]
+    },
+    {
+      "key": 114,
+      "section": 15,
+      "ID": "603-102-MQ",
+      "name": "The American Short Story",
+      "teacher": "Pedersen, Susan",
+      "classes": [
+        "M 12:15-14:15",
+        "H 08:15-10:15"
+      ]
+    },
+    {
+      "key": 115,
+      "section": 16,
+      "ID": "603-102-MQ",
+      "name": "The American Short Story",
+      "teacher": "Pedersen, Susan",
+      "classes": [
+        "W 12:15-14:15",
+        "F 12:15-14:15",
+        "\"18 603-102-MQ History, Truth and Fiction\"",
+        "\"Berdichevsky, Leon\"",
+        "T 10:15-12:15",
+        "F 10:15-12:15"
+      ]
+    },
+    {
+      "key": 116,
+      "section": 20,
+      "ID": "603-102-MQ",
+      "name": "Travel Writing as Genre",
+      "teacher": "Dann, Philip",
+      "classes": [
+        "M 12:15-14:15",
+        "H 08:15-10:15"
+      ]
+    },
+    {
+      "key": 117,
+      "section": 21,
+      "ID": "603-102-MQ",
+      "name": "Travel Writing as Genre",
+      "teacher": "Dann, Philip",
+      "classes": [
+        "T 10:15-12:15",
+        "F 10:15-12:15"
+      ]
+    },
+    {
+      "key": 118,
+      "section": 22,
+      "ID": "603-102-MQ",
+      "name": "The Social Novel",
+      "teacher": "Webster, Barry",
+      "classes": [
+        "M 14:15-16:15",
+        "H 10:45-12:45"
+      ]
+    },
+    {
+      "key": 119,
+      "section": 23,
+      "ID": "603-102-MQ",
+      "name": "Science Fiction",
+      "teacher": "Sheckler, Catherine",
+      "classes": [
+        "M 10:15-12:15",
+        "W 10:15-12:15"
+      ]
+    },
+    {
+      "key": 120,
+      "section": 25,
+      "ID": "603-102-MQ",
+      "name": "The Social Novel",
+      "teacher": "Webster, Barry",
+      "classes": [
+        "M 16:15-18:15",
+        "W 16:15-18:15",
+        "\"26 603-102-MQ Novels of Nature, the Environment, and the Ecological Imagination\"",
+        "\"Fleming, David\"",
+        "M 12:15-14:15",
+        "H 08:15-10:15"
+      ]
+    },
+    {
+      "key": 121,
+      "section": 27,
+      "ID": "603-102-MQ",
+      "name": "Folk and Fairy Tales",
+      "teacher": "Arnot, Elizabeth",
+      "classes": [
+        "W 14:15-16:15",
+        "F 14:15-16:15"
+      ]
+    },
+    {
+      "key": 122,
+      "section": 28,
+      "ID": "603-102-MQ",
+      "name": "Magic Realism",
+      "teacher": "Dubé, Peter",
+      "classes": [
+        "W 12:15-14:15",
+        "F 12:15-14:15"
+      ]
+    },
+    {
+      "key": 123,
+      "section": 29,
+      "ID": "603-102-MQ",
+      "name": "The Weird Tale",
+      "teacher": "Vann, Matthew",
+      "classes": [
+        "W 12:15-14:15",
+        "F 12:15-14:15"
+      ]
+    },
+    {
+      "key": 124,
+      "section": 3,
+      "ID": "603-102-MQ",
+      "name": "The Weird tale",
+      "teacher": "Vann, Matthew",
+      "classes": [
+        "T 14:15-16:15",
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 125,
+      "section": 31,
+      "ID": "603-102-MQ",
+      "name": "Shakespeare on Screen",
+      "teacher": "Morris, Blair",
+      "classes": [
+        "W 14:15-16:15",
+        "F 14:15-16:15"
+      ]
+    },
+    {
+      "key": 126,
+      "section": 71,
+      "ID": "603-102-MQ",
+      "name": "A&S AND LIBERAL ARTS - Literary Genres",
+      "teacher": "Vann, Matthew",
+      "classes": [
+        "M 08:15-10:15",
+        "W 08:15-10:15"
+      ]
+    },
+    {
+      "key": 127,
+      "section": 72,
+      "ID": "603-102-MQ",
+      "name": "A&S AND LIBERAL ARTS - Literary Genres",
+      "teacher": "Sheckler, Catherine",
+      "classes": [
+        "T 16:15-18:15",
+        "H 16:15-18:15"
+      ]
+    },
+    {
+      "key": 128,
+      "section": 1,
+      "ID": "603-103-MQ",
+      "name": "Shakespeare's Communities",
+      "teacher": "Morris, Blair",
+      "classes": [
+        "T 16:15-18:15",
+        "H 16:15-18:15"
+      ]
+    },
+    {
+      "key": 129,
+      "section": 71,
+      "ID": "603-704-MS",
+      "name": "A&S - English Adapted to Programs",
+      "teacher": "Berdichevsky, Leon",
+      "classes": [
+        "M 08:15-10:15",
+        "W 08:15-10:15"
+      ]
+    },
+    {
+      "key": 130,
+      "section": 72,
+      "ID": "603-704-MS",
+      "name": "A&S - English Adapted to Programs",
+      "teacher": "Dubé, Peter",
+      "classes": [
+        "T 16:15-18:15",
+        "H 16:15-18:15"
+      ]
+    },
+    {
+      "key": 131,
+      "section": 1,
+      "ID": "603-LPE-MS",
+      "name": "Creative Nonfiction: Writing (True) Stories",
+      "teacher": "Walser, Sabine",
+      "classes": [
+        "W 14:15-16:15",
+        "F 14:15-16:15"
+      ]
+    },
+    {
+      "key": 132,
+      "section": 2,
+      "ID": "603-LPE-MS",
+      "name": "Business Communication",
+      "teacher": "Burton, Andrew",
+      "classes": [
+        "M 16:15-18:15",
+        "W 16:15-18:15"
+      ]
+    },
+    {
+      "key": 133,
+      "section": 3,
+      "ID": "603-LPE-MS",
+      "name": "Business Communication",
+      "teacher": "Burton, Andrew",
+      "classes": [
+        "W 14:15-16:15",
+        "F 14:15-16:15"
+      ]
+    },
+    {
+      "key": 134,
+      "section": 4,
+      "ID": "603-LPE-MS",
+      "name": "The Power of Representation",
+      "teacher": "Carrier, Nicolas",
+      "classes": [
+        "W 12:15-14:15",
+        "F 12:15-14:15"
+      ]
+    },
+    {
+      "key": 135,
+      "section": 5,
+      "ID": "603-LPE-MS",
+      "name": "The Power of Representation",
+      "teacher": "Carrier, Nicolas",
+      "classes": [
+        "T 14:15-16:15",
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 136,
+      "section": 7,
+      "ID": "603-LPE-MS",
+      "name": "The Artist in Fiction and Non-Fiction",
+      "teacher": "MacDonald, John",
+      "classes": [
+        "M 16:15-18:15",
+        "W 16:15-18:15"
+      ]
+    },
+    {
+      "key": 137,
+      "section": 8,
+      "ID": "603-LPE-MS",
+      "name": "Writings and Writing about Food",
+      "teacher": "Khoo, Jun Ling",
+      "classes": [
+        "T 08:15-10:15",
+        "F 08:15-10:15"
+      ]
+    },
+    {
+      "key": 138,
+      "section": 9,
+      "ID": "603-LPE-MS",
+      "name": "Writings and Writing about Food",
+      "teacher": "Khoo, Jun Ling",
+      "classes": [
+        "M 10:15-12:15",
+        "W 10:15-12:15"
+      ]
+    },
+    {
+      "key": 139,
+      "section": 10,
+      "ID": "603-LPE-MS",
+      "name": "Gossip in Literature and Film",
+      "teacher": "King, Stephanie",
+      "classes": [
+        "T 08:15-10:15",
+        "F 08:15-10:15"
+      ]
+    },
+    {
+      "key": 140,
+      "section": 11,
+      "ID": "603-LPE-MS",
+      "name": "Gossip in Literature and Film",
+      "teacher": "King, Stephanie",
+      "classes": [
+        "W 12:15-14:15",
+        "F 12:15-14:15"
+      ]
+    },
+    {
+      "key": 141,
+      "section": 12,
+      "ID": "603-LPE-MS",
+      "name": "Law and Literature",
+      "teacher": "Fitz-James, Megan",
+      "classes": [
+        "M 12:15-14:15",
+        "H 08:15-10:15"
+      ]
+    },
+    {
+      "key": 142,
+      "section": 13,
+      "ID": "603-LPE-MS",
+      "name": "Literature and The Body",
+      "teacher": "Malott, Paul",
+      "classes": [
+        "M 12:15-14:15",
+        "H 08:15-10:15"
+      ]
+    },
+    {
+      "key": 143,
+      "section": 14,
+      "ID": "603-LPE-MS",
+      "name": "World Mythology and Critical Theory",
+      "teacher": "McCambridge, Andrew",
+      "classes": [
+        "M 10:15-12:15",
+        "W 10:15-12:15"
+      ]
+    },
+    {
+      "key": 144,
+      "section": 15,
+      "ID": "603-LPE-MS",
+      "name": "World Mythology and Critical Theory",
+      "teacher": "McCambridge, Andrew",
+      "classes": [
+        "M 14:15-16:15",
+        "H 10:45-12:45"
+      ]
+    },
+    {
+      "key": 145,
+      "section": 16,
+      "ID": "603-LPE-MS",
+      "name": "Creative Nonfiction: Writing (True) Stories",
+      "teacher": "Walser, Sabine",
+      "classes": [
+        "M 16:15-18:15",
+        "W 16:15-18:15"
+      ]
+    },
+    {
+      "key": 146,
+      "section": 17,
+      "ID": "603-LPE-MS",
+      "name": "American Nature Writing",
+      "teacher": "Fleming, David",
+      "classes": [
+        "M 08:15-10:15",
+        "W 08:15-10:15"
+      ]
+    },
+    {
+      "key": 147,
+      "section": 18,
+      "ID": "603-LPE-MS",
+      "name": "Literature and Religion",
+      "teacher": "Webster, Barry",
+      "classes": [
+        "T 10:15-12:15",
+        "F 10:15-12:15"
+      ]
+    },
+    {
+      "key": 148,
+      "section": 19,
+      "ID": "603-LPE-MS",
+      "name": "Creative Writing",
+      "teacher": "Scheckler, Kate",
+      "classes": [
+        "W 14:15-16:15",
+        "F 14:15-16:15"
+      ]
+    },
+    {
+      "key": 149,
+      "section": 22,
+      "ID": "603-LPE-MS",
+      "name": "Shakespeare over Time",
+      "teacher": "Morris, Blair",
+      "classes": [
+        "T 14:15-16:15",
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 150,
+      "section": 23,
+      "ID": "603-LPE-MS",
+      "name": "Eroticism in Poetry",
+      "teacher": "Ralickas, Vivian",
+      "classes": [
+        "T 16:15-18:15",
+        "H 16:15-18:15"
+      ]
+    },
+    {
+      "key": 151,
+      "section": 24,
+      "ID": "603-LPE-MS",
+      "name": "Eroticism in Poetry",
+      "teacher": "Ralickas, Vivian",
+      "classes": [
+        "M 14:15-16:15",
+        "H 10:45-12:45"
+      ]
+    },
+    {
+      "key": 152,
+      "section": 25,
+      "ID": "603-LPE-MS",
+      "name": "Literature and Theory",
+      "teacher": "Huffels, Natalie",
+      "classes": [
+        "T 14:15-16:15",
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 153,
+      "section": 26,
+      "ID": "603-LPE-MS",
+      "name": "Law and Literature",
+      "teacher": "Fitz-James, Megan",
+      "classes": [
+        "T 10:15-12:15",
+        "F 10:15-12:15"
+      ]
+    },
+    {
+      "key": 154,
+      "section": 71,
+      "ID": "603-LPE-MS",
+      "name": "LIBERAL ARTS - English Adapted to Programs",
+      "teacher": "Berdichevsky, Leon",
+      "classes": [
+        "M 08:15-10:15",
+        "W 08:15-10:15"
+      ]
+    },
+    {
+      "key": 155,
+      "section": 72,
+      "ID": "603-LPE-MS",
+      "name": "LIBERAL ARTS - English Adapted to Programs",
+      "teacher": "Dubé, Peter",
+      "classes": [
+        "T 16:15-18:15",
+        "H 16:15-18:15"
+      ]
+    },
+    {
+      "key": 156,
+      "section": 1,
+      "ID": "345-101-MQ",
+      "name": "Why Rome?",
+      "teacher": "Levine, Rachel",
+      "classes": [
+        "M 16:15-18:15",
+        "W 16:15-18:15"
+      ]
+    },
+    {
+      "key": 157,
+      "section": 3,
+      "ID": "345-101-MQ",
+      "name": "The Practice of Everyday Life",
+      "teacher": "Koutsoyannis, Sophia",
+      "classes": [
+        "W 14:15-16:15",
+        "F 14:15-16:15"
+      ]
+    },
+    {
+      "key": 158,
+      "section": 4,
+      "ID": "345-101-MQ",
+      "name": "The Practice of Everyday Life",
+      "teacher": "Koutsoyannis, Sophia",
+      "classes": [
+        "M 12:15-14:15",
+        "H 08:15-10:15"
+      ]
+    },
+    {
+      "key": 159,
+      "section": 5,
+      "ID": "345-101-MQ",
+      "name": "Modernity and Consumer Culture",
+      "teacher": "Sumner, Lisa",
+      "classes": [
+        "T 08:15-10:15",
+        "F 08:15-10:15"
+      ]
+    },
+    {
+      "key": 160,
+      "section": 6,
+      "ID": "345-101-MQ",
+      "name": "Understanding Canadian Society through the Arts",
+      "teacher": "Khatchadourian, Annie",
+      "classes": [
+        "M 10:15-12:15",
+        "W 10:15-12:15",
+        "\"7 345-101-MQ Sex, Science, and Society\"",
+        "\"Ponce, Veronica\"",
+        "T 16:15-18:15",
+        "H 16:15-18:15"
+      ]
+    },
+    {
+      "key": 161,
+      "section": 8,
+      "ID": "345-101-MQ",
+      "name": "Understanding Place",
+      "teacher": "Barbone, Patrizia",
+      "classes": [
+        "T 10:15-12:15",
+        "F 10:15-12:15"
+      ]
+    },
+    {
+      "key": 162,
+      "section": 9,
+      "ID": "345-101-MQ",
+      "name": "Understanding Place",
+      "teacher": "Barbone, Patrizia",
+      "classes": [
+        "M 08:15-10:15",
+        "W 08:15-10:15"
+      ]
+    },
+    {
+      "key": 163,
+      "section": 91,
+      "ID": "345-101-MQ",
+      "name": "Medieval Knowledge",
+      "teacher": "Levine, Rachel",
+      "classes": [
+        "T 14:15-16:15",
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 164,
+      "section": 71,
+      "ID": "345-701-MS",
+      "name": "A&S ONLY - Knowledge & Integration - Science and Society",
+      "teacher": "Richardson, Wendy",
+      "classes": [
+        "M 12:45-14:15",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 165,
+      "section": 72,
+      "ID": "345-701-MS",
+      "name": "A&S ONLY - Knowledge & Integration - Science and Society",
+      "teacher": "Richardson, Wendy",
+      "classes": [
+        "W 12:45-14:15",
+        "F 12:45-14:15",
+        "\"1 345-102-MQ Strangers, Gods and Monsters\"",
+        "\"Sasson, Vanessa\"",
+        "T 08:15-09:45",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 166,
+      "section": 2,
+      "ID": "345-102-MQ",
+      "name": "Believers and Non-Believers",
+      "teacher": "Miceli, Calogero",
+      "classes": [
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 167,
+      "section": 3,
+      "ID": "345-102-MQ",
+      "name": "Beyond Bollywood",
+      "teacher": "Chew, Dolores",
+      "classes": [
+        "T 08:15-09:45",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 168,
+      "section": 4,
+      "ID": "345-102-MQ",
+      "name": "Indigenous Cultures in Canada",
+      "teacher": "Khatchadourian, Annie",
+      "classes": [
+        "W 14:15-15:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 169,
+      "section": 5,
+      "ID": "345-102-MQ",
+      "name": "Art and Culture of the Ancient Americas",
+      "teacher": "Cerrolaza, Elena",
+      "classes": [
+        "M 08:15-09:45",
+        "W 08:15-09:45"
+      ]
+    },
+    {
+      "key": 170,
+      "section": 6,
+      "ID": "345-102-MQ",
+      "name": "Art and Culture of the Ancient Americas",
+      "teacher": "Cerrolaza, Elena",
+      "classes": [
+        "M 12:45-14:15",
+        "H 09:45-11:15",
+        "\"7 345-102-MQ Demons, Saints and Angels\"",
+        "\"Koumouzelis, Angelique\"",
+        "T 14:15-15:45",
+        "H 14:15-15:45"
+      ]
+    },
+    {
+      "key": 171,
+      "section": 8,
+      "ID": "345-102-MQ",
+      "name": "XY Vision: How Gender Shapes our World",
+      "teacher": "Brand, Sarah",
+      "classes": [
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 172,
+      "section": 9,
+      "ID": "345-102-MQ",
+      "name": "Utopian Dreamers",
+      "teacher": "Sumner, Lisa",
+      "classes": [
+        "M 14:15-15:45",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 173,
+      "section": 10,
+      "ID": "345-102-MQ",
+      "name": "Utopian Dreamers",
+      "teacher": "Sumner, Lisa",
+      "classes": [
+        "M 09:45-11:15",
+        "W 09:45-11:15"
+      ]
+    },
+    {
+      "key": 174,
+      "section": 11,
+      "ID": "345-102-MQ",
+      "name": "African Worldviews through the Arts",
+      "teacher": "Lortie, Marie",
+      "classes": [
+        "M 14:15-15:45",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 175,
+      "section": 12,
+      "ID": "345-102-MQ",
+      "name": "African Worldviews through the Arts",
+      "teacher": "Lortie, Marie",
+      "classes": [
+        "W 12:45-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 176,
+      "section": 13,
+      "ID": "345-102-MQ",
+      "name": "Believers and Non-Believers",
+      "teacher": "Miceli, Calogero",
+      "classes": [
+        "M 16:15-17:45",
+        "W 16:15-17:45"
+      ]
+    },
+    {
+      "key": 177,
+      "section": 14,
+      "ID": "345-102-MQ",
+      "name": "XY Vision: How Gender Shapes our World",
+      "teacher": "Brand, Sarah",
+      "classes": [
+        "T 11:15-12:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 178,
+      "section": 4,
+      "ID": "345-LPH-MS",
+      "name": "Global Religious Violence",
+      "teacher": "Miceli, Calogero",
+      "classes": [
+        "W 14:15-15:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 179,
+      "section": 5,
+      "ID": "345-LPH-MS",
+      "name": "Ethics and the Family",
+      "teacher": "Richardson, Wendy",
+      "classes": [
+        "T 08:15-09:45",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 180,
+      "section": 6,
+      "ID": "345-LPH-MS",
+      "name": "Ethics and the Family",
+      "teacher": "Richardson, Wendy",
+      "classes": [
+        "M 09:45-11:15",
+        "W 09:45-11:15"
+      ]
+    },
+    {
+      "key": 181,
+      "section": 7,
+      "ID": "345-LPH-MS",
+      "name": "Global Religious Violence",
+      "teacher": "Miceli, Calogero",
+      "classes": [
+        "T 14:15-15:45",
+        "H 14:15-15:45"
+      ]
+    },
+    {
+      "key": 182,
+      "section": 8,
+      "ID": "345-LPH-MS",
+      "name": "Just Progress? Ethics of Innovation",
+      "teacher": "Sumner, Lisa",
+      "classes": [
+        "T 11:15-12:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 183,
+      "section": 9,
+      "ID": "345-LPH-MS",
+      "name": "Biblical Sex",
+      "teacher": "Koumouzelis, Angelique",
+      "classes": [
+        "M 16:15-17:45",
+        "W 16:15-17:45"
+      ]
+    },
+    {
+      "key": 184,
+      "section": 10,
+      "ID": "345-LPH-MS",
+      "name": "Biblical Sex",
+      "teacher": "Koumouzelis, Angelique",
+      "classes": [
+        "M 14:15-15:45",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 185,
+      "section": 11,
+      "ID": "345-LPH-MS",
+      "name": "Ethics and Appropriation",
+      "teacher": "Lortie, Marie",
+      "classes": [
+        "M 16:15-17:45",
+        "W 16:15-17:45",
+        "\"12 345-LPH-MS Squaring the Circle: Ethics, Economics and the Environment\"",
+        "\"Hamel-Perron, Hugo\"",
+        "M 08:15-09:45",
+        "W 08:15-09:45"
+      ]
+    },
+    {
+      "key": 186,
+      "section": 13,
+      "ID": "345-LPH-MS",
+      "name": "Ethical Issues in Music",
+      "teacher": "Cawker, Hugh",
+      "classes": [
+        "M 09:45-11:15",
+        "W 09:45-11:15"
+      ]
+    },
+    {
+      "key": 187,
+      "section": 14,
+      "ID": "345-LPH-MS",
+      "name": "The Da Vinci Code: Fact and Fiction in Popular Culture",
+      "teacher": "Cerrolaza, Elena",
+      "classes": [
+        "T 09:45-11:15",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 188,
+      "section": 15,
+      "ID": "345-LPH-MS",
+      "name": "The Da Vinci Code: Fact and Fiction in Popular Culture",
+      "teacher": "Cerrolaza, Elena",
+      "classes": [
+        "W 12:45-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 189,
+      "section": 16,
+      "ID": "345-LPH-MS",
+      "name": "Popular Culture and Sexual Representation",
+      "teacher": "Hays, Matthew",
+      "classes": [
+        "T 16:15-17:45",
+        "H 16:15-17:45",
+        "\"17 345-LPH-MS Representation, Reporting and the Stories We Tell\"",
+        "\"Brand, Sarah\"",
+        "W 14:15-15:45",
+        "F 14:15-15:45",
+        "\"18 345-LPH-MS Representation, Reporting and the Stories We Tell\"",
+        "\"Brand, Sarah\"",
+        "M 14:15-15:45",
+        "H 11:15-12:45",
+        "\"19 345-LPH-MS Squaring the Circle: Ethics, Economics and the Environment\"",
+        "\"Hamel-Perron, Hugo\"",
+        "M 09:45-11:15",
+        "W 09:45-11:15"
+      ]
+    },
+    {
+      "key": 190,
+      "section": 71,
+      "ID": "345-LPH-MS",
+      "name": "Ethics of Globalization",
+      "teacher": "Dufour, Maurice",
+      "classes": [
+        "M 12:45-14:15",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 191,
+      "section": 72,
+      "ID": "345-LPH-MS",
+      "name": "Ethics of Globalization",
+      "teacher": "Dufour, Maurice",
+      "classes": [
+        "T 14:15-15:45",
+        "H 14:15-15:45"
+      ]
+    },
+    {
+      "key": 192,
+      "section": 91,
+      "ID": "345-LPH-MS",
+      "name": "Just and Unjust Wars",
+      "teacher": "Dufour, Maurice",
+      "classes": [
+        "T 11:15-12:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 193,
+      "section": 1,
+      "ID": "602-100-MQ",
+      "name": "Langue et expression I",
+      "teacher": "TBA",
+      "classes": [
+        "M 12:45-14:15",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 194,
+      "section": 2,
+      "ID": "602-100-MQ",
+      "name": "Langue et expression I",
+      "teacher": "TBA",
+      "classes": [
+        "W 12:45-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 195,
+      "section": 3,
+      "ID": "602-100-MQ",
+      "name": "Langue et expression I",
+      "teacher": "TBA",
+      "classes": [
+        "M 16:15-17:45",
+        "W 16:15-17:45"
+      ]
+    },
+    {
+      "key": 196,
+      "section": 1,
+      "ID": "602-LPW-MS",
+      "name": "Langue et expression II",
+      "teacher": "TBA",
+      "classes": [
+        "T 09:45-11:15",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 197,
+      "section": 1,
+      "ID": "602-101-MQ",
+      "name": "Langue et communication",
+      "teacher": "Jutras, Alexandre",
+      "classes": [
+        "T 08:15-09:45",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 198,
+      "section": 2,
+      "ID": "602-101-MQ",
+      "name": "Langue et communication",
+      "teacher": "Jutras, Alexandre",
+      "classes": [
+        "M 09:45-11:15",
+        "W 09:45-11:15"
+      ]
+    },
+    {
+      "key": 199,
+      "section": 3,
+      "ID": "602-101-MQ",
+      "name": "Langue et communication",
+      "teacher": "TBA",
+      "classes": [
+        "M 14:15-15:45",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 200,
+      "section": 4,
+      "ID": "602-101-MQ",
+      "name": "Langue et communication",
+      "teacher": "TBA",
+      "classes": [
+        "W 14:15-15:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 201,
+      "section": 5,
+      "ID": "602-101-MQ",
+      "name": "Langue et communication",
+      "teacher": "TBA",
+      "classes": [
+        "T 09:45-11:15",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 202,
+      "section": 6,
+      "ID": "602-101-MQ",
+      "name": "Langue et communication",
+      "teacher": "TBA",
+      "classes": [
+        "T 14:15-15:45",
+        "H 14:15-15:45"
+      ]
+    },
+    {
+      "key": 203,
+      "section": 1,
+      "ID": "602-LPX-MS",
+      "name": "Découvertes",
+      "teacher": "Gasse-Houle, Magali",
+      "classes": [
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 204,
+      "section": 2,
+      "ID": "602-LPX-MS",
+      "name": "Découvertes",
+      "teacher": "Gasse-Houle, Magali",
+      "classes": [
+        "W 14:15-15:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 205,
+      "section": 3,
+      "ID": "602-LPX-MS",
+      "name": "Découvertes",
+      "teacher": "Levasseur, Isabelle",
+      "classes": [
+        "M 11:15-12:45",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "key": 206,
+      "section": 4,
+      "ID": "602-LPX-MS",
+      "name": "Découvertes",
+      "teacher": "Levasseur, Isabelle",
+      "classes": [
+        "T 09:45-11:15",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 207,
+      "section": 1,
+      "ID": "602-102-MQ",
+      "name": "Langue française et culture",
+      "teacher": "Dupuis, Amélie",
+      "classes": [
+        "M 08:15-09:45",
+        "W 08:15-09:45"
+      ]
+    },
+    {
+      "key": 208,
+      "section": 2,
+      "ID": "602-102-MQ",
+      "name": "Langue française et culture",
+      "teacher": "Dupuis, Amélie",
+      "classes": [
+        "T 11:15-12:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 209,
+      "section": 3,
+      "ID": "602-102-MQ",
+      "name": "Langue française et culture",
+      "teacher": "TBA",
+      "classes": [
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 210,
+      "section": 1,
+      "ID": "602-LPY-MS",
+      "name": "Fictions",
+      "teacher": "Gasse-Houle, Magali",
+      "classes": [
+        "T 14:15-15:45",
+        "H 14:15-15:45"
+      ]
+    },
+    {
+      "key": 211,
+      "section": 2,
+      "ID": "602-LPY-MS",
+      "name": "Fictions",
+      "teacher": "Gasse-Houle, Magali",
+      "classes": [
+        "M 16:15-17:45",
+        "W 16:15-17:45"
+      ]
+    },
+    {
+      "key": 212,
+      "section": 3,
+      "ID": "602-LPY-MS",
+      "name": "Médias et cinéma",
+      "teacher": "Coutu-Perrault, Jérémi",
+      "classes": [
+        "M 12:45-14:15",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 213,
+      "section": 4,
+      "ID": "602-LPY-MS",
+      "name": "Médias et cinéma",
+      "teacher": "Coutu-Perrault, Jérémi",
+      "classes": [
+        "W 12:45-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 214,
+      "section": 5,
+      "ID": "602-LPY-MS",
+      "name": "Médias et cinéma",
+      "teacher": "Coutu-Perrault, Jérémi",
+      "classes": [
+        "M 09:45-11:15",
+        "W 09:45-11:15"
+      ]
+    },
+    {
+      "key": 215,
+      "section": 6,
+      "ID": "602-LPY-MS",
+      "name": "Médias et cinéma",
+      "teacher": "Coutu-Perrault, Jérémi",
+      "classes": [
+        "T 08:15-09:45",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 216,
+      "section": 1,
+      "ID": "602-LPZ-MS",
+      "name": "Science moderne",
+      "teacher": "Pagé, Sylvain",
+      "classes": [
+        "W 14:15-15:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 217,
+      "section": 2,
+      "ID": "602-LPZ-MS",
+      "name": "Science moderne",
+      "teacher": "Pagé, Sylvain",
+      "classes": [
+        "M 14:15-15:45",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 218,
+      "section": 3,
+      "ID": "602-LPZ-MS",
+      "name": "Science moderne",
+      "teacher": "Pagé, Sylvain",
+      "classes": [
+        "M 16:15-17:45",
+        "W 16:15-17:45"
+      ]
+    },
+    {
+      "key": 219,
+      "section": 4,
+      "ID": "602-LPZ-MS",
+      "name": "Science moderne",
+      "teacher": "Pagé, Sylvain",
+      "classes": [
+        "T 11:15-12:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 220,
+      "section": 5,
+      "ID": "602-LPZ-MS",
+      "name": "L'absurde dans la littérature",
+      "teacher": "Savescu, Olivia",
+      "classes": [
+        "M 08:15-09:45",
+        "W 08:15-09:45"
+      ]
+    },
+    {
+      "key": 221,
+      "section": 6,
+      "ID": "602-LPZ-MS",
+      "name": "L'absurde dans la littérature",
+      "teacher": "Savescu, Olivia",
+      "classes": [
+        "M 09:45-11:15",
+        "W 09:45-11:15"
+      ]
+    },
+    {
+      "key": 222,
+      "section": 7,
+      "ID": "602-LPZ-MS",
+      "name": "L'absurde dans la littérature",
+      "teacher": "Savescu, Olivia",
+      "classes": [
+        "T 09:45-11:15",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 223,
+      "section": 8,
+      "ID": "602-LPZ-MS",
+      "name": "L'absurde dans la littérature",
+      "teacher": "Savescu, Olivia",
+      "classes": [
+        "T 14:15-15:45",
+        "H 14:15-15:45"
+      ]
+    },
+    {
+      "key": 224,
+      "section": 9,
+      "ID": "602-LPZ-MS",
+      "name": "Écriture scénaristique",
+      "teacher": "Lariviere, Fanny",
+      "classes": [
+        "M 11:15-12:45",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "key": 225,
+      "section": 10,
+      "ID": "602-LPZ-MS",
+      "name": "Écriture scénaristique",
+      "teacher": "Lariviere, Fanny",
+      "classes": [
+        "T 08:15-09:45",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 226,
+      "section": 11,
+      "ID": "602-LPZ-MS",
+      "name": "Écriture scénaristique",
+      "teacher": "Lariviere, Fanny",
+      "classes": [
+        "W 12:45-14:15",
+        "F 12:45-14:15",
+        "\"1 602-F03-MS Renforcement en français, collégial\"",
+        "TBA",
+        "M 14:15-16:15",
+        "H 10:45-12:45",
+        "\"2 602-F03-MS Renforcement en français, collégial\"",
+        "TBA",
+        "T 16:15-18:15",
+        "H 16:15-18:15"
+      ]
+    },
+    {
+      "key": 227,
+      "section": 1,
+      "ID": "602-UF0-MQ",
+      "name": "Oeuvres narratives et écriture",
+      "teacher": "Levasseur, Isabelle",
+      "classes": [
+        "M 12:45-14:15",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 228,
+      "section": 2,
+      "ID": "602-UF0-MQ",
+      "name": "Oeuvres narratives et écriture",
+      "teacher": "TBA",
+      "classes": [
+        "W 11:15-12:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 229,
+      "section": 3,
+      "ID": "602-UF0-MQ",
+      "name": "Oeuvres narratives et écriture",
+      "teacher": "TBA",
+      "classes": [
+        "T 11:15-12:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 230,
+      "section": 1,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "Dupuis, Amélie",
+      "classes": [
+        "M 11:15-12:45",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "key": 231,
+      "section": 2,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "Dupuis, Amélie",
+      "classes": [
+        "T 09:45-11:15",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 232,
+      "section": 3,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "Coutu-Perrault, Jérémi",
+      "classes": [
+        "T 11:15-12:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 233,
+      "section": 4,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "Jutras, Alexandre",
+      "classes": [
+        "W 12:45-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 234,
+      "section": 5,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "Jutras, Alexandre",
+      "classes": [
+        "M 12:45-14:15",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 235,
+      "section": 6,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "Jutras, Alexandre",
+      "classes": [
+        "M 14:15-15:45",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 236,
+      "section": 7,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
+        "W 14:15-15:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 237,
+      "section": 8,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
+        "M 16:15-17:45",
+        "W 16:15-17:45"
+      ]
+    },
+    {
+      "key": 238,
+      "section": 9,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
+        "M 14:15-15:45",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 239,
+      "section": 10,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
+        "T 14:15-15:45",
+        "H 14:15-15:45"
+      ]
+    },
+    {
+      "key": 240,
+      "section": 11,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
+        "M 08:15-09:45",
+        "W 08:15-09:45"
+      ]
+    },
+    {
+      "key": 241,
+      "section": 12,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
+        "T 08:15-09:45",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 242,
+      "section": 13,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
+        "M 11:15-12:45",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "key": 243,
+      "section": 14,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
+        "W 12:45-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 244,
+      "section": 15,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 245,
+      "section": 16,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "TBA",
+      "classes": [
+        "M 09:45-11:15",
+        "W 09:45-11:15"
+      ]
+    },
+    {
+      "key": 246,
+      "section": 1,
+      "ID": "PRO-LAM",
+      "name": "Enhancing Computer Skills",
+      "teacher": "TBA",
+      "classes": [
+        "M 09:45-11:15",
+        "W 09:45-11:15"
+      ]
+    },
+    {
+      "key": 247,
+      "section": 2,
+      "ID": "PRO-LAM",
+      "name": "Enhancing Computer Skills",
+      "teacher": "TBA",
+      "classes": [
+        "M 09:45-11:15",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "key": 248,
+      "section": 3,
+      "ID": "PRO-LAM",
+      "name": "Enhancing Computer Skills",
+      "teacher": "TBA",
+      "classes": [
+        "M 09:45-11:15",
+        "W 14:15-15:45"
+      ]
+    },
+    {
+      "key": 249,
+      "section": 4,
+      "ID": "PRO-LAM",
+      "name": "Enhancing Computer Skills",
+      "teacher": "TBA",
+      "classes": [
+        "M 09:45-11:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 250,
+      "section": 5,
+      "ID": "PRO-LAM",
+      "name": "Enhancing Computer Skills",
+      "teacher": "TBA",
+      "classes": [
+        "M 11:15-12:45",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "key": 251,
+      "section": 6,
+      "ID": "PRO-LAM",
+      "name": "Enhancing Computer Skills",
+      "teacher": "TBA",
+      "classes": [
+        "M 11:15-12:45",
+        "W 09:45-11:15"
+      ]
+    },
+    {
+      "key": 252,
+      "section": 7,
+      "ID": "PRO-LAM",
+      "name": "Enhancing Computer Skills",
+      "teacher": "TBA",
+      "classes": [
+        "M 11:15-12:45",
+        "W 14:15-15:45"
+      ]
+    },
+    {
+      "key": 253,
+      "section": 8,
+      "ID": "PRO-LAM",
+      "name": "Enhancing Computer Skills",
+      "teacher": "TBA",
+      "classes": [
+        "M 11:15-12:45",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 254,
+      "section": 1,
+      "ID": "ARH-LAA-A1",
+      "name": "Medieval and Renaissance Art",
+      "teacher": "Spriggs, Megan",
+      "classes": [
+        "W 14:15-15:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 255,
+      "section": 2,
+      "ID": "ARH-LAA-A1",
+      "name": "Medieval and Renaissance Art",
+      "teacher": "Spriggs, Megan",
+      "classes": [
+        "T 11:15-12:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 256,
+      "section": 1,
+      "ID": "ARH-LAA-A2",
+      "name": "Ancient Art",
+      "teacher": "Levine, Rachel",
+      "classes": [
+        "M 12:45-14:15",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 257,
+      "section": 1,
+      "ID": "ARH-LBA",
+      "name": "Modern and Contemporary Art",
+      "teacher": "Khatchadourian, Annie",
+      "classes": [
+        "M 14:15-15:45",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 258,
+      "section": 1,
+      "ID": "ART-LAA-A1",
+      "name": "Introduction to Studio Art",
+      "teacher": "Brandl, Eva",
+      "classes": [
+        "T 08:15-11:15"
+      ]
+    },
+    {
+      "key": 259,
+      "section": 2,
+      "ID": "ART-LAA-A1",
+      "name": "Introduction to Studio Art",
+      "teacher": "TBA",
+      "classes": [
+        "W 14:15-17:15"
+      ]
+    },
+    {
+      "key": 260,
+      "section": 1,
+      "ID": "ART-LAA-A2",
+      "name": "Visual Expression: Aspects of Narrative",
+      "teacher": "Brandl, Eva",
+      "classes": [
+        "W 08:15-11:15"
+      ]
+    },
+    {
+      "key": 261,
+      "section": 1,
+      "ID": "ART-LBA-A1",
+      "name": "The Human Figure",
+      "teacher": "TBA",
+      "classes": [
+        "F 11:15-14:15"
+      ]
+    },
+    {
+      "key": 262,
+      "section": 1,
+      "ID": "ART-LBA-A2",
+      "name": "Drawing",
+      "teacher": "TBA",
+      "classes": [
+        "M 14:15-17:15"
+      ]
+    },
+    {
+      "key": 263,
+      "section": 1,
+      "ID": "CIN-LAA-A2",
+      "name": "History of cinema",
+      "teacher": "Hays, Matthew",
+      "classes": [
+        "F 11:15-14:15"
+      ]
+    },
+    {
+      "key": 264,
+      "section": 1,
+      "ID": "CIN-LBA-A1",
+      "name": "The Language of Film",
+      "teacher": "Hays, Matthew",
+      "classes": [
+        "W 14:15-17:15"
+      ]
+    },
+    {
+      "key": 265,
+      "section": 2,
+      "ID": "CIN-LBA-A1",
+      "name": "The Language of Film",
+      "teacher": "Hays, Matthew",
+      "classes": [
+        "M 14:15-17:15"
+      ]
+    },
+    {
+      "key": 266,
+      "section": 1,
+      "ID": "FLM-LBA",
+      "name": "Filmmaking Techniques",
+      "teacher": "Li, Han Han",
+      "classes": [
+        "F 08:15-11:15"
+      ]
+    },
+    {
+      "key": 267,
+      "section": 1,
+      "ID": "PHI-LBS-A1",
+      "name": "What is Justice?",
+      "teacher": "Ponce, Veronica",
+      "classes": [
+        "W 12:45-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 268,
+      "section": 1,
+      "ID": "REL-LBS-A1",
+      "name": "Eastern Religions",
+      "teacher": "Sasson, Vanessa",
+      "classes": [
+        "W 12:45-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 269,
+      "section": 1,
+      "ID": "REL-LBS-A3",
+      "name": "Topics in Religious Studies: Magic and Ritual",
+      "teacher": "Koumouzelis, Angelique",
+      "classes": [
+        "T 09:45-11:15",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 270,
+      "section": 1,
+      "ID": "AAA-LBQ-A1",
+      "name": "Digital Music Technologies",
+      "teacher": "McKay, Cory",
+      "classes": [
+        "W 11:15-12:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 271,
+      "section": 1,
+      "ID": "BUS-LBA-A1",
+      "name": "Introduction to Business",
+      "teacher": "De Stefano, Jacqueline",
+      "classes": [
+        "W 11:15-12:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 272,
+      "section": 2,
+      "ID": "BUS-LBA-A1",
+      "name": "Introduction to Business",
+      "teacher": "De Stefano, Jacqueline",
+      "classes": [
+        "T 09:45-11:15",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 273,
+      "section": 1,
+      "ID": "ECO-LBA-A1",
+      "name": "Introduction to Economics",
+      "teacher": "Thomas, Melecia",
+      "classes": [
+        "M 11:15-12:45",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "key": 274,
+      "section": 2,
+      "ID": "ECO-LBA-A1",
+      "name": "Introduction to Economics",
+      "teacher": "Thomas, Melecia",
+      "classes": [
+        "W 12:45-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 275,
+      "section": 1,
+      "ID": "POL-LBA-A1",
+      "name": "Introduction to World Politics",
+      "teacher": "Lee, Rebecca",
+      "classes": [
+        "M 14:15-15:45",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 276,
+      "section": 2,
+      "ID": "POL-LBA-A1",
+      "name": "Introduction to World Politics",
+      "teacher": "Lee, Rebecca",
+      "classes": [
+        "T 11:15-12:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 277,
+      "section": 1,
+      "ID": "PSY-LAA-A1",
+      "name": "Inside your mind: Explorations in Psychology",
+      "teacher": "Andrews, Julie",
+      "classes": [
+        "T 08:15-09:45",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 278,
+      "section": 2,
+      "ID": "PSY-LAA-A1",
+      "name": "Inside your mind: Explorations in Psychology",
+      "teacher": "Tobin, Stephanie",
+      "classes": [
+        "T 14:15-15:45",
+        "H 14:15-15:45"
+      ]
+    },
+    {
+      "key": 279,
+      "section": 1,
+      "ID": "ITA-LAA",
+      "name": "Italian I",
+      "teacher": "Vasquez, Javier",
+      "classes": [
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 280,
+      "section": 2,
+      "ID": "ITA-LAA",
+      "name": "Italian I",
+      "teacher": "Vasquez, Javier",
+      "classes": [
+        "T 14:15-15:45",
+        "H 14:15-15:45"
+      ]
+    },
+    {
+      "key": 281,
+      "section": 1,
+      "ID": "SPA-LAL",
+      "name": "Spanish I",
+      "teacher": "Vasquez, Javier",
+      "classes": [
+        "M 14:15-15:45",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 282,
+      "section": 2,
+      "ID": "SPA-LAL",
+      "name": "Spanish I",
+      "teacher": "Vasquez, Javier",
+      "classes": [
+        "M 16:15-17:45",
+        "W 16:15-17:45"
+      ]
+    },
+    {
+      "key": 283,
+      "section": 3,
+      "ID": "SPA-LAL",
+      "name": "Spanish I",
+      "teacher": "Vasquez, Javier",
+      "classes": [
+        "W 14:15-15:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 284,
+      "section": 1,
+      "ID": "109-101-MQ",
+      "name": "Fit/ Combatives",
+      "teacher": "Bellevue-Fortin, Nicolas",
+      "classes": [
+        "M 12:15-14:15"
+      ]
+    },
+    {
+      "key": 285,
+      "section": 2,
+      "ID": "109-101-MQ",
+      "name": "Fit/ Combatives",
+      "teacher": "Bellevue-Fortin, Nicolas",
+      "classes": [
+        "W 14:15-16:15"
+      ]
+    },
+    {
+      "key": 286,
+      "section": 3,
+      "ID": "109-101-MQ",
+      "name": "Fit/Barre",
+      "teacher": "McDonald, Shelly",
+      "classes": [
+        "F 14:15-16:15"
+      ]
+    },
+    {
+      "key": 287,
+      "section": 4,
+      "ID": "109-101-MQ",
+      "name": "Fit/Barre",
+      "teacher": "McDonald, Shelly",
+      "classes": [
+        "W 16:15-18:15"
+      ]
+    },
+    {
+      "key": 288,
+      "section": 5,
+      "ID": "109-101-MQ",
+      "name": "Fitness",
+      "teacher": "McDonald, Shelly",
+      "classes": [
+        "M 16:15-18:15"
+      ]
+    },
+    {
+      "key": 289,
+      "section": 6,
+      "ID": "109-101-MQ",
+      "name": "Fitness",
+      "teacher": "McDonald, Shelly",
+      "classes": [
+        "T 16:15-18:15"
+      ]
+    },
+    {
+      "key": 290,
+      "section": 7,
+      "ID": "109-101-MQ",
+      "name": "Fit/ Games",
+      "teacher": "Scrase, Julia",
+      "classes": [
+        "T 10:15-12:15"
+      ]
+    },
+    {
+      "key": 291,
+      "section": 8,
+      "ID": "109-101-MQ",
+      "name": "Fit/ Games",
+      "teacher": "Scrase, Julia",
+      "classes": [
+        "W 12:15-14:15"
+      ]
+    },
+    {
+      "key": 292,
+      "section": 9,
+      "ID": "109-101-MQ",
+      "name": "Fitness",
+      "teacher": "Scrase, Julia",
+      "classes": [
+        "W 10:15-12:15"
+      ]
+    },
+    {
+      "key": 293,
+      "section": 10,
+      "ID": "109-101-MQ",
+      "name": "Fitness",
+      "teacher": "Scrase, Julia",
+      "classes": [
+        "T 08:15-10:15"
+      ]
+    },
+    {
+      "key": 294,
+      "section": 11,
+      "ID": "109-101-MQ",
+      "name": "Fit/Yoga",
+      "teacher": "Tipney, Laura",
+      "classes": [
+        "F 12:15-14:15"
+      ]
+    },
+    {
+      "key": 295,
+      "section": 12,
+      "ID": "109-101-MQ",
+      "name": "Fit/Yoga",
+      "teacher": "Tipney, Laura",
+      "classes": [
+        "M 10:15-12:15"
+      ]
+    },
+    {
+      "key": 296,
+      "section": 13,
+      "ID": "109-101-MQ",
+      "name": "Fit/Yoga",
+      "teacher": "Tipney, Laura",
+      "classes": [
+        "M 08:15-10:15"
+      ]
+    },
+    {
+      "key": 297,
+      "section": 14,
+      "ID": "109-101-MQ",
+      "name": "Fitness",
+      "teacher": "Tipney, Laura",
+      "classes": [
+        "W 08:15-10:15"
+      ]
+    },
+    {
+      "key": 298,
+      "section": 15,
+      "ID": "109-101-MQ",
+      "name": "Fitness",
+      "teacher": "Tipney, Laura",
+      "classes": [
+        "W 10:15-12:15"
+      ]
+    },
+    {
+      "key": 299,
+      "section": 16,
+      "ID": "109-101-MQ",
+      "name": "Fit/ Games",
+      "teacher": "Epstein, Neall",
+      "classes": [
+        "H 16:15-18:15"
+      ]
+    },
+    {
+      "key": 300,
+      "section": 17,
+      "ID": "109-101-MQ",
+      "name": "Fitness",
+      "teacher": "Dafniotis, Zoe",
+      "classes": [
+        "M 14:15-16:15"
+      ]
+    },
+    {
+      "key": 301,
+      "section": 18,
+      "ID": "109-101-MQ",
+      "name": "Fitness",
+      "teacher": "Dafniotis, Zoe",
+      "classes": [
+        "T 14:15-16:15"
+      ]
+    },
+    {
+      "key": 302,
+      "section": 19,
+      "ID": "109-101-MQ",
+      "name": "Fitness",
+      "teacher": "Dafniotis, Zoe",
+      "classes": [
+        "H 08:15-10:15"
+      ]
+    },
+    {
+      "key": 303,
+      "section": 20,
+      "ID": "109-101-MQ",
+      "name": "Fitness",
+      "teacher": "Perron, Josee",
+      "classes": [
+        "F 10:15-12:15"
+      ]
+    },
+    {
+      "key": 304,
+      "section": 21,
+      "ID": "109-101-MQ",
+      "name": "Fitness",
+      "teacher": "Perron, Josee",
+      "classes": [
+        "F 08:15-10:15"
+      ]
+    },
+    {
+      "key": 305,
+      "section": 22,
+      "ID": "109-101-MQ",
+      "name": "Fitness",
+      "teacher": "Perron, Josee",
+      "classes": [
+        "H 10:15-12:15"
+      ]
+    },
+    {
+      "key": 306,
+      "section": 1,
+      "ID": "109-102-MQ",
+      "name": "Badminton",
+      "teacher": "Vachon-Gee, Alexandre",
+      "classes": [
+        "W 08:15-10:15"
+      ]
+    },
+    {
+      "key": 307,
+      "section": 2,
+      "ID": "109-102-MQ",
+      "name": "Badminton",
+      "teacher": "Vachon-Gee, Alexandre",
+      "classes": [
+        "M 10:15-12:15"
+      ]
+    },
+    {
+      "key": 308,
+      "section": 3,
+      "ID": "109-102-MQ",
+      "name": "Badminton",
+      "teacher": "Vachon-Gee, Alexandre",
+      "classes": [
+        "W 10:15-12:15"
+      ]
+    },
+    {
+      "key": 309,
+      "section": 4,
+      "ID": "109-102-MQ",
+      "name": "Cross-Country Skiing - INTENSIVE: See course description for full schedule",
+      "teacher": "Perron, Josee",
+      "classes": [
+        "W 16:15-18:15"
+      ]
+    },
+    {
+      "key": 310,
+      "section": 5,
+      "ID": "109-102-MQ",
+      "name": "Dance",
+      "teacher": "Dafniotis, Zoe",
+      "classes": [
+        "T 16:15-18:15"
+      ]
+    },
+    {
+      "key": 311,
+      "section": 6,
+      "ID": "109-102-MQ",
+      "name": "Dance",
+      "teacher": "Dafniotis, Zoe",
+      "classes": [
+        "M 16:15-18:15"
+      ]
+    },
+    {
+      "key": 312,
+      "section": 7,
+      "ID": "109-102-MQ",
+      "name": "Martial Arts",
+      "teacher": "Bellevue-Fortin, Nicolas",
+      "classes": [
+        "F 14:15-16:15"
+      ]
+    },
+    {
+      "key": 313,
+      "section": 8,
+      "ID": "109-102-MQ",
+      "name": "Martial Arts",
+      "teacher": "Bellevue-Fortin, Nicolas",
+      "classes": [
+        "F 12:15-14:15"
+      ]
+    },
+    {
+      "key": 314,
+      "section": 9,
+      "ID": "109-102-MQ",
+      "name": "Orienteering - INTENSIVE: See course description for full schedule",
+      "teacher": "Epstein, Neall",
+      "classes": [
+        "T 14:15-16:15"
+      ]
+    },
+    {
+      "key": 315,
+      "section": 10,
+      "ID": "109-102-MQ",
+      "name": "Ultimate",
+      "teacher": "Epstein, Neall",
+      "classes": [
+        "M 12:15-14:15"
+      ]
+    },
+    {
+      "key": 316,
+      "section": 11,
+      "ID": "109-102-MQ",
+      "name": "Ultimate",
+      "teacher": "Epstein, Neall",
+      "classes": [
+        "M 08:15-10:15"
+      ]
+    },
+    {
+      "key": 317,
+      "section": 12,
+      "ID": "109-102-MQ",
+      "name": "Basketball",
+      "teacher": "Rountree, Cody",
+      "classes": [
+        "T 14:15-16:15"
+      ]
+    },
+    {
+      "key": 318,
+      "section": 13,
+      "ID": "109-102-MQ",
+      "name": "Cross-Country Skiing - INTENSIVE: See course description for full schedule",
+      "teacher": "Rountree, Cody",
+      "classes": [
+        "W 16:15-18:15"
+      ]
+    },
+    {
+      "key": 319,
+      "section": 14,
+      "ID": "109-102-MQ",
+      "name": "Soccer",
+      "teacher": "Scrase, Julia",
+      "classes": [
+        "F 08:15-10:15"
+      ]
+    },
+    {
+      "key": 320,
+      "section": 15,
+      "ID": "109-102-MQ",
+      "name": "Soccer",
+      "teacher": "Scrase, Julia",
+      "classes": [
+        "H 10:15-12:15"
+      ]
+    },
+    {
+      "key": 321,
+      "section": 16,
+      "ID": "109-102-MQ",
+      "name": "Yoga",
+      "teacher": "Scrase, Julia",
+      "classes": [
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 322,
+      "section": 17,
+      "ID": "109-102-MQ",
+      "name": "Yoga",
+      "teacher": "Scrase, Julia",
+      "classes": [
+        "F 10:15-12:15"
+      ]
+    },
+    {
+      "key": 323,
+      "section": 1,
+      "ID": "109-103-MQ",
+      "name": "Weight Training",
+      "teacher": "Vachon-Gee, Alexandre",
+      "classes": [
+        "M 08:15-10:15"
+      ]
+    },
+    {
+      "key": 324,
+      "section": 2,
+      "ID": "109-103-MQ",
+      "name": "Cross Training",
+      "teacher": "Dafniotis, Zoe",
+      "classes": [
+        "H 10:15-12:15"
+      ]
+    },
+    {
+      "key": 325,
+      "section": 3,
+      "ID": "109-103-MQ",
+      "name": "Badminton",
+      "teacher": "Perron, Josee",
+      "classes": [
+        "H 08:15-10:15"
+      ]
+    },
+    {
+      "key": 326,
+      "section": 4,
+      "ID": "109-103-MQ",
+      "name": "Badminton",
+      "teacher": "Perron, Josee",
+      "classes": [
+        "M 14:15-16:15"
+      ]
+    },
+    {
+      "key": 327,
+      "section": 5,
+      "ID": "109-103-MQ",
+      "name": "Cross-Country Skiing - INTENSIVE: See course description for full schedule",
+      "teacher": "Perron, Josee",
+      "classes": [
+        "M 16:15-18:15"
+      ]
+    },
+    {
+      "key": 328,
+      "section": 6,
+      "ID": "109-103-MQ",
+      "name": "Jiujitsu",
+      "teacher": "Bellevue-Fortin, Nicolas",
+      "classes": [
+        "M 10:15-12:15"
+      ]
+    },
+    {
+      "key": 329,
+      "section": 7,
+      "ID": "109-103-MQ",
+      "name": "Jiujitsu",
+      "teacher": "Bellevue-Fortin, Nicolas",
+      "classes": [
+        "W 10:15-12:15"
+      ]
+    },
+    {
+      "key": 330,
+      "section": 8,
+      "ID": "109-103-MQ",
+      "name": "Power Yoga",
+      "teacher": "McDonald, Shelly",
+      "classes": [
+        "M 12:15-14:15"
+      ]
+    },
+    {
+      "key": 331,
+      "section": 9,
+      "ID": "109-103-MQ",
+      "name": "Power Yoga",
+      "teacher": "McDonald, Shelly",
+      "classes": [
+        "W 12:15-14:15"
+      ]
+    },
+    {
+      "key": 332,
+      "section": 10,
+      "ID": "109-103-MQ",
+      "name": "Weight Training",
+      "teacher": "McDonald, Shelly",
+      "classes": [
+        "T 14:15-16:15"
+      ]
+    },
+    {
+      "key": 333,
+      "section": 11,
+      "ID": "109-103-MQ",
+      "name": "Weight Training",
+      "teacher": "McDonald, Shelly",
+      "classes": [
+        "F 12:15-14:15"
+      ]
+    },
+    {
+      "key": 334,
+      "section": 12,
+      "ID": "109-103-MQ",
+      "name": "Stress Management",
+      "teacher": "Tipney, Laura",
+      "classes": [
+        "F 08:15-10:15"
+      ]
+    },
+    {
+      "key": 335,
+      "section": 13,
+      "ID": "109-103-MQ",
+      "name": "Stress Management",
+      "teacher": "Tipney, Laura",
+      "classes": [
+        "T 10:15-12:15"
+      ]
+    },
+    {
+      "key": 336,
+      "section": 14,
+      "ID": "109-103-MQ",
+      "name": "Soccer",
+      "teacher": "Tipney, Laura",
+      "classes": [
+        "T 08:15-10:15"
+      ]
+    },
+    {
+      "key": 337,
+      "section": 15,
+      "ID": "109-103-MQ",
+      "name": "Ultimate",
+      "teacher": "Epstein, Neall",
+      "classes": [
+        "W 16:15-18:15"
+      ]
+    },
+    {
+      "key": 338,
+      "section": 16,
+      "ID": "109-103-MQ",
+      "name": "Snowshoe Hikes - INTENSIVE: See course description for full schedule",
+      "teacher": "Epstein, Neall",
+      "classes": [
+        "T 16:15-18:15"
+      ]
+    },
+    {
+      "key": 339,
+      "section": 17,
+      "ID": "109-103-MQ",
+      "name": "Team Sports",
+      "teacher": "Epstein, Neall",
+      "classes": [
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 340,
+      "section": 18,
+      "ID": "109-103-MQ",
+      "name": "Team Sports",
+      "teacher": "Epstein, Neall",
+      "classes": [
+        "W 14:15-16:15"
+      ]
+    }
+  ]
+}

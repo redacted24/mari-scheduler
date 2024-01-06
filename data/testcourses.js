@@ -15,7 +15,7 @@ data.slice(1).forEach(line => {
     const ID = templines[0].split(' ')[1]
     const name = templines[0].split(' ').slice(2).join(' ')
     const classes = templines.slice(2)
-    key++
+    keynumber++
     let teacher = templines[1]
 
     if (teacher[0] === '"') {
@@ -23,7 +23,7 @@ data.slice(1).forEach(line => {
     }
 
     courses.push({
-      section, ID, name, teacher, classes
+      key, section, ID, name, teacher, classes
     })
 
     templines = [line]
