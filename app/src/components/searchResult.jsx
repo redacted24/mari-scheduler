@@ -12,7 +12,6 @@ const searchResult = ({search, courses}) => {
         )
     }
     else {
-        
         console.log(filteredCourses)
         return (
             <div>
