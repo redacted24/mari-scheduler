@@ -1,6 +1,7 @@
 {
   "courses": [
     {
+      "key": 1,
       "section": 1,
       "ID": "101-NYA-05",
       "name": "General Biology I",
@@ -12,6 +13,7 @@
       ]
     },
     {
+      "key": 2,
       "section": 2,
       "ID": "101-NYA-05",
       "name": "General Biology I",
@@ -23,6 +25,7 @@
       ]
     },
     {
+      "key": 3,
       "section": 3,
       "ID": "101-NYA-05",
       "name": "General Biology I",
@@ -34,6 +37,7 @@
       ]
     },
     {
+      "key": 4,
       "section": 4,
       "ID": "101-NYA-05",
       "name": "General Biology I",
@@ -45,6 +49,7 @@
       ]
     },
     {
+      "key": 5,
       "section": 5,
       "ID": "101-NYA-05",
       "name": "General Biology I",
@@ -56,6 +61,7 @@
       ]
     },
     {
+      "key": 6,
       "section": 6,
       "ID": "101-NYA-05",
       "name": "General Biology I",
@@ -67,6 +73,7 @@
       ]
     },
     {
+      "key": 7,
       "section": 7,
       "ID": "101-NYA-05",
       "name": "General Biology I",
@@ -78,6 +85,7 @@
       ]
     },
     {
+      "key": 8,
       "section": 21,
       "ID": "101-NYA-05",
       "name": "ENRICHED - General Biology I",
@@ -89,6 +97,7 @@
       ]
     },
     {
+      "key": 9,
       "section": 1,
       "ID": "201-NYA-05",
       "name": "Calculus I",
@@ -100,6 +109,7 @@
       ]
     },
     {
+      "key": 10,
       "section": 2,
       "ID": "201-NYA-05",
       "name": "Calculus I",
@@ -111,6 +121,7 @@
       ]
     },
     {
+      "key": 11,
       "section": 3,
       "ID": "201-NYA-05",
       "name": "Calculus I",
@@ -122,6 +133,7 @@
       ]
     },
     {
+      "key": 12,
       "section": 1,
       "ID": "201-NYB-05",
       "name": "Calculus II",
@@ -133,6 +145,7 @@
       ]
     },
     {
+      "key": 13,
       "section": 2,
       "ID": "201-NYB-05",
       "name": "Calculus II",
@@ -144,6 +157,7 @@
       ]
     },
     {
+      "key": 14,
       "section": 3,
       "ID": "201-NYB-05",
       "name": "Calculus II",
@@ -155,6 +169,7 @@
       ]
     },
     {
+      "key": 15,
       "section": 4,
       "ID": "201-NYB-05",
       "name": "Calculus II",
@@ -166,6 +181,7 @@
       ]
     },
     {
+      "key": 16,
       "section": 5,
       "ID": "201-NYB-05",
       "name": "Calculus II",
@@ -177,6 +193,7 @@
       ]
     },
     {
+      "key": 17,
       "section": 6,
       "ID": "201-NYB-05",
       "name": "Calculus II",
@@ -188,6 +205,7 @@
       ]
     },
     {
+      "key": 18,
       "section": 7,
       "ID": "201-NYB-05",
       "name": "Calculus II",
@@ -199,6 +217,7 @@
       ]
     },
     {
+      "key": 19,
       "section": 8,
       "ID": "201-NYB-05",
       "name": "Calculus II",
@@ -210,6 +229,7 @@
       ]
     },
     {
+      "key": 20,
       "section": 9,
       "ID": "201-NYB-05",
       "name": "Calculus II",
@@ -221,6 +241,7 @@
       ]
     },
     {
+      "key": 21,
       "section": 10,
       "ID": "201-NYB-05",
       "name": "Calculus II",
@@ -232,6 +253,7 @@
       ]
     },
     {
+      "key": 22,
       "section": 11,
       "ID": "201-NYB-05",
       "name": "Calculus II",
@@ -243,6 +265,7 @@
       ]
     },
     {
+      "key": 23,
       "section": 12,
       "ID": "201-NYB-05",
       "name": "Calculus II",
@@ -254,6 +277,7 @@
       ]
     },
     {
+      "key": 24,
       "section": 21,
       "ID": "201-NYB-05",
       "name": "ENRICHED - Calculus II",
@@ -265,6 +289,7 @@
       ]
     },
     {
+      "key": 25,
       "section": 22,
       "ID": "201-NYB-05",
       "name": "ENRICHED - Calculus II",
@@ -276,6 +301,7 @@
       ]
     },
     {
+      "key": 26,
       "section": 1,
       "ID": "201-NYC-05",
       "name": "Linear Algebra I",
@@ -287,6 +313,7 @@
       ]
     },
     {
+      "key": 27,
       "section": 2,
       "ID": "201-NYC-05",
       "name": "Linear Algebra I",
@@ -298,6 +325,7 @@
       ]
     },
     {
+      "key": 28,
       "section": 3,
       "ID": "201-NYC-05",
       "name": "GHOST - Linear Algebra I",
@@ -309,6 +337,7 @@
       ]
     },
     {
+      "key": 29,
       "section": 1,
       "ID": "202-NYA-05",
       "name": "General Chemistry",
@@ -320,6 +349,7 @@
       ]
     },
     {
+      "key": 30,
       "section": 1,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -331,6 +361,7 @@
       ]
     },
     {
+      "key": 31,
       "section": 2,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -342,6 +373,7 @@
       ]
     },
     {
+      "key": 32,
       "section": 3,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -353,6 +385,7 @@
       ]
     },
     {
+      "key": 33,
       "section": 4,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -364,6 +397,7 @@
       ]
     },
     {
+      "key": 34,
       "section": 5,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -375,6 +409,7 @@
       ]
     },
     {
+      "key": 35,
       "section": 6,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -386,6 +421,7 @@
       ]
     },
     {
+      "key": 36,
       "section": 7,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -397,6 +433,7 @@
       ]
     },
     {
+      "key": 37,
       "section": 8,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -408,6 +445,7 @@
       ]
     },
     {
+      "key": 38,
       "section": 9,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -419,6 +457,7 @@
       ]
     },
     {
+      "key": 39,
       "section": 10,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -430,6 +469,7 @@
       ]
     },
     {
+      "key": 40,
       "section": 11,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -441,6 +481,7 @@
       ]
     },
     {
+      "key": 41,
       "section": 12,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -452,6 +493,7 @@
       ]
     },
     {
+      "key": 42,
       "section": 13,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -463,6 +505,7 @@
       ]
     },
     {
+      "key": 43,
       "section": 14,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -474,6 +517,7 @@
       ]
     },
     {
+      "key": 44,
       "section": 15,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -485,6 +529,7 @@
       ]
     },
     {
+      "key": 45,
       "section": 16,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -496,6 +541,7 @@
       ]
     },
     {
+      "key": 46,
       "section": 17,
       "ID": "202-NYB-05",
       "name": "General Chemistry II",
@@ -507,6 +553,7 @@
       ]
     },
     {
+      "key": 47,
       "section": 1,
       "ID": "203-NYA-05",
       "name": "Mechanics",
@@ -518,6 +565,7 @@
       ]
     },
     {
+      "key": 48,
       "section": 2,
       "ID": "203-NYA-05",
       "name": "Mechanics",
@@ -529,6 +577,7 @@
       ]
     },
     {
+      "key": 49,
       "section": 3,
       "ID": "203-NYA-05",
       "name": "Mechanics",
@@ -540,6 +589,7 @@
       ]
     },
     {
+      "key": 50,
       "section": 4,
       "ID": "203-NYA-05",
       "name": "Mechanics",
@@ -551,6 +601,7 @@
       ]
     },
     {
+      "key": 51,
       "section": 5,
       "ID": "203-NYA-05",
       "name": "Mechanics",
@@ -562,6 +613,7 @@
       ]
     },
     {
+      "key": 52,
       "section": 6,
       "ID": "203-NYA-05",
       "name": "Mechanics",
@@ -573,6 +625,7 @@
       ]
     },
     {
+      "key": 53,
       "section": 7,
       "ID": "203-NYA-05",
       "name": "Mechanics",
@@ -584,6 +637,7 @@
       ]
     },
     {
+      "key": 54,
       "section": 8,
       "ID": "203-NYA-05",
       "name": "Mechanics",
@@ -595,6 +649,7 @@
       ]
     },
     {
+      "key": 55,
       "section": 21,
       "ID": "203-NYA-05",
       "name": "ENRICHED - MODERN PHYSICS - Mechanics",
@@ -606,6 +661,7 @@
       ]
     },
     {
+      "key": 56,
       "section": 71,
       "ID": "203-NYA-05",
       "name": "Mechanics",
@@ -617,6 +673,7 @@
       ]
     },
     {
+      "key": 57,
       "section": 72,
       "ID": "203-NYA-05",
       "name": "Mechanics",
@@ -628,6 +685,7 @@
       ]
     },
     {
+      "key": 58,
       "section": 1,
       "ID": "203-NYB-05",
       "name": "Electricity and Magnetism",
@@ -639,6 +697,7 @@
       ]
     },
     {
+      "key": 59,
       "section": 2,
       "ID": "203-NYB-05",
       "name": "Electricity and Magnetism",
@@ -650,6 +709,7 @@
       ]
     },
     {
+      "key": 60,
       "section": 3,
       "ID": "203-NYB-05",
       "name": "Electricity and Magnetism",
@@ -661,6 +721,7 @@
       ]
     },
     {
+      "key": 61,
       "section": 4,
       "ID": "203-NYB-05",
       "name": "Electricity and Magnetism",
@@ -672,6 +733,7 @@
       ]
     },
     {
+      "key": 62,
       "section": 5,
       "ID": "203-NYB-05",
       "name": "Electricity and Magnetism",
@@ -683,6 +745,7 @@
       ]
     },
     {
+      "key": 63,
       "section": 6,
       "ID": "203-NYB-05",
       "name": "Electricity and Magnetism",
@@ -694,6 +757,7 @@
       ]
     },
     {
+      "key": 64,
       "section": 7,
       "ID": "203-NYB-05",
       "name": "Electricity and Magnetism",
@@ -705,6 +769,7 @@
       ]
     },
     {
+      "key": 65,
       "section": 8,
       "ID": "203-NYB-05",
       "name": "Electricity and Magnetism",
@@ -716,6 +781,7 @@
       ]
     },
     {
+      "key": 66,
       "section": 9,
       "ID": "203-NYB-05",
       "name": "Electricity and Magnetism",
@@ -727,6 +793,7 @@
       ]
     },
     {
+      "key": 67,
       "section": 10,
       "ID": "203-NYB-05",
       "name": "Electricity and Magnetism",
@@ -738,6 +805,7 @@
       ]
     },
     {
+      "key": 68,
       "section": 11,
       "ID": "203-NYB-05",
       "name": "Electricity and Magnetism",
@@ -749,6 +817,7 @@
       ]
     },
     {
+      "key": 69,
       "section": 21,
       "ID": "203-NYB-05",
       "name": "ENRICHED - MODERN PHYSICS - Electricity and Magnetism",
@@ -760,6 +829,7 @@
       ]
     },
     {
+      "key": 70,
       "section": 22,
       "ID": "203-NYB-05",
       "name": "ENRICHED - LIFE SCIENCES - Electricity and Magnetism",
@@ -771,6 +841,7 @@
       ]
     },
     {
+      "key": 71,
       "section": 71,
       "ID": "203-NYB-05",
       "name": "Electricity and Magnetism",
@@ -787,6 +858,7 @@
       ]
     },
     {
+      "key": 72,
       "section": 1,
       "ID": "101-LCU-05",
       "name": "General Biology II",
@@ -798,6 +870,7 @@
       ]
     },
     {
+      "key": 73,
       "section": 2,
       "ID": "101-LCU-05",
       "name": "General Biology II",
@@ -809,6 +882,7 @@
       ]
     },
     {
+      "key": 74,
       "section": 3,
       "ID": "101-LCU-05",
       "name": "General Biology II",
@@ -820,6 +894,7 @@
       ]
     },
     {
+      "key": 75,
       "section": 71,
       "ID": "101-LCU-05",
       "name": "General Biology II",
@@ -831,6 +906,7 @@
       ]
     },
     {
+      "key": 76,
       "section": 1,
       "ID": "101-LCV-05",
       "name": "Human Physiology",
@@ -842,6 +918,7 @@
       ]
     },
     {
+      "key": 77,
       "section": 2,
       "ID": "101-LCV-05",
       "name": "Human Physiology",
@@ -853,6 +930,7 @@
       ]
     },
     {
+      "key": 78,
       "section": 3,
       "ID": "101-LCV-05",
       "name": "Human Physiology",
@@ -864,6 +942,7 @@
       ]
     },
     {
+      "key": 79,
       "section": 4,
       "ID": "101-LCV-05",
       "name": "Human Physiology",
@@ -875,6 +954,7 @@
       ]
     },
     {
+      "key": 80,
       "section": 5,
       "ID": "101-LCV-05",
       "name": "Human Physiology",
@@ -886,6 +966,7 @@
       ]
     },
     {
+      "key": 81,
       "section": 1,
       "ID": "101-LCW-MS",
       "name": "Molecular Genetics",
@@ -897,6 +978,7 @@
       ]
     },
     {
+      "key": 82,
       "section": 1,
       "ID": "201-LCT-MS",
       "name": "Topics in Advanced Mathematics",
@@ -908,6 +990,7 @@
       ]
     },
     {
+      "key": 83,
       "section": 1,
       "ID": "201-LCU-05",
       "name": "Calculus III",
@@ -919,6 +1002,7 @@
       ]
     },
     {
+      "key": 84,
       "section": 2,
       "ID": "201-LCU-05",
       "name": "Calculus III",
@@ -930,6 +1014,7 @@
       ]
     },
     {
+      "key": 85,
       "section": 1,
       "ID": "201-LCV-05",
       "name": "Linear Algebra II",
@@ -941,6 +1026,7 @@
       ]
     },
     {
+      "key": 86,
       "section": 1,
       "ID": "201-LCW-05",
       "name": "Probability and Statistics",
@@ -952,6 +1038,7 @@
       ]
     },
     {
+      "key": 87,
       "section": 1,
       "ID": "201-LCY-05",
       "name": "Finite Mathematics",
@@ -963,6 +1050,7 @@
       ]
     },
     {
+      "key": 88,
       "section": 1,
       "ID": "202-LCU-05",
       "name": "Organic Chemistry I",
@@ -974,6 +1062,7 @@
       ]
     },
     {
+      "key": 89,
       "section": 2,
       "ID": "202-LCU-05",
       "name": "Organic Chemistry I",
@@ -985,6 +1074,7 @@
       ]
     },
     {
+      "key": 90,
       "section": 3,
       "ID": "202-LCU-05",
       "name": "Organic Chemistry I",
@@ -996,6 +1086,7 @@
       ]
     },
     {
+      "key": 91,
       "section": 4,
       "ID": "202-LCU-05",
       "name": "Organic Chemistry I",
@@ -1007,6 +1098,7 @@
       ]
     },
     {
+      "key": 92,
       "section": 5,
       "ID": "202-LCU-05",
       "name": "Organic Chemistry I",
@@ -1018,6 +1110,7 @@
       ]
     },
     {
+      "key": 93,
       "section": 6,
       "ID": "202-LCU-05",
       "name": "Organic Chemistry I",
@@ -1029,6 +1122,7 @@
       ]
     },
     {
+      "key": 94,
       "section": 7,
       "ID": "202-LCU-05",
       "name": "Organic Chemistry I",
@@ -1040,6 +1134,7 @@
       ]
     },
     {
+      "key": 95,
       "section": 1,
       "ID": "203-LCV-05",
       "name": "Digital Electronics",
@@ -1051,6 +1146,7 @@
       ]
     },
     {
+      "key": 96,
       "section": 1,
       "ID": "203-LCW-05",
       "name": "Astrophysics",
@@ -1062,6 +1158,7 @@
       ]
     },
     {
+      "key": 97,
       "section": 1,
       "ID": "420-LCU-05",
       "name": "Computer Programming",
@@ -1073,6 +1170,7 @@
       ]
     },
     {
+      "key": 98,
       "section": 2,
       "ID": "420-LCU-05",
       "name": "Computer Programming",
@@ -1084,6 +1182,7 @@
       ]
     },
     {
+      "key": 99,
       "section": 3,
       "ID": "420-LCU-05",
       "name": "Computer Programming",
@@ -1095,6 +1194,7 @@
       ]
     },
     {
+      "key": 100,
       "section": 1,
       "ID": "420-LCV-05",
       "name": "Technical Drawing",
@@ -1106,6 +1206,7 @@
       ]
     },
     {
+      "key": 101,
       "section": 2,
       "ID": "420-LCW-MS",
       "name": "Programming Techniques and Applications",
@@ -1117,6 +1218,7 @@
       ]
     },
     {
+      "key": 102,
       "section": 1,
       "ID": "603-101-MQ",
       "name": "Introduction to College English",
@@ -1131,6 +1233,7 @@
       ]
     },
     {
+      "key": 103,
       "section": 2,
       "ID": "603-102-MQ",
       "name": "Folk and Fairy Tales",
@@ -1141,6 +1244,7 @@
       ]
     },
     {
+      "key": 104,
       "section": 3,
       "ID": "603-102-MQ",
       "name": "Comics as Literature",
@@ -1151,6 +1255,7 @@
       ]
     },
     {
+      "key": 105,
       "section": 4,
       "ID": "603-102-MQ",
       "name": "Magic Realism",
@@ -1161,6 +1266,7 @@
       ]
     },
     {
+      "key": 106,
       "section": 5,
       "ID": "603-102-MQ",
       "name": "The Origins and Innovations of the Short Story",
@@ -1171,6 +1277,7 @@
       ]
     },
     {
+      "key": 107,
       "section": 6,
       "ID": "603-102-MQ",
       "name": "The Origins and Innovations of the Short Story",
@@ -1181,6 +1288,7 @@
       ]
     },
     {
+      "key": 108,
       "section": 7,
       "ID": "603-102-MQ",
       "name": "Gothic Fiction",
@@ -1191,6 +1299,7 @@
       ]
     },
     {
+      "key": 109,
       "section": 8,
       "ID": "603-102-MQ",
       "name": "Gothic Fiction",
@@ -1201,6 +1310,7 @@
       ]
     },
     {
+      "key": 110,
       "section": 11,
       "ID": "603-102-MQ",
       "name": "Arthurian Legends: The Medieval Romance Tradition",
@@ -1211,6 +1321,7 @@
       ]
     },
     {
+      "key": 111,
       "section": 12,
       "ID": "603-102-MQ",
       "name": "Philosophical Approaches to The Teleplay",
@@ -1221,6 +1332,7 @@
       ]
     },
     {
+      "key": 112,
       "section": 13,
       "ID": "603-102-MQ",
       "name": "Short Fiction",
@@ -1231,6 +1343,7 @@
       ]
     },
     {
+      "key": 113,
       "section": 14,
       "ID": "603-102-MQ",
       "name": "Short Fiction",
@@ -1241,6 +1354,7 @@
       ]
     },
     {
+      "key": 114,
       "section": 15,
       "ID": "603-102-MQ",
       "name": "The American Short Story",
@@ -1251,6 +1365,7 @@
       ]
     },
     {
+      "key": 115,
       "section": 16,
       "ID": "603-102-MQ",
       "name": "The American Short Story",
@@ -1265,6 +1380,7 @@
       ]
     },
     {
+      "key": 116,
       "section": 20,
       "ID": "603-102-MQ",
       "name": "Travel Writing as Genre",
@@ -1275,6 +1391,7 @@
       ]
     },
     {
+      "key": 117,
       "section": 21,
       "ID": "603-102-MQ",
       "name": "Travel Writing as Genre",
@@ -1285,6 +1402,7 @@
       ]
     },
     {
+      "key": 118,
       "section": 22,
       "ID": "603-102-MQ",
       "name": "The Social Novel",
@@ -1295,6 +1413,7 @@
       ]
     },
     {
+      "key": 119,
       "section": 23,
       "ID": "603-102-MQ",
       "name": "Science Fiction",
@@ -1305,6 +1424,7 @@
       ]
     },
     {
+      "key": 120,
       "section": 25,
       "ID": "603-102-MQ",
       "name": "The Social Novel",
@@ -1319,6 +1439,7 @@
       ]
     },
     {
+      "key": 121,
       "section": 27,
       "ID": "603-102-MQ",
       "name": "Folk and Fairy Tales",
@@ -1329,6 +1450,7 @@
       ]
     },
     {
+      "key": 122,
       "section": 28,
       "ID": "603-102-MQ",
       "name": "Magic Realism",
@@ -1339,6 +1461,7 @@
       ]
     },
     {
+      "key": 123,
       "section": 29,
       "ID": "603-102-MQ",
       "name": "The Weird Tale",
@@ -1349,6 +1472,7 @@
       ]
     },
     {
+      "key": 124,
       "section": 3,
       "ID": "603-102-MQ",
       "name": "The Weird tale",
@@ -1359,6 +1483,7 @@
       ]
     },
     {
+      "key": 125,
       "section": 31,
       "ID": "603-102-MQ",
       "name": "Shakespeare on Screen",
@@ -1369,6 +1494,7 @@
       ]
     },
     {
+      "key": 126,
       "section": 71,
       "ID": "603-102-MQ",
       "name": "A&S AND LIBERAL ARTS - Literary Genres",
@@ -1379,6 +1505,7 @@
       ]
     },
     {
+      "key": 127,
       "section": 72,
       "ID": "603-102-MQ",
       "name": "A&S AND LIBERAL ARTS - Literary Genres",
@@ -1389,6 +1516,7 @@
       ]
     },
     {
+      "key": 128,
       "section": 1,
       "ID": "603-103-MQ",
       "name": "Shakespeare's Communities",
@@ -1399,6 +1527,7 @@
       ]
     },
     {
+      "key": 129,
       "section": 71,
       "ID": "603-704-MS",
       "name": "A&S - English Adapted to Programs",
@@ -1409,6 +1538,7 @@
       ]
     },
     {
+      "key": 130,
       "section": 72,
       "ID": "603-704-MS",
       "name": "A&S - English Adapted to Programs",
@@ -1419,6 +1549,7 @@
       ]
     },
     {
+      "key": 131,
       "section": 1,
       "ID": "603-LPE-MS",
       "name": "Creative Nonfiction: Writing (True) Stories",
@@ -1429,6 +1560,7 @@
       ]
     },
     {
+      "key": 132,
       "section": 2,
       "ID": "603-LPE-MS",
       "name": "Business Communication",
@@ -1439,6 +1571,7 @@
       ]
     },
     {
+      "key": 133,
       "section": 3,
       "ID": "603-LPE-MS",
       "name": "Business Communication",
@@ -1449,6 +1582,7 @@
       ]
     },
     {
+      "key": 134,
       "section": 4,
       "ID": "603-LPE-MS",
       "name": "The Power of Representation",
@@ -1459,6 +1593,7 @@
       ]
     },
     {
+      "key": 135,
       "section": 5,
       "ID": "603-LPE-MS",
       "name": "The Power of Representation",
@@ -1469,6 +1604,7 @@
       ]
     },
     {
+      "key": 136,
       "section": 7,
       "ID": "603-LPE-MS",
       "name": "The Artist in Fiction and Non-Fiction",
@@ -1479,6 +1615,7 @@
       ]
     },
     {
+      "key": 137,
       "section": 8,
       "ID": "603-LPE-MS",
       "name": "Writings and Writing about Food",
@@ -1489,6 +1626,7 @@
       ]
     },
     {
+      "key": 138,
       "section": 9,
       "ID": "603-LPE-MS",
       "name": "Writings and Writing about Food",
@@ -1499,6 +1637,7 @@
       ]
     },
     {
+      "key": 139,
       "section": 10,
       "ID": "603-LPE-MS",
       "name": "Gossip in Literature and Film",
@@ -1509,6 +1648,7 @@
       ]
     },
     {
+      "key": 140,
       "section": 11,
       "ID": "603-LPE-MS",
       "name": "Gossip in Literature and Film",
@@ -1519,6 +1659,7 @@
       ]
     },
     {
+      "key": 141,
       "section": 12,
       "ID": "603-LPE-MS",
       "name": "Law and Literature",
@@ -1529,6 +1670,7 @@
       ]
     },
     {
+      "key": 142,
       "section": 13,
       "ID": "603-LPE-MS",
       "name": "Literature and The Body",
@@ -1539,6 +1681,7 @@
       ]
     },
     {
+      "key": 143,
       "section": 14,
       "ID": "603-LPE-MS",
       "name": "World Mythology and Critical Theory",
@@ -1549,6 +1692,7 @@
       ]
     },
     {
+      "key": 144,
       "section": 15,
       "ID": "603-LPE-MS",
       "name": "World Mythology and Critical Theory",
@@ -1559,6 +1703,7 @@
       ]
     },
     {
+      "key": 145,
       "section": 16,
       "ID": "603-LPE-MS",
       "name": "Creative Nonfiction: Writing (True) Stories",
@@ -1569,6 +1714,7 @@
       ]
     },
     {
+      "key": 146,
       "section": 17,
       "ID": "603-LPE-MS",
       "name": "American Nature Writing",
@@ -1579,6 +1725,7 @@
       ]
     },
     {
+      "key": 147,
       "section": 18,
       "ID": "603-LPE-MS",
       "name": "Literature and Religion",
@@ -1589,6 +1736,7 @@
       ]
     },
     {
+      "key": 148,
       "section": 19,
       "ID": "603-LPE-MS",
       "name": "Creative Writing",
@@ -1599,6 +1747,7 @@
       ]
     },
     {
+      "key": 149,
       "section": 22,
       "ID": "603-LPE-MS",
       "name": "Shakespeare over Time",
@@ -1609,6 +1758,7 @@
       ]
     },
     {
+      "key": 150,
       "section": 23,
       "ID": "603-LPE-MS",
       "name": "Eroticism in Poetry",
@@ -1619,6 +1769,7 @@
       ]
     },
     {
+      "key": 151,
       "section": 24,
       "ID": "603-LPE-MS",
       "name": "Eroticism in Poetry",
@@ -1629,6 +1780,7 @@
       ]
     },
     {
+      "key": 152,
       "section": 25,
       "ID": "603-LPE-MS",
       "name": "Literature and Theory",
@@ -1639,6 +1791,7 @@
       ]
     },
     {
+      "key": 153,
       "section": 26,
       "ID": "603-LPE-MS",
       "name": "Law and Literature",
@@ -1649,6 +1802,7 @@
       ]
     },
     {
+      "key": 154,
       "section": 71,
       "ID": "603-LPE-MS",
       "name": "LIBERAL ARTS - English Adapted to Programs",
@@ -1659,6 +1813,7 @@
       ]
     },
     {
+      "key": 155,
       "section": 72,
       "ID": "603-LPE-MS",
       "name": "LIBERAL ARTS - English Adapted to Programs",
@@ -1669,6 +1824,7 @@
       ]
     },
     {
+      "key": 156,
       "section": 1,
       "ID": "345-101-MQ",
       "name": "Why Rome?",
@@ -1679,6 +1835,7 @@
       ]
     },
     {
+      "key": 157,
       "section": 3,
       "ID": "345-101-MQ",
       "name": "The Practice of Everyday Life",
@@ -1689,6 +1846,7 @@
       ]
     },
     {
+      "key": 158,
       "section": 4,
       "ID": "345-101-MQ",
       "name": "The Practice of Everyday Life",
@@ -1699,6 +1857,7 @@
       ]
     },
     {
+      "key": 159,
       "section": 5,
       "ID": "345-101-MQ",
       "name": "Modernity and Consumer Culture",
@@ -1709,6 +1868,7 @@
       ]
     },
     {
+      "key": 160,
       "section": 6,
       "ID": "345-101-MQ",
       "name": "Understanding Canadian Society through the Arts",
@@ -1723,6 +1883,7 @@
       ]
     },
     {
+      "key": 161,
       "section": 8,
       "ID": "345-101-MQ",
       "name": "Understanding Place",
@@ -1733,6 +1894,7 @@
       ]
     },
     {
+      "key": 162,
       "section": 9,
       "ID": "345-101-MQ",
       "name": "Understanding Place",
@@ -1743,6 +1905,7 @@
       ]
     },
     {
+      "key": 163,
       "section": 91,
       "ID": "345-101-MQ",
       "name": "Medieval Knowledge",
@@ -1753,6 +1916,7 @@
       ]
     },
     {
+      "key": 164,
       "section": 71,
       "ID": "345-701-MS",
       "name": "A&S ONLY - Knowledge & Integration - Science and Society",
@@ -1763,6 +1927,7 @@
       ]
     },
     {
+      "key": 165,
       "section": 72,
       "ID": "345-701-MS",
       "name": "A&S ONLY - Knowledge & Integration - Science and Society",
@@ -1777,6 +1942,7 @@
       ]
     },
     {
+      "key": 166,
       "section": 2,
       "ID": "345-102-MQ",
       "name": "Believers and Non-Believers",
@@ -1787,6 +1953,7 @@
       ]
     },
     {
+      "key": 167,
       "section": 3,
       "ID": "345-102-MQ",
       "name": "Beyond Bollywood",
@@ -1797,6 +1964,7 @@
       ]
     },
     {
+      "key": 168,
       "section": 4,
       "ID": "345-102-MQ",
       "name": "Indigenous Cultures in Canada",
@@ -1807,6 +1975,7 @@
       ]
     },
     {
+      "key": 169,
       "section": 5,
       "ID": "345-102-MQ",
       "name": "Art and Culture of the Ancient Americas",
@@ -1817,6 +1986,7 @@
       ]
     },
     {
+      "key": 170,
       "section": 6,
       "ID": "345-102-MQ",
       "name": "Art and Culture of the Ancient Americas",
@@ -1831,6 +2001,7 @@
       ]
     },
     {
+      "key": 171,
       "section": 8,
       "ID": "345-102-MQ",
       "name": "XY Vision: How Gender Shapes our World",
@@ -1841,6 +2012,7 @@
       ]
     },
     {
+      "key": 172,
       "section": 9,
       "ID": "345-102-MQ",
       "name": "Utopian Dreamers",
@@ -1851,6 +2023,7 @@
       ]
     },
     {
+      "key": 173,
       "section": 10,
       "ID": "345-102-MQ",
       "name": "Utopian Dreamers",
@@ -1861,6 +2034,7 @@
       ]
     },
     {
+      "key": 174,
       "section": 11,
       "ID": "345-102-MQ",
       "name": "African Worldviews through the Arts",
@@ -1871,6 +2045,7 @@
       ]
     },
     {
+      "key": 175,
       "section": 12,
       "ID": "345-102-MQ",
       "name": "African Worldviews through the Arts",
@@ -1881,6 +2056,7 @@
       ]
     },
     {
+      "key": 176,
       "section": 13,
       "ID": "345-102-MQ",
       "name": "Believers and Non-Believers",
@@ -1891,6 +2067,7 @@
       ]
     },
     {
+      "key": 177,
       "section": 14,
       "ID": "345-102-MQ",
       "name": "XY Vision: How Gender Shapes our World",
@@ -1901,6 +2078,7 @@
       ]
     },
     {
+      "key": 178,
       "section": 4,
       "ID": "345-LPH-MS",
       "name": "Global Religious Violence",
@@ -1911,6 +2089,7 @@
       ]
     },
     {
+      "key": 179,
       "section": 5,
       "ID": "345-LPH-MS",
       "name": "Ethics and the Family",
@@ -1921,6 +2100,7 @@
       ]
     },
     {
+      "key": 180,
       "section": 6,
       "ID": "345-LPH-MS",
       "name": "Ethics and the Family",
@@ -1931,6 +2111,7 @@
       ]
     },
     {
+      "key": 181,
       "section": 7,
       "ID": "345-LPH-MS",
       "name": "Global Religious Violence",
@@ -1941,6 +2122,7 @@
       ]
     },
     {
+      "key": 182,
       "section": 8,
       "ID": "345-LPH-MS",
       "name": "Just Progress? Ethics of Innovation",
@@ -1951,6 +2133,7 @@
       ]
     },
     {
+      "key": 183,
       "section": 9,
       "ID": "345-LPH-MS",
       "name": "Biblical Sex",
@@ -1961,6 +2144,7 @@
       ]
     },
     {
+      "key": 184,
       "section": 10,
       "ID": "345-LPH-MS",
       "name": "Biblical Sex",
@@ -1971,6 +2155,7 @@
       ]
     },
     {
+      "key": 185,
       "section": 11,
       "ID": "345-LPH-MS",
       "name": "Ethics and Appropriation",
@@ -1985,6 +2170,7 @@
       ]
     },
     {
+      "key": 186,
       "section": 13,
       "ID": "345-LPH-MS",
       "name": "Ethical Issues in Music",
@@ -1995,6 +2181,7 @@
       ]
     },
     {
+      "key": 187,
       "section": 14,
       "ID": "345-LPH-MS",
       "name": "The Da Vinci Code: Fact and Fiction in Popular Culture",
@@ -2005,6 +2192,7 @@
       ]
     },
     {
+      "key": 188,
       "section": 15,
       "ID": "345-LPH-MS",
       "name": "The Da Vinci Code: Fact and Fiction in Popular Culture",
@@ -2015,6 +2203,7 @@
       ]
     },
     {
+      "key": 189,
       "section": 16,
       "ID": "345-LPH-MS",
       "name": "Popular Culture and Sexual Representation",
@@ -2037,6 +2226,7 @@
       ]
     },
     {
+      "key": 190,
       "section": 71,
       "ID": "345-LPH-MS",
       "name": "Ethics of Globalization",
@@ -2047,6 +2237,7 @@
       ]
     },
     {
+      "key": 191,
       "section": 72,
       "ID": "345-LPH-MS",
       "name": "Ethics of Globalization",
@@ -2057,6 +2248,7 @@
       ]
     },
     {
+      "key": 192,
       "section": 91,
       "ID": "345-LPH-MS",
       "name": "Just and Unjust Wars",
@@ -2067,6 +2259,7 @@
       ]
     },
     {
+      "key": 193,
       "section": 1,
       "ID": "602-100-MQ",
       "name": "Langue et expression I",
@@ -2077,6 +2270,7 @@
       ]
     },
     {
+      "key": 194,
       "section": 2,
       "ID": "602-100-MQ",
       "name": "Langue et expression I",
@@ -2087,6 +2281,7 @@
       ]
     },
     {
+      "key": 195,
       "section": 3,
       "ID": "602-100-MQ",
       "name": "Langue et expression I",
@@ -2097,6 +2292,7 @@
       ]
     },
     {
+      "key": 196,
       "section": 1,
       "ID": "602-LPW-MS",
       "name": "Langue et expression II",
@@ -2107,6 +2303,7 @@
       ]
     },
     {
+      "key": 197,
       "section": 1,
       "ID": "602-101-MQ",
       "name": "Langue et communication",
@@ -2117,6 +2314,7 @@
       ]
     },
     {
+      "key": 198,
       "section": 2,
       "ID": "602-101-MQ",
       "name": "Langue et communication",
@@ -2127,6 +2325,7 @@
       ]
     },
     {
+      "key": 199,
       "section": 3,
       "ID": "602-101-MQ",
       "name": "Langue et communication",
@@ -2137,6 +2336,7 @@
       ]
     },
     {
+      "key": 200,
       "section": 4,
       "ID": "602-101-MQ",
       "name": "Langue et communication",
@@ -2147,6 +2347,7 @@
       ]
     },
     {
+      "key": 201,
       "section": 5,
       "ID": "602-101-MQ",
       "name": "Langue et communication",
@@ -2157,6 +2358,7 @@
       ]
     },
     {
+      "key": 202,
       "section": 6,
       "ID": "602-101-MQ",
       "name": "Langue et communication",
@@ -2167,6 +2369,7 @@
       ]
     },
     {
+      "key": 203,
       "section": 1,
       "ID": "602-LPX-MS",
       "name": "Découvertes",
@@ -2177,6 +2380,7 @@
       ]
     },
     {
+      "key": 204,
       "section": 2,
       "ID": "602-LPX-MS",
       "name": "Découvertes",
@@ -2187,6 +2391,7 @@
       ]
     },
     {
+      "key": 205,
       "section": 3,
       "ID": "602-LPX-MS",
       "name": "Découvertes",
@@ -2197,6 +2402,7 @@
       ]
     },
     {
+      "key": 206,
       "section": 4,
       "ID": "602-LPX-MS",
       "name": "Découvertes",
@@ -2207,6 +2413,7 @@
       ]
     },
     {
+      "key": 207,
       "section": 1,
       "ID": "602-102-MQ",
       "name": "Langue française et culture",
@@ -2217,6 +2424,7 @@
       ]
     },
     {
+      "key": 208,
       "section": 2,
       "ID": "602-102-MQ",
       "name": "Langue française et culture",
@@ -2227,6 +2435,7 @@
       ]
     },
     {
+      "key": 209,
       "section": 3,
       "ID": "602-102-MQ",
       "name": "Langue française et culture",
@@ -2237,6 +2446,7 @@
       ]
     },
     {
+      "key": 210,
       "section": 1,
       "ID": "602-LPY-MS",
       "name": "Fictions",
@@ -2247,6 +2457,7 @@
       ]
     },
     {
+      "key": 211,
       "section": 2,
       "ID": "602-LPY-MS",
       "name": "Fictions",
@@ -2257,6 +2468,7 @@
       ]
     },
     {
+      "key": 212,
       "section": 3,
       "ID": "602-LPY-MS",
       "name": "Médias et cinéma",
@@ -2267,6 +2479,7 @@
       ]
     },
     {
+      "key": 213,
       "section": 4,
       "ID": "602-LPY-MS",
       "name": "Médias et cinéma",
@@ -2277,6 +2490,7 @@
       ]
     },
     {
+      "key": 214,
       "section": 5,
       "ID": "602-LPY-MS",
       "name": "Médias et cinéma",
@@ -2287,6 +2501,7 @@
       ]
     },
     {
+      "key": 215,
       "section": 6,
       "ID": "602-LPY-MS",
       "name": "Médias et cinéma",
@@ -2297,6 +2512,7 @@
       ]
     },
     {
+      "key": 216,
       "section": 1,
       "ID": "602-LPZ-MS",
       "name": "Science moderne",
@@ -2307,6 +2523,7 @@
       ]
     },
     {
+      "key": 217,
       "section": 2,
       "ID": "602-LPZ-MS",
       "name": "Science moderne",
@@ -2317,6 +2534,7 @@
       ]
     },
     {
+      "key": 218,
       "section": 3,
       "ID": "602-LPZ-MS",
       "name": "Science moderne",
@@ -2327,6 +2545,7 @@
       ]
     },
     {
+      "key": 219,
       "section": 4,
       "ID": "602-LPZ-MS",
       "name": "Science moderne",
@@ -2337,6 +2556,7 @@
       ]
     },
     {
+      "key": 220,
       "section": 5,
       "ID": "602-LPZ-MS",
       "name": "L'absurde dans la littérature",
@@ -2347,6 +2567,7 @@
       ]
     },
     {
+      "key": 221,
       "section": 6,
       "ID": "602-LPZ-MS",
       "name": "L'absurde dans la littérature",
@@ -2357,6 +2578,7 @@
       ]
     },
     {
+      "key": 222,
       "section": 7,
       "ID": "602-LPZ-MS",
       "name": "L'absurde dans la littérature",
@@ -2367,6 +2589,7 @@
       ]
     },
     {
+      "key": 223,
       "section": 8,
       "ID": "602-LPZ-MS",
       "name": "L'absurde dans la littérature",
@@ -2377,6 +2600,7 @@
       ]
     },
     {
+      "key": 224,
       "section": 9,
       "ID": "602-LPZ-MS",
       "name": "Écriture scénaristique",
@@ -2387,6 +2611,7 @@
       ]
     },
     {
+      "key": 225,
       "section": 10,
       "ID": "602-LPZ-MS",
       "name": "Écriture scénaristique",
@@ -2397,6 +2622,7 @@
       ]
     },
     {
+      "key": 226,
       "section": 11,
       "ID": "602-LPZ-MS",
       "name": "Écriture scénaristique",
@@ -2415,6 +2641,7 @@
       ]
     },
     {
+      "key": 227,
       "section": 1,
       "ID": "602-UF0-MQ",
       "name": "Oeuvres narratives et écriture",
@@ -2425,6 +2652,7 @@
       ]
     },
     {
+      "key": 228,
       "section": 2,
       "ID": "602-UF0-MQ",
       "name": "Oeuvres narratives et écriture",
@@ -2435,6 +2663,7 @@
       ]
     },
     {
+      "key": 229,
       "section": 3,
       "ID": "602-UF0-MQ",
       "name": "Oeuvres narratives et écriture",
@@ -2445,6 +2674,7 @@
       ]
     },
     {
+      "key": 230,
       "section": 1,
       "ID": "602-UF1-MQ",
       "name": "Poésie, théâtre et écriture",
@@ -2455,6 +2685,7 @@
       ]
     },
     {
+      "key": 231,
       "section": 2,
       "ID": "602-UF1-MQ",
       "name": "Poésie, théâtre et écriture",
@@ -2465,6 +2696,7 @@
       ]
     },
     {
+      "key": 232,
       "section": 3,
       "ID": "602-UF1-MQ",
       "name": "Poésie, théâtre et écriture",
@@ -2475,6 +2707,7 @@
       ]
     },
     {
+      "key": 233,
       "section": 4,
       "ID": "602-UF1-MQ",
       "name": "Poésie, théâtre et écriture",
@@ -2485,6 +2718,7 @@
       ]
     },
     {
+      "key": 234,
       "section": 5,
       "ID": "602-UF1-MQ",
       "name": "Poésie, théâtre et écriture",
@@ -2495,6 +2729,7 @@
       ]
     },
     {
+      "key": 235,
       "section": 6,
       "ID": "602-UF1-MQ",
       "name": "Poésie, théâtre et écriture",
@@ -2505,6 +2740,7 @@
       ]
     },
     {
+      "key": 236,
       "section": 7,
       "ID": "602-UF1-MQ",
       "name": "Poésie, théâtre et écriture",
@@ -2515,6 +2751,7 @@
       ]
     },
     {
+      "key": 237,
       "section": 8,
       "ID": "602-UF1-MQ",
       "name": "Poésie, théâtre et écriture",
@@ -2525,6 +2762,7 @@
       ]
     },
     {
+      "key": 238,
       "section": 9,
       "ID": "602-UF1-MQ",
       "name": "Poésie, théâtre et écriture",
@@ -2535,6 +2773,7 @@
       ]
     },
     {
+      "key": 239,
       "section": 10,
       "ID": "602-UF1-MQ",
       "name": "Poésie, théâtre et écriture",
@@ -2545,6 +2784,7 @@
       ]
     },
     {
+      "key": 240,
       "section": 11,
       "ID": "602-UF1-MQ",
       "name": "Poésie, théâtre et écriture",
@@ -2555,6 +2795,7 @@
       ]
     },
     {
+      "key": 241,
       "section": 12,
       "ID": "602-UF1-MQ",
       "name": "Poésie, théâtre et écriture",
@@ -2565,6 +2806,7 @@
       ]
     },
     {
+      "key": 242,
       "section": 13,
       "ID": "602-UF1-MQ",
       "name": "Poésie, théâtre et écriture",
@@ -2575,6 +2817,7 @@
       ]
     },
     {
+      "key": 243,
       "section": 14,
       "ID": "602-UF1-MQ",
       "name": "Poésie, théâtre et écriture",
@@ -2585,6 +2828,7 @@
       ]
     },
     {
+      "key": 244,
       "section": 15,
       "ID": "602-UF1-MQ",
       "name": "Poésie, théâtre et écriture",
@@ -2595,6 +2839,7 @@
       ]
     },
     {
+      "key": 245,
       "section": 16,
       "ID": "602-UF1-MQ",
       "name": "Poésie, théâtre et écriture",
@@ -2605,6 +2850,7 @@
       ]
     },
     {
+      "key": 246,
       "section": 1,
       "ID": "PRO-LAM",
       "name": "Enhancing Computer Skills",
@@ -2615,6 +2861,7 @@
       ]
     },
     {
+      "key": 247,
       "section": 2,
       "ID": "PRO-LAM",
       "name": "Enhancing Computer Skills",
@@ -2625,6 +2872,7 @@
       ]
     },
     {
+      "key": 248,
       "section": 3,
       "ID": "PRO-LAM",
       "name": "Enhancing Computer Skills",
@@ -2635,6 +2883,7 @@
       ]
     },
     {
+      "key": 249,
       "section": 4,
       "ID": "PRO-LAM",
       "name": "Enhancing Computer Skills",
@@ -2645,6 +2894,7 @@
       ]
     },
     {
+      "key": 250,
       "section": 5,
       "ID": "PRO-LAM",
       "name": "Enhancing Computer Skills",
@@ -2655,6 +2905,7 @@
       ]
     },
     {
+      "key": 251,
       "section": 6,
       "ID": "PRO-LAM",
       "name": "Enhancing Computer Skills",
@@ -2665,6 +2916,7 @@
       ]
     },
     {
+      "key": 252,
       "section": 7,
       "ID": "PRO-LAM",
       "name": "Enhancing Computer Skills",
@@ -2675,6 +2927,7 @@
       ]
     },
     {
+      "key": 253,
       "section": 8,
       "ID": "PRO-LAM",
       "name": "Enhancing Computer Skills",
@@ -2685,6 +2938,7 @@
       ]
     },
     {
+      "key": 254,
       "section": 1,
       "ID": "ARH-LAA-A1",
       "name": "Medieval and Renaissance Art",
@@ -2695,6 +2949,7 @@
       ]
     },
     {
+      "key": 255,
       "section": 2,
       "ID": "ARH-LAA-A1",
       "name": "Medieval and Renaissance Art",
@@ -2705,6 +2960,7 @@
       ]
     },
     {
+      "key": 256,
       "section": 1,
       "ID": "ARH-LAA-A2",
       "name": "Ancient Art",
@@ -2715,6 +2971,7 @@
       ]
     },
     {
+      "key": 257,
       "section": 1,
       "ID": "ARH-LBA",
       "name": "Modern and Contemporary Art",
@@ -2725,6 +2982,7 @@
       ]
     },
     {
+      "key": 258,
       "section": 1,
       "ID": "ART-LAA-A1",
       "name": "Introduction to Studio Art",
@@ -2734,6 +2992,7 @@
       ]
     },
     {
+      "key": 259,
       "section": 2,
       "ID": "ART-LAA-A1",
       "name": "Introduction to Studio Art",
@@ -2743,6 +3002,7 @@
       ]
     },
     {
+      "key": 260,
       "section": 1,
       "ID": "ART-LAA-A2",
       "name": "Visual Expression: Aspects of Narrative",
@@ -2752,6 +3012,7 @@
       ]
     },
     {
+      "key": 261,
       "section": 1,
       "ID": "ART-LBA-A1",
       "name": "The Human Figure",
@@ -2761,6 +3022,7 @@
       ]
     },
     {
+      "key": 262,
       "section": 1,
       "ID": "ART-LBA-A2",
       "name": "Drawing",
@@ -2770,6 +3032,7 @@
       ]
     },
     {
+      "key": 263,
       "section": 1,
       "ID": "CIN-LAA-A2",
       "name": "History of cinema",
@@ -2779,6 +3042,7 @@
       ]
     },
     {
+      "key": 264,
       "section": 1,
       "ID": "CIN-LBA-A1",
       "name": "The Language of Film",
@@ -2788,6 +3052,7 @@
       ]
     },
     {
+      "key": 265,
       "section": 2,
       "ID": "CIN-LBA-A1",
       "name": "The Language of Film",
@@ -2797,6 +3062,7 @@
       ]
     },
     {
+      "key": 266,
       "section": 1,
       "ID": "FLM-LBA",
       "name": "Filmmaking Techniques",
@@ -2806,6 +3072,7 @@
       ]
     },
     {
+      "key": 267,
       "section": 1,
       "ID": "PHI-LBS-A1",
       "name": "What is Justice?",
@@ -2816,6 +3083,7 @@
       ]
     },
     {
+      "key": 268,
       "section": 1,
       "ID": "REL-LBS-A1",
       "name": "Eastern Religions",
@@ -2826,6 +3094,7 @@
       ]
     },
     {
+      "key": 269,
       "section": 1,
       "ID": "REL-LBS-A3",
       "name": "Topics in Religious Studies: Magic and Ritual",
@@ -2836,6 +3105,7 @@
       ]
     },
     {
+      "key": 270,
       "section": 1,
       "ID": "AAA-LBQ-A1",
       "name": "Digital Music Technologies",
@@ -2846,6 +3116,7 @@
       ]
     },
     {
+      "key": 271,
       "section": 1,
       "ID": "BUS-LBA-A1",
       "name": "Introduction to Business",
@@ -2856,6 +3127,7 @@
       ]
     },
     {
+      "key": 272,
       "section": 2,
       "ID": "BUS-LBA-A1",
       "name": "Introduction to Business",
@@ -2866,6 +3138,7 @@
       ]
     },
     {
+      "key": 273,
       "section": 1,
       "ID": "ECO-LBA-A1",
       "name": "Introduction to Economics",
@@ -2876,6 +3149,7 @@
       ]
     },
     {
+      "key": 274,
       "section": 2,
       "ID": "ECO-LBA-A1",
       "name": "Introduction to Economics",
@@ -2886,6 +3160,7 @@
       ]
     },
     {
+      "key": 275,
       "section": 1,
       "ID": "POL-LBA-A1",
       "name": "Introduction to World Politics",
@@ -2896,6 +3171,7 @@
       ]
     },
     {
+      "key": 276,
       "section": 2,
       "ID": "POL-LBA-A1",
       "name": "Introduction to World Politics",
@@ -2906,6 +3182,7 @@
       ]
     },
     {
+      "key": 277,
       "section": 1,
       "ID": "PSY-LAA-A1",
       "name": "Inside your mind: Explorations in Psychology",
@@ -2916,6 +3193,7 @@
       ]
     },
     {
+      "key": 278,
       "section": 2,
       "ID": "PSY-LAA-A1",
       "name": "Inside your mind: Explorations in Psychology",
@@ -2926,6 +3204,7 @@
       ]
     },
     {
+      "key": 279,
       "section": 1,
       "ID": "ITA-LAA",
       "name": "Italian I",
@@ -2936,6 +3215,7 @@
       ]
     },
     {
+      "key": 280,
       "section": 2,
       "ID": "ITA-LAA",
       "name": "Italian I",
@@ -2946,6 +3226,7 @@
       ]
     },
     {
+      "key": 281,
       "section": 1,
       "ID": "SPA-LAL",
       "name": "Spanish I",
@@ -2956,6 +3237,7 @@
       ]
     },
     {
+      "key": 282,
       "section": 2,
       "ID": "SPA-LAL",
       "name": "Spanish I",
@@ -2966,6 +3248,7 @@
       ]
     },
     {
+      "key": 283,
       "section": 3,
       "ID": "SPA-LAL",
       "name": "Spanish I",
@@ -2976,6 +3259,7 @@
       ]
     },
     {
+      "key": 284,
       "section": 1,
       "ID": "109-101-MQ",
       "name": "Fit/ Combatives",
@@ -2985,6 +3269,7 @@
       ]
     },
     {
+      "key": 285,
       "section": 2,
       "ID": "109-101-MQ",
       "name": "Fit/ Combatives",
@@ -2994,6 +3279,7 @@
       ]
     },
     {
+      "key": 286,
       "section": 3,
       "ID": "109-101-MQ",
       "name": "Fit/Barre",
@@ -3003,6 +3289,7 @@
       ]
     },
     {
+      "key": 287,
       "section": 4,
       "ID": "109-101-MQ",
       "name": "Fit/Barre",
@@ -3012,6 +3299,7 @@
       ]
     },
     {
+      "key": 288,
       "section": 5,
       "ID": "109-101-MQ",
       "name": "Fitness",
@@ -3021,6 +3309,7 @@
       ]
     },
     {
+      "key": 289,
       "section": 6,
       "ID": "109-101-MQ",
       "name": "Fitness",
@@ -3030,6 +3319,7 @@
       ]
     },
     {
+      "key": 290,
       "section": 7,
       "ID": "109-101-MQ",
       "name": "Fit/ Games",
@@ -3039,6 +3329,7 @@
       ]
     },
     {
+      "key": 291,
       "section": 8,
       "ID": "109-101-MQ",
       "name": "Fit/ Games",
@@ -3048,6 +3339,7 @@
       ]
     },
     {
+      "key": 292,
       "section": 9,
       "ID": "109-101-MQ",
       "name": "Fitness",
@@ -3057,6 +3349,7 @@
       ]
     },
     {
+      "key": 293,
       "section": 10,
       "ID": "109-101-MQ",
       "name": "Fitness",
@@ -3066,6 +3359,7 @@
       ]
     },
     {
+      "key": 294,
       "section": 11,
       "ID": "109-101-MQ",
       "name": "Fit/Yoga",
@@ -3075,6 +3369,7 @@
       ]
     },
     {
+      "key": 295,
       "section": 12,
       "ID": "109-101-MQ",
       "name": "Fit/Yoga",
@@ -3084,6 +3379,7 @@
       ]
     },
     {
+      "key": 296,
       "section": 13,
       "ID": "109-101-MQ",
       "name": "Fit/Yoga",
@@ -3093,6 +3389,7 @@
       ]
     },
     {
+      "key": 297,
       "section": 14,
       "ID": "109-101-MQ",
       "name": "Fitness",
@@ -3102,6 +3399,7 @@
       ]
     },
     {
+      "key": 298,
       "section": 15,
       "ID": "109-101-MQ",
       "name": "Fitness",
@@ -3111,6 +3409,7 @@
       ]
     },
     {
+      "key": 299,
       "section": 16,
       "ID": "109-101-MQ",
       "name": "Fit/ Games",
@@ -3120,6 +3419,7 @@
       ]
     },
     {
+      "key": 300,
       "section": 17,
       "ID": "109-101-MQ",
       "name": "Fitness",
@@ -3129,6 +3429,7 @@
       ]
     },
     {
+      "key": 301,
       "section": 18,
       "ID": "109-101-MQ",
       "name": "Fitness",
@@ -3138,6 +3439,7 @@
       ]
     },
     {
+      "key": 302,
       "section": 19,
       "ID": "109-101-MQ",
       "name": "Fitness",
@@ -3147,6 +3449,7 @@
       ]
     },
     {
+      "key": 303,
       "section": 20,
       "ID": "109-101-MQ",
       "name": "Fitness",
@@ -3156,6 +3459,7 @@
       ]
     },
     {
+      "key": 304,
       "section": 21,
       "ID": "109-101-MQ",
       "name": "Fitness",
@@ -3165,6 +3469,7 @@
       ]
     },
     {
+      "key": 305,
       "section": 22,
       "ID": "109-101-MQ",
       "name": "Fitness",
@@ -3174,6 +3479,7 @@
       ]
     },
     {
+      "key": 306,
       "section": 1,
       "ID": "109-102-MQ",
       "name": "Badminton",
@@ -3183,6 +3489,7 @@
       ]
     },
     {
+      "key": 307,
       "section": 2,
       "ID": "109-102-MQ",
       "name": "Badminton",
@@ -3192,6 +3499,7 @@
       ]
     },
     {
+      "key": 308,
       "section": 3,
       "ID": "109-102-MQ",
       "name": "Badminton",
@@ -3201,6 +3509,7 @@
       ]
     },
     {
+      "key": 309,
       "section": 4,
       "ID": "109-102-MQ",
       "name": "Cross-Country Skiing - INTENSIVE: See course description for full schedule",
@@ -3210,6 +3519,7 @@
       ]
     },
     {
+      "key": 310,
       "section": 5,
       "ID": "109-102-MQ",
       "name": "Dance",
@@ -3219,6 +3529,7 @@
       ]
     },
     {
+      "key": 311,
       "section": 6,
       "ID": "109-102-MQ",
       "name": "Dance",
@@ -3228,6 +3539,7 @@
       ]
     },
     {
+      "key": 312,
       "section": 7,
       "ID": "109-102-MQ",
       "name": "Martial Arts",
@@ -3237,6 +3549,7 @@
       ]
     },
     {
+      "key": 313,
       "section": 8,
       "ID": "109-102-MQ",
       "name": "Martial Arts",
@@ -3246,6 +3559,7 @@
       ]
     },
     {
+      "key": 314,
       "section": 9,
       "ID": "109-102-MQ",
       "name": "Orienteering - INTENSIVE: See course description for full schedule",
@@ -3255,6 +3569,7 @@
       ]
     },
     {
+      "key": 315,
       "section": 10,
       "ID": "109-102-MQ",
       "name": "Ultimate",
@@ -3264,6 +3579,7 @@
       ]
     },
     {
+      "key": 316,
       "section": 11,
       "ID": "109-102-MQ",
       "name": "Ultimate",
@@ -3273,6 +3589,7 @@
       ]
     },
     {
+      "key": 317,
       "section": 12,
       "ID": "109-102-MQ",
       "name": "Basketball",
@@ -3282,6 +3599,7 @@
       ]
     },
     {
+      "key": 318,
       "section": 13,
       "ID": "109-102-MQ",
       "name": "Cross-Country Skiing - INTENSIVE: See course description for full schedule",
@@ -3291,6 +3609,7 @@
       ]
     },
     {
+      "key": 319,
       "section": 14,
       "ID": "109-102-MQ",
       "name": "Soccer",
@@ -3300,6 +3619,7 @@
       ]
     },
     {
+      "key": 320,
       "section": 15,
       "ID": "109-102-MQ",
       "name": "Soccer",
@@ -3309,6 +3629,7 @@
       ]
     },
     {
+      "key": 321,
       "section": 16,
       "ID": "109-102-MQ",
       "name": "Yoga",
@@ -3318,6 +3639,7 @@
       ]
     },
     {
+      "key": 322,
       "section": 17,
       "ID": "109-102-MQ",
       "name": "Yoga",
@@ -3327,6 +3649,7 @@
       ]
     },
     {
+      "key": 323,
       "section": 1,
       "ID": "109-103-MQ",
       "name": "Weight Training",
@@ -3336,6 +3659,7 @@
       ]
     },
     {
+      "key": 324,
       "section": 2,
       "ID": "109-103-MQ",
       "name": "Cross Training",
@@ -3345,6 +3669,7 @@
       ]
     },
     {
+      "key": 325,
       "section": 3,
       "ID": "109-103-MQ",
       "name": "Badminton",
@@ -3354,6 +3679,7 @@
       ]
     },
     {
+      "key": 326,
       "section": 4,
       "ID": "109-103-MQ",
       "name": "Badminton",
@@ -3363,6 +3689,7 @@
       ]
     },
     {
+      "key": 327,
       "section": 5,
       "ID": "109-103-MQ",
       "name": "Cross-Country Skiing - INTENSIVE: See course description for full schedule",
@@ -3372,6 +3699,7 @@
       ]
     },
     {
+      "key": 328,
       "section": 6,
       "ID": "109-103-MQ",
       "name": "Jiujitsu",
@@ -3381,6 +3709,7 @@
       ]
     },
     {
+      "key": 329,
       "section": 7,
       "ID": "109-103-MQ",
       "name": "Jiujitsu",
@@ -3390,6 +3719,7 @@
       ]
     },
     {
+      "key": 330,
       "section": 8,
       "ID": "109-103-MQ",
       "name": "Power Yoga",
@@ -3399,6 +3729,7 @@
       ]
     },
     {
+      "key": 331,
       "section": 9,
       "ID": "109-103-MQ",
       "name": "Power Yoga",
@@ -3408,6 +3739,7 @@
       ]
     },
     {
+      "key": 332,
       "section": 10,
       "ID": "109-103-MQ",
       "name": "Weight Training",
@@ -3417,6 +3749,7 @@
       ]
     },
     {
+      "key": 333,
       "section": 11,
       "ID": "109-103-MQ",
       "name": "Weight Training",
@@ -3426,6 +3759,7 @@
       ]
     },
     {
+      "key": 334,
       "section": 12,
       "ID": "109-103-MQ",
       "name": "Stress Management",
@@ -3435,6 +3769,7 @@
       ]
     },
     {
+      "key": 335,
       "section": 13,
       "ID": "109-103-MQ",
       "name": "Stress Management",
@@ -3444,6 +3779,7 @@
       ]
     },
     {
+      "key": 336,
       "section": 14,
       "ID": "109-103-MQ",
       "name": "Soccer",
@@ -3453,6 +3789,7 @@
       ]
     },
     {
+      "key": 337,
       "section": 15,
       "ID": "109-103-MQ",
       "name": "Ultimate",
@@ -3462,6 +3799,7 @@
       ]
     },
     {
+      "key": 338,
       "section": 16,
       "ID": "109-103-MQ",
       "name": "Snowshoe Hikes - INTENSIVE: See course description for full schedule",
@@ -3471,6 +3809,7 @@
       ]
     },
     {
+      "key": 339,
       "section": 17,
       "ID": "109-103-MQ",
       "name": "Team Sports",
@@ -3480,6 +3819,7 @@
       ]
     },
     {
+      "key": 340,
       "section": 18,
       "ID": "109-103-MQ",
       "name": "Team Sports",
