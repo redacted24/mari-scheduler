@@ -16,10 +16,11 @@ const App = () => {
 
   // Handlers
   const handleClick = (key) => {
-    let temp = selected
+    let temp = [...selected] // shallow equality problem
     temp.push(key)
     setSelected(temp)
-    console.log("Added an entry to selected courses")
+    console.log("Added an entry to selected courses:")
+    console.log(selected)
   }
 
   // Initial data fetch
@@ -32,6 +33,7 @@ const App = () => {
       console.log('✅ Courses data successfully fetched!')
       setCourses(response)
     })
+
     // Make an Error Message Component
     .catch(() => {
       console.log('❌ Courses data could not be fetched')
@@ -40,6 +42,7 @@ const App = () => {
     })
   }, [])
 
+  // App return
   return (
     <div>
       <Title/>
@@ -48,6 +51,8 @@ const App = () => {
       <SearchResult search = {search} courses = {courses} handleClick = {handleClick}/>
     </div>
   )
+
+
 }
 
 export default App

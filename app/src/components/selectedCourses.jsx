@@ -1,6 +1,7 @@
 const SelectedCourses = ({selected}) => {
+    console.log("Loaded SelectedCourses")
     console.log(selected)
-    if (!selected) {
+    if (selected.length == 0) {
         return (
             <div>
                 <p>Selected courses appear here, if any</p>
@@ -9,6 +10,7 @@ const SelectedCourses = ({selected}) => {
     }
 
     else {
+        return (
         <div>
             {selected.map(el => 
                 <p key = {el.key}>
@@ -16,7 +18,7 @@ const SelectedCourses = ({selected}) => {
                 </p>
             )}
         </div>
-    }
+    )}
     
 }
 
