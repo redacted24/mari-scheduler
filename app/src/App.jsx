@@ -9,19 +9,26 @@ const App = () => {
   console.log("Loaded App")
 
   // States
+  const [initial, setInitial] = useState([])
   const [courses, setCourses] = useState([])
   const [errorMessage, setErrorMessage] = useState(null)
   const [search, setSearch] = useState('')
   const [selected, setSelected] = useState([])
 
   // Handlers
-  const handleClick = (event) => {
+  const handleAdd = (event) => {
     setCourses(courses.filter(el => el.ID !== event.ID))
     let temp = [...selected] // shallow equality problem
     temp.push(event)
     setSelected(temp)
     console.log("Added an entry to selected courses:")
     console.log(selected)
+  }
+  
+  const handleReset = () => {
+    setCourses(initial)
+    setSelected([])
+    setSearch('')
   }
 
   // Initial data fetch
@@ -33,6 +40,7 @@ const App = () => {
       console.log(response)
       console.log('✅ Courses data successfully fetched!')
       setCourses(response)
+      setInitial(response)
     })
 
     // Make an Error Message Component
@@ -47,9 +55,9 @@ const App = () => {
   return (
     <div>
       <Title/>
-      <SelectedCourses selected = {selected} setSelected = {setSelected}/>
+      <SelectedCourses selected = {selected} setSelected = {setSelected} handleReset = {handleReset}/>
       <SearchBar search = {search} setSearch = {setSearch}/>
-      <SearchResult search = {search} courses = {courses} handleClick = {handleClick}/>
+      <SearchResult search = {search} courses = {courses} handleAdd = {handleAdd}/>
     </div>
   )
 

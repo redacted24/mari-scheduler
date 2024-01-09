@@ -1,4 +1,4 @@
-const SelectedCourses = ({selected}) => {
+const SelectedCourses = ({selected, handleReset}) => {
     console.log("Loaded SelectedCourses")
     console.log(selected)
     if (selected.length == 0) {
@@ -12,9 +12,10 @@ const SelectedCourses = ({selected}) => {
     else {
         return (
         <div>
+            <button onClick = {handleReset}>Reset</button>
             {selected.map(el => 
                 <p key = {el.key}>
-                    {el.name} {el.ID} {el.teacher + " "} 
+                    {el.name} {el.ID} {el.teacher + " "}
                 </p>
             )}
         </div>
