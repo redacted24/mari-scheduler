@@ -1,0 +1,724 @@
+{
+  "unique": [
+    {
+      "key": 1,
+      "section": 1,
+      "ID": "101-NYA-05",
+      "name": "General Biology I",
+      "teacher": "D'Abramo, Claudia",
+      "classes": [
+        "T 14:15-15:45",
+        "W 12:15-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 9,
+      "section": 1,
+      "ID": "201-NYA-05",
+      "name": "Calculus I",
+      "teacher": "Rinehart, Joseph",
+      "classes": [
+        "T 11:15-12:45",
+        "H 10:45-12:45",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 12,
+      "section": 1,
+      "ID": "201-NYB-05",
+      "name": "Calculus II",
+      "teacher": "Bigdely, Hadi",
+      "classes": [
+        "M 16:15-17:45",
+        "T 14:15-15:45",
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 26,
+      "section": 1,
+      "ID": "201-NYC-05",
+      "name": "Linear Algebra I",
+      "teacher": "Carrington, Rebecca",
+      "classes": [
+        "T 11:15-12:45",
+        "H 08:15-10:15",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 29,
+      "section": 1,
+      "ID": "202-NYA-05",
+      "name": "General Chemistry",
+      "teacher": "Jinbachian, Lori",
+      "classes": [
+        "T 11:15-12:45",
+        "W 12:45-14:15",
+        "F 12:15-14:15"
+      ]
+    },
+    {
+      "key": 30,
+      "section": 1,
+      "ID": "202-NYB-05",
+      "name": "General Chemistry II",
+      "teacher": "Abraham, Stephanie",
+      "classes": [
+        "M 12:15-14:15",
+        "T 14:15-15:45",
+        "H 14:15-15:45"
+      ]
+    },
+    {
+      "key": 47,
+      "section": 1,
+      "ID": "203-NYA-05",
+      "name": "Mechanics",
+      "teacher": "Livingstone, Margaret",
+      "classes": [
+        "M 12:15-14:15",
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 58,
+      "section": 1,
+      "ID": "203-NYB-05",
+      "name": "Electricity and Magnetism",
+      "teacher": "Fatholahzadeh, Baharak",
+      "classes": [
+        "M 16:15-17:45",
+        "T 14:15-15:45",
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 72,
+      "section": 1,
+      "ID": "101-LCU-05",
+      "name": "General Biology II",
+      "teacher": "Colatriano, David",
+      "classes": [
+        "T 08:15-09:45",
+        "H 08:15-09:45",
+        "F 08:15-10:15"
+      ]
+    },
+    {
+      "key": 76,
+      "section": 1,
+      "ID": "101-LCV-05",
+      "name": "Human Physiology",
+      "teacher": "Barrie, Christine",
+      "classes": [
+        "M 14:15-16:15",
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 81,
+      "section": 1,
+      "ID": "101-LCW-MS",
+      "name": "Molecular Genetics",
+      "teacher": "Brunet, Stephanie",
+      "classes": [
+        "M 08:15-09:45",
+        "W 08:15-09:45",
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 82,
+      "section": 1,
+      "ID": "201-LCT-MS",
+      "name": "Topics in Advanced Mathematics",
+      "teacher": "Hamel, Mariah",
+      "classes": [
+        "M 14:15-15:45",
+        "W 12:15-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 83,
+      "section": 1,
+      "ID": "201-LCU-05",
+      "name": "Calculus III",
+      "teacher": "Egan, Matthew",
+      "classes": [
+        "T 11:15-12:45",
+        "W 14:15-16:15",
+        "F 11:15-12:45"
+      ]
+    },
+    {
+      "key": 85,
+      "section": 1,
+      "ID": "201-LCV-05",
+      "name": "Linear Algebra II",
+      "teacher": "Godin, Veronique",
+      "classes": [
+        "M 08:15-09:45",
+        "W 08:15-09:45",
+        "F 14:15-16:15"
+      ]
+    },
+    {
+      "key": 86,
+      "section": 1,
+      "ID": "201-LCW-05",
+      "name": "Probability and Statistics",
+      "teacher": "Charette, François",
+      "classes": [
+        "M 12:45-14:15",
+        "T 16:15-18:15",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 87,
+      "section": 1,
+      "ID": "201-LCY-05",
+      "name": "Finite Mathematics",
+      "teacher": "Deslandes, Jean-François",
+      "classes": [
+        "M 11:15-12:45",
+        "T 14:15-16:15",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "key": 88,
+      "section": 1,
+      "ID": "202-LCU-05",
+      "name": "Organic Chemistry I",
+      "teacher": "Butt, Roby",
+      "classes": [
+        "T 16:15-17:45",
+        "H 16:15-17:45",
+        "F 10:15-12:15"
+      ]
+    },
+    {
+      "key": 95,
+      "section": 1,
+      "ID": "203-LCV-05",
+      "name": "Digital Electronics",
+      "teacher": "Paradis, Dominique",
+      "classes": [
+        "M 16:15-17:45",
+        "W 16:15-17:45",
+        "H 16:15-18:15"
+      ]
+    },
+    {
+      "key": 96,
+      "section": 1,
+      "ID": "203-LCW-05",
+      "name": "Astrophysics",
+      "teacher": "Paradis, Dominique",
+      "classes": [
+        "M 14:15-15:45",
+        "W 12:15-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 97,
+      "section": 1,
+      "ID": "420-LCU-05",
+      "name": "Computer Programming",
+      "teacher": "Hilal, Samia",
+      "classes": [
+        "M 14:15-16:15",
+        "H 11:15-12:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 100,
+      "section": 1,
+      "ID": "420-LCV-05",
+      "name": "Technical Drawing",
+      "teacher": "Vincent, Robert",
+      "classes": [
+        "T 08:15-09:45",
+        "H 11:15-12:45",
+        "F 08:15-10:15"
+      ]
+    },
+    {
+      "key": 101,
+      "section": 2,
+      "ID": "420-LCW-MS",
+      "name": "Programming Techniques and Applications",
+      "teacher": "Vincent, Robert",
+      "classes": [
+        "M 09:45-11:15",
+        "W 09:45-11:15",
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "key": 102,
+      "section": 1,
+      "ID": "603-101-MQ",
+      "name": "Introduction to College English",
+      "teacher": "Pedersen, Susan",
+      "classes": [
+        "M 08:15-10:15",
+        "W 08:15-10:15",
+        "\"1 603-102-MQ Novels of Nature, the Environment, and the Ecological Imagination\"",
+        "\"Fleming, David\"",
+        "T 10:15-12:15",
+        "F 10:15-12:15"
+      ]
+    },
+    {
+      "key": 103,
+      "section": 2,
+      "ID": "603-102-MQ",
+      "name": "Folk and Fairy Tales",
+      "teacher": "Arnot, Elizabeth",
+      "classes": [
+        "M 16:15-18:15",
+        "W 16:15-18:15"
+      ]
+    },
+    {
+      "key": 128,
+      "section": 1,
+      "ID": "603-103-MQ",
+      "name": "Shakespeare's Communities",
+      "teacher": "Morris, Blair",
+      "classes": [
+        "T 16:15-18:15",
+        "H 16:15-18:15"
+      ]
+    },
+    {
+      "key": 129,
+      "section": 71,
+      "ID": "603-704-MS",
+      "name": "A&S - English Adapted to Programs",
+      "teacher": "Berdichevsky, Leon",
+      "classes": [
+        "M 08:15-10:15",
+        "W 08:15-10:15"
+      ]
+    },
+    {
+      "key": 131,
+      "section": 1,
+      "ID": "603-LPE-MS",
+      "name": "Creative Nonfiction: Writing (True) Stories",
+      "teacher": "Walser, Sabine",
+      "classes": [
+        "W 14:15-16:15",
+        "F 14:15-16:15"
+      ]
+    },
+    {
+      "key": 156,
+      "section": 1,
+      "ID": "345-101-MQ",
+      "name": "Why Rome?",
+      "teacher": "Levine, Rachel",
+      "classes": [
+        "M 16:15-18:15",
+        "W 16:15-18:15"
+      ]
+    },
+    {
+      "key": 164,
+      "section": 71,
+      "ID": "345-701-MS",
+      "name": "A&S ONLY - Knowledge & Integration - Science and Society",
+      "teacher": "Richardson, Wendy",
+      "classes": [
+        "M 12:45-14:15",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 166,
+      "section": 2,
+      "ID": "345-102-MQ",
+      "name": "Believers and Non-Believers",
+      "teacher": "Miceli, Calogero",
+      "classes": [
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 178,
+      "section": 4,
+      "ID": "345-LPH-MS",
+      "name": "Global Religious Violence",
+      "teacher": "Miceli, Calogero",
+      "classes": [
+        "W 14:15-15:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 193,
+      "section": 1,
+      "ID": "602-100-MQ",
+      "name": "Langue et expression I",
+      "teacher": "TBA",
+      "classes": [
+        "M 12:45-14:15",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 196,
+      "section": 1,
+      "ID": "602-LPW-MS",
+      "name": "Langue et expression II",
+      "teacher": "TBA",
+      "classes": [
+        "T 09:45-11:15",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 197,
+      "section": 1,
+      "ID": "602-101-MQ",
+      "name": "Langue et communication",
+      "teacher": "Jutras, Alexandre",
+      "classes": [
+        "T 08:15-09:45",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 203,
+      "section": 1,
+      "ID": "602-LPX-MS",
+      "name": "Découvertes",
+      "teacher": "Gasse-Houle, Magali",
+      "classes": [
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 207,
+      "section": 1,
+      "ID": "602-102-MQ",
+      "name": "Langue française et culture",
+      "teacher": "Dupuis, Amélie",
+      "classes": [
+        "M 08:15-09:45",
+        "W 08:15-09:45"
+      ]
+    },
+    {
+      "key": 210,
+      "section": 1,
+      "ID": "602-LPY-MS",
+      "name": "Fictions",
+      "teacher": "Gasse-Houle, Magali",
+      "classes": [
+        "T 14:15-15:45",
+        "H 14:15-15:45"
+      ]
+    },
+    {
+      "key": 216,
+      "section": 1,
+      "ID": "602-LPZ-MS",
+      "name": "Science moderne",
+      "teacher": "Pagé, Sylvain",
+      "classes": [
+        "W 14:15-15:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 227,
+      "section": 1,
+      "ID": "602-UF0-MQ",
+      "name": "Oeuvres narratives et écriture",
+      "teacher": "Levasseur, Isabelle",
+      "classes": [
+        "M 12:45-14:15",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 230,
+      "section": 1,
+      "ID": "602-UF1-MQ",
+      "name": "Poésie, théâtre et écriture",
+      "teacher": "Dupuis, Amélie",
+      "classes": [
+        "M 11:15-12:45",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "key": 246,
+      "section": 1,
+      "ID": "PRO-LAM",
+      "name": "Enhancing Computer Skills",
+      "teacher": "TBA",
+      "classes": [
+        "M 09:45-11:15",
+        "W 09:45-11:15"
+      ]
+    },
+    {
+      "key": 254,
+      "section": 1,
+      "ID": "ARH-LAA-A1",
+      "name": "Medieval and Renaissance Art",
+      "teacher": "Spriggs, Megan",
+      "classes": [
+        "W 14:15-15:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 256,
+      "section": 1,
+      "ID": "ARH-LAA-A2",
+      "name": "Ancient Art",
+      "teacher": "Levine, Rachel",
+      "classes": [
+        "M 12:45-14:15",
+        "H 09:45-11:15"
+      ]
+    },
+    {
+      "key": 257,
+      "section": 1,
+      "ID": "ARH-LBA",
+      "name": "Modern and Contemporary Art",
+      "teacher": "Khatchadourian, Annie",
+      "classes": [
+        "M 14:15-15:45",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 258,
+      "section": 1,
+      "ID": "ART-LAA-A1",
+      "name": "Introduction to Studio Art",
+      "teacher": "Brandl, Eva",
+      "classes": [
+        "T 08:15-11:15"
+      ]
+    },
+    {
+      "key": 260,
+      "section": 1,
+      "ID": "ART-LAA-A2",
+      "name": "Visual Expression: Aspects of Narrative",
+      "teacher": "Brandl, Eva",
+      "classes": [
+        "W 08:15-11:15"
+      ]
+    },
+    {
+      "key": 261,
+      "section": 1,
+      "ID": "ART-LBA-A1",
+      "name": "The Human Figure",
+      "teacher": "TBA",
+      "classes": [
+        "F 11:15-14:15"
+      ]
+    },
+    {
+      "key": 262,
+      "section": 1,
+      "ID": "ART-LBA-A2",
+      "name": "Drawing",
+      "teacher": "TBA",
+      "classes": [
+        "M 14:15-17:15"
+      ]
+    },
+    {
+      "key": 263,
+      "section": 1,
+      "ID": "CIN-LAA-A2",
+      "name": "History of cinema",
+      "teacher": "Hays, Matthew",
+      "classes": [
+        "F 11:15-14:15"
+      ]
+    },
+    {
+      "key": 264,
+      "section": 1,
+      "ID": "CIN-LBA-A1",
+      "name": "The Language of Film",
+      "teacher": "Hays, Matthew",
+      "classes": [
+        "W 14:15-17:15"
+      ]
+    },
+    {
+      "key": 266,
+      "section": 1,
+      "ID": "FLM-LBA",
+      "name": "Filmmaking Techniques",
+      "teacher": "Li, Han Han",
+      "classes": [
+        "F 08:15-11:15"
+      ]
+    },
+    {
+      "key": 267,
+      "section": 1,
+      "ID": "PHI-LBS-A1",
+      "name": "What is Justice?",
+      "teacher": "Ponce, Veronica",
+      "classes": [
+        "W 12:45-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 268,
+      "section": 1,
+      "ID": "REL-LBS-A1",
+      "name": "Eastern Religions",
+      "teacher": "Sasson, Vanessa",
+      "classes": [
+        "W 12:45-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      "key": 269,
+      "section": 1,
+      "ID": "REL-LBS-A3",
+      "name": "Topics in Religious Studies: Magic and Ritual",
+      "teacher": "Koumouzelis, Angelique",
+      "classes": [
+        "T 09:45-11:15",
+        "F 09:45-11:15"
+      ]
+    },
+    {
+      "key": 270,
+      "section": 1,
+      "ID": "AAA-LBQ-A1",
+      "name": "Digital Music Technologies",
+      "teacher": "McKay, Cory",
+      "classes": [
+        "W 11:15-12:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 271,
+      "section": 1,
+      "ID": "BUS-LBA-A1",
+      "name": "Introduction to Business",
+      "teacher": "De Stefano, Jacqueline",
+      "classes": [
+        "W 11:15-12:45",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "key": 273,
+      "section": 1,
+      "ID": "ECO-LBA-A1",
+      "name": "Introduction to Economics",
+      "teacher": "Thomas, Melecia",
+      "classes": [
+        "M 11:15-12:45",
+        "H 08:15-09:45"
+      ]
+    },
+    {
+      "key": 275,
+      "section": 1,
+      "ID": "POL-LBA-A1",
+      "name": "Introduction to World Politics",
+      "teacher": "Lee, Rebecca",
+      "classes": [
+        "M 14:15-15:45",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 277,
+      "section": 1,
+      "ID": "PSY-LAA-A1",
+      "name": "Inside your mind: Explorations in Psychology",
+      "teacher": "Andrews, Julie",
+      "classes": [
+        "T 08:15-09:45",
+        "F 08:15-09:45"
+      ]
+    },
+    {
+      "key": 279,
+      "section": 1,
+      "ID": "ITA-LAA",
+      "name": "Italian I",
+      "teacher": "Vasquez, Javier",
+      "classes": [
+        "T 16:15-17:45",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "key": 281,
+      "section": 1,
+      "ID": "SPA-LAL",
+      "name": "Spanish I",
+      "teacher": "Vasquez, Javier",
+      "classes": [
+        "M 14:15-15:45",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "key": 284,
+      "section": 1,
+      "ID": "109-101-MQ",
+      "name": "Fit/ Combatives",
+      "teacher": "Bellevue-Fortin, Nicolas",
+      "classes": [
+        "M 12:15-14:15"
+      ]
+    },
+    {
+      "key": 306,
+      "section": 1,
+      "ID": "109-102-MQ",
+      "name": "Badminton",
+      "teacher": "Vachon-Gee, Alexandre",
+      "classes": [
+        "W 08:15-10:15"
+      ]
+    },
+    {
+      "key": 323,
+      "section": 1,
+      "ID": "109-103-MQ",
+      "name": "Weight Training",
+      "teacher": "Vachon-Gee, Alexandre",
+      "classes": [
+        "M 08:15-10:15"
+      ]
+    }
+  ]
+}

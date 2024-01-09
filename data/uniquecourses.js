@@ -5,7 +5,9 @@ data[0] = data[0].slice(1)
 
 
 let courses = []
+let unique = []
 let templines = [data[0]]
+let seen = []
 
 let keynumber = 1
 data.slice(1).forEach(line => {
@@ -27,12 +29,26 @@ data.slice(1).forEach(line => {
     })
 
     templines = [line]
-  } else {
+  } 
+  
+  else {
     templines.push(line)
   }
-
 })
 
-const jsonString = JSON.stringify({ courses }, null, 2)
+for (let i = 0; i < keynumber-1; i++) {
+  if (seen.includes(courses[i].ID)) {
+    continue
+  }
+  else if (!(seen.includes(courses[i].ID))) {
+    unique.push(courses[i])
+    seen.push(courses[i].ID)
+  }
+}
+console.log(seen)
+console.log(unique)
 
-fs.writeFileSync('./testschedule.json', jsonString)
+
+const jsonString = JSON.stringify({ unique }, null, 2)
+
+fs.writeFileSync('./uniquecourses.json', jsonString)
