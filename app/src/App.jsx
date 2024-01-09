@@ -15,9 +15,10 @@ const App = () => {
   const [selected, setSelected] = useState([])
 
   // Handlers
-  const handleClick = (key) => {
+  const handleClick = (event) => {
+    setCourses(courses.filter(el => el.ID !== event.ID))
     let temp = [...selected] // shallow equality problem
-    temp.push(key)
+    temp.push(event)
     setSelected(temp)
     console.log("Added an entry to selected courses:")
     console.log(selected)
