@@ -1,6 +1,6 @@
 // This component contains the courses that meet the values in the search bar.
 const searchResult = ({search, courses}) => {
-    const filteredCourses = courses.filter(el => el.name.toLowerCase().includes(search.toLowerCase()))
+    const filteredCourses = courses.filter(el => el.search.toLowerCase().includes(search.toLowerCase()))
     if (!search) {
         return null
     }
