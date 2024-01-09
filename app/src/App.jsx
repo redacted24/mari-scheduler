@@ -17,6 +17,7 @@ const App = () => {
 
   // Handlers
   const handleAdd = (event) => {
+    // Add a course from search list to selection list
     setCourses(courses.filter(el => el.ID !== event.ID))
     let temp = [...selected] // shallow equality problem
     temp.push(event)
@@ -26,9 +27,14 @@ const App = () => {
   }
   
   const handleReset = () => {
+    // Reset selection and course list
     setCourses(initial)
     setSelected([])
     setSearch('')
+  }
+
+  const handleCompute = () => {
+    // Send all selected courses through logic and compute, send to results page
   }
 
   // Initial data fetch
@@ -55,7 +61,7 @@ const App = () => {
   return (
     <div>
       <Title/>
-      <SelectedCourses selected = {selected} setSelected = {setSelected} handleReset = {handleReset}/>
+      <SelectedCourses selected = {selected} setSelected = {setSelected} handleReset = {handleReset} handleCompute = {handleCompute}/>
       <SearchBar search = {search} setSearch = {setSearch}/>
       <SearchResult search = {search} courses = {courses} handleAdd = {handleAdd}/>
     </div>

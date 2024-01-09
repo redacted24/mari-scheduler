@@ -1,4 +1,4 @@
-const SelectedCourses = ({selected, handleReset}) => {
+const SelectedCourses = ({selected, handleReset, handleCompute}) => {
     console.log("Loaded SelectedCourses")
     console.log(selected)
     if (selected.length == 0) {
@@ -18,6 +18,7 @@ const SelectedCourses = ({selected, handleReset}) => {
                     {el.name} {el.ID} {el.teacher + " "}
                 </p>
             )}
+            <button onClick = {handleCompute}>Go</button>
         </div>
     )}
     
