@@ -1,5 +1,5 @@
 // This component contains the courses that meet the values in the search bar.
-const searchResult = ({search, courses}) => {
+const searchResult = ({search, courses, handleClick}) => {
     const filteredCourses = courses.filter(el => el.search.toLowerCase().includes(search.toLowerCase()))
     if (!search) {
         return null
@@ -16,8 +16,8 @@ const searchResult = ({search, courses}) => {
         return (
             <div>
                 {filteredCourses.map(el => 
-                    <p key = {el.key}>
-                        {el.name} {el.ID} {el.teacher}
+                    <p key = {el.key}>{el.name} {el.ID} {el.teacher + " "} 
+                        <button onClick = {() => handleClick(el.key)}>Add</button>
                     </p>
                 )}
             </div>

@@ -14,6 +14,14 @@ const App = () => {
   const [search, setSearch] = useState('')
   const [selected, setSelected] = useState([])
 
+  // Handlers
+  const handleClick = (key) => {
+    let temp = selected
+    temp.push(key)
+    setSelected(temp)
+    console.log("Added an entry to selected courses")
+  }
+
   // Initial data fetch
   useEffect(() => {
     console.log('Fetching courses data...')
@@ -37,7 +45,7 @@ const App = () => {
       <Title/>
       <SelectedCourses selected = {selected} setSelected = {setSelected}/>
       <SearchBar search = {search} setSearch = {setSearch}/>
-      <SearchResult search = {search} courses = {courses}/>
+      <SearchResult search = {search} courses = {courses} handleClick = {handleClick}/>
     </div>
   )
 }

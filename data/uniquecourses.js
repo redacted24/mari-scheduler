@@ -25,7 +25,7 @@ data.slice(1).forEach(line => {
     }
 
     const search = ID + " " + name + " " + teacher
-    
+
     courses.push({
       key, section, ID, name, teacher, classes, search
     })
@@ -48,6 +48,7 @@ for (let i = 0; i < keynumber-1; i++) {
     seen.push(courses[i].ID)
   }
 }
+
 console.log(seen)
 console.log(unique)
 
