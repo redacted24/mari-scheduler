@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseURL = "http://localhost:3001/courses"
+const baseURL = "http://localhost:3001/unique"
 
 const getData = () => {
     const request = axios.get(baseURL)

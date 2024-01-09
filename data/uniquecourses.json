@@ -10,7 +10,8 @@
         "T 14:15-15:45",
         "W 12:15-14:15",
         "F 12:45-14:15"
-      ]
+      ],
+      "search": "101-NYA-05 General Biology I"
     },
     {
       "key": 9,
@@ -22,7 +23,8 @@
         "T 11:15-12:45",
         "H 10:45-12:45",
         "F 11:15-12:45"
-      ]
+      ],
+      "search": "201-NYA-05 Calculus I"
     },
     {
       "key": 12,
@@ -34,7 +36,8 @@
         "M 16:15-17:45",
         "T 14:15-15:45",
         "H 14:15-16:15"
-      ]
+      ],
+      "search": "201-NYB-05 Calculus II"
     },
     {
       "key": 26,
@@ -46,7 +49,8 @@
         "T 11:15-12:45",
         "H 08:15-10:15",
         "F 11:15-12:45"
-      ]
+      ],
+      "search": "201-NYC-05 Linear Algebra I"
     },
     {
       "key": 29,
@@ -58,7 +62,8 @@
         "T 11:15-12:45",
         "W 12:45-14:15",
         "F 12:15-14:15"
-      ]
+      ],
+      "search": "202-NYA-05 General Chemistry"
     },
     {
       "key": 30,
@@ -70,7 +75,8 @@
         "M 12:15-14:15",
         "T 14:15-15:45",
         "H 14:15-15:45"
-      ]
+      ],
+      "search": "202-NYB-05 General Chemistry II"
     },
     {
       "key": 47,
@@ -82,7 +88,8 @@
         "M 12:15-14:15",
         "T 16:15-17:45",
         "H 16:15-17:45"
-      ]
+      ],
+      "search": "203-NYA-05 Mechanics"
     },
     {
       "key": 58,
@@ -94,7 +101,8 @@
         "M 16:15-17:45",
         "T 14:15-15:45",
         "H 14:15-16:15"
-      ]
+      ],
+      "search": "203-NYB-05 Electricity and Magnetism"
     },
     {
       "key": 72,
@@ -106,7 +114,8 @@
         "T 08:15-09:45",
         "H 08:15-09:45",
         "F 08:15-10:15"
-      ]
+      ],
+      "search": "101-LCU-05 General Biology II"
     },
     {
       "key": 76,
@@ -118,7 +127,8 @@
         "M 14:15-16:15",
         "T 16:15-17:45",
         "H 16:15-17:45"
-      ]
+      ],
+      "search": "101-LCV-05 Human Physiology"
     },
     {
       "key": 81,
@@ -130,7 +140,8 @@
         "M 08:15-09:45",
         "W 08:15-09:45",
         "H 14:15-16:15"
-      ]
+      ],
+      "search": "101-LCW-MS Molecular Genetics"
     },
     {
       "key": 82,
@@ -142,7 +153,8 @@
         "M 14:15-15:45",
         "W 12:15-14:15",
         "F 12:45-14:15"
-      ]
+      ],
+      "search": "201-LCT-MS Topics in Advanced Mathematics"
     },
     {
       "key": 83,
@@ -154,7 +166,8 @@
         "T 11:15-12:45",
         "W 14:15-16:15",
         "F 11:15-12:45"
-      ]
+      ],
+      "search": "201-LCU-05 Calculus III"
     },
     {
       "key": 85,
@@ -166,7 +179,8 @@
         "M 08:15-09:45",
         "W 08:15-09:45",
         "F 14:15-16:15"
-      ]
+      ],
+      "search": "201-LCV-05 Linear Algebra II"
     },
     {
       "key": 86,
@@ -178,7 +192,8 @@
         "M 12:45-14:15",
         "T 16:15-18:15",
         "H 09:45-11:15"
-      ]
+      ],
+      "search": "201-LCW-05 Probability and Statistics"
     },
     {
       "key": 87,
@@ -190,7 +205,8 @@
         "M 11:15-12:45",
         "T 14:15-16:15",
         "H 08:15-09:45"
-      ]
+      ],
+      "search": "201-LCY-05 Finite Mathematics"
     },
     {
       "key": 88,
@@ -202,7 +218,8 @@
         "T 16:15-17:45",
         "H 16:15-17:45",
         "F 10:15-12:15"
-      ]
+      ],
+      "search": "202-LCU-05 Organic Chemistry I"
     },
     {
       "key": 95,
@@ -214,7 +231,8 @@
         "M 16:15-17:45",
         "W 16:15-17:45",
         "H 16:15-18:15"
-      ]
+      ],
+      "search": "203-LCV-05 Digital Electronics"
     },
     {
       "key": 96,
@@ -226,7 +244,8 @@
         "M 14:15-15:45",
         "W 12:15-14:15",
         "F 12:45-14:15"
-      ]
+      ],
+      "search": "203-LCW-05 Astrophysics"
     },
     {
       "key": 97,
@@ -238,7 +257,8 @@
         "M 14:15-16:15",
         "H 11:15-12:45",
         "F 14:15-15:45"
-      ]
+      ],
+      "search": "420-LCU-05 Computer Programming"
     },
     {
       "key": 100,
@@ -250,7 +270,8 @@
         "T 08:15-09:45",
         "H 11:15-12:45",
         "F 08:15-10:15"
-      ]
+      ],
+      "search": "420-LCV-05 Technical Drawing"
     },
     {
       "key": 101,
@@ -262,7 +283,8 @@
         "M 09:45-11:15",
         "W 09:45-11:15",
         "H 14:15-16:15"
-      ]
+      ],
+      "search": "420-LCW-MS Programming Techniques and Applications"
     },
     {
       "key": 102,
@@ -277,7 +299,8 @@
         "\"Fleming, David\"",
         "T 10:15-12:15",
         "F 10:15-12:15"
-      ]
+      ],
+      "search": "603-101-MQ Introduction to College English"
     },
     {
       "key": 103,
@@ -288,7 +311,8 @@
       "classes": [
         "M 16:15-18:15",
         "W 16:15-18:15"
-      ]
+      ],
+      "search": "603-102-MQ Folk and Fairy Tales"
     },
     {
       "key": 128,
@@ -299,7 +323,8 @@
       "classes": [
         "T 16:15-18:15",
         "H 16:15-18:15"
-      ]
+      ],
+      "search": "603-103-MQ Shakespeare's Communities"
     },
     {
       "key": 129,
@@ -310,7 +335,8 @@
       "classes": [
         "M 08:15-10:15",
         "W 08:15-10:15"
-      ]
+      ],
+      "search": "603-704-MS A&S - English Adapted to Programs"
     },
     {
       "key": 131,
@@ -321,7 +347,8 @@
       "classes": [
         "W 14:15-16:15",
         "F 14:15-16:15"
-      ]
+      ],
+      "search": "603-LPE-MS Creative Nonfiction: Writing (True) Stories"
     },
     {
       "key": 156,
@@ -332,7 +359,8 @@
       "classes": [
         "M 16:15-18:15",
         "W 16:15-18:15"
-      ]
+      ],
+      "search": "345-101-MQ Why Rome?"
     },
     {
       "key": 164,
@@ -343,7 +371,8 @@
       "classes": [
         "M 12:45-14:15",
         "H 09:45-11:15"
-      ]
+      ],
+      "search": "345-701-MS A&S ONLY - Knowledge & Integration - Science and Society"
     },
     {
       "key": 166,
@@ -354,7 +383,8 @@
       "classes": [
         "T 16:15-17:45",
         "H 16:15-17:45"
-      ]
+      ],
+      "search": "345-102-MQ Believers and Non-Believers"
     },
     {
       "key": 178,
@@ -365,7 +395,8 @@
       "classes": [
         "W 14:15-15:45",
         "F 14:15-15:45"
-      ]
+      ],
+      "search": "345-LPH-MS Global Religious Violence"
     },
     {
       "key": 193,
@@ -376,7 +407,8 @@
       "classes": [
         "M 12:45-14:15",
         "H 09:45-11:15"
-      ]
+      ],
+      "search": "602-100-MQ Langue et expression I"
     },
     {
       "key": 196,
@@ -387,7 +419,8 @@
       "classes": [
         "T 09:45-11:15",
         "F 09:45-11:15"
-      ]
+      ],
+      "search": "602-LPW-MS Langue et expression II"
     },
     {
       "key": 197,
@@ -398,7 +431,8 @@
       "classes": [
         "T 08:15-09:45",
         "F 08:15-09:45"
-      ]
+      ],
+      "search": "602-101-MQ Langue et communication"
     },
     {
       "key": 203,
@@ -409,7 +443,8 @@
       "classes": [
         "T 16:15-17:45",
         "H 16:15-17:45"
-      ]
+      ],
+      "search": "602-LPX-MS Découvertes"
     },
     {
       "key": 207,
@@ -420,7 +455,8 @@
       "classes": [
         "M 08:15-09:45",
         "W 08:15-09:45"
-      ]
+      ],
+      "search": "602-102-MQ Langue française et culture"
     },
     {
       "key": 210,
@@ -431,7 +467,8 @@
       "classes": [
         "T 14:15-15:45",
         "H 14:15-15:45"
-      ]
+      ],
+      "search": "602-LPY-MS Fictions"
     },
     {
       "key": 216,
@@ -442,7 +479,8 @@
       "classes": [
         "W 14:15-15:45",
         "F 14:15-15:45"
-      ]
+      ],
+      "search": "602-LPZ-MS Science moderne"
     },
     {
       "key": 227,
@@ -453,7 +491,8 @@
       "classes": [
         "M 12:45-14:15",
         "H 09:45-11:15"
-      ]
+      ],
+      "search": "602-UF0-MQ Oeuvres narratives et écriture"
     },
     {
       "key": 230,
@@ -464,7 +503,8 @@
       "classes": [
         "M 11:15-12:45",
         "H 08:15-09:45"
-      ]
+      ],
+      "search": "602-UF1-MQ Poésie, théâtre et écriture"
     },
     {
       "key": 246,
@@ -475,7 +515,8 @@
       "classes": [
         "M 09:45-11:15",
         "W 09:45-11:15"
-      ]
+      ],
+      "search": "PRO-LAM Enhancing Computer Skills"
     },
     {
       "key": 254,
@@ -486,7 +527,8 @@
       "classes": [
         "W 14:15-15:45",
         "F 14:15-15:45"
-      ]
+      ],
+      "search": "ARH-LAA-A1 Medieval and Renaissance Art"
     },
     {
       "key": 256,
@@ -497,7 +539,8 @@
       "classes": [
         "M 12:45-14:15",
         "H 09:45-11:15"
-      ]
+      ],
+      "search": "ARH-LAA-A2 Ancient Art"
     },
     {
       "key": 257,
@@ -508,7 +551,8 @@
       "classes": [
         "M 14:15-15:45",
         "H 11:15-12:45"
-      ]
+      ],
+      "search": "ARH-LBA Modern and Contemporary Art"
     },
     {
       "key": 258,
@@ -518,7 +562,8 @@
       "teacher": "Brandl, Eva",
       "classes": [
         "T 08:15-11:15"
-      ]
+      ],
+      "search": "ART-LAA-A1 Introduction to Studio Art"
     },
     {
       "key": 260,
@@ -528,7 +573,8 @@
       "teacher": "Brandl, Eva",
       "classes": [
         "W 08:15-11:15"
-      ]
+      ],
+      "search": "ART-LAA-A2 Visual Expression: Aspects of Narrative"
     },
     {
       "key": 261,
@@ -538,7 +584,8 @@
       "teacher": "TBA",
       "classes": [
         "F 11:15-14:15"
-      ]
+      ],
+      "search": "ART-LBA-A1 The Human Figure"
     },
     {
       "key": 262,
@@ -548,7 +595,8 @@
       "teacher": "TBA",
       "classes": [
         "M 14:15-17:15"
-      ]
+      ],
+      "search": "ART-LBA-A2 Drawing"
     },
     {
       "key": 263,
@@ -558,7 +606,8 @@
       "teacher": "Hays, Matthew",
       "classes": [
         "F 11:15-14:15"
-      ]
+      ],
+      "search": "CIN-LAA-A2 History of cinema"
     },
     {
       "key": 264,
@@ -568,7 +617,8 @@
       "teacher": "Hays, Matthew",
       "classes": [
         "W 14:15-17:15"
-      ]
+      ],
+      "search": "CIN-LBA-A1 The Language of Film"
     },
     {
       "key": 266,
@@ -578,7 +628,8 @@
       "teacher": "Li, Han Han",
       "classes": [
         "F 08:15-11:15"
-      ]
+      ],
+      "search": "FLM-LBA Filmmaking Techniques"
     },
     {
       "key": 267,
@@ -589,7 +640,8 @@
       "classes": [
         "W 12:45-14:15",
         "F 12:45-14:15"
-      ]
+      ],
+      "search": "PHI-LBS-A1 What is Justice?"
     },
     {
       "key": 268,
@@ -600,7 +652,8 @@
       "classes": [
         "W 12:45-14:15",
         "F 12:45-14:15"
-      ]
+      ],
+      "search": "REL-LBS-A1 Eastern Religions"
     },
     {
       "key": 269,
@@ -611,7 +664,8 @@
       "classes": [
         "T 09:45-11:15",
         "F 09:45-11:15"
-      ]
+      ],
+      "search": "REL-LBS-A3 Topics in Religious Studies: Magic and Ritual"
     },
     {
       "key": 270,
@@ -622,7 +676,8 @@
       "classes": [
         "W 11:15-12:45",
         "F 14:15-15:45"
-      ]
+      ],
+      "search": "AAA-LBQ-A1 Digital Music Technologies"
     },
     {
       "key": 271,
@@ -633,7 +688,8 @@
       "classes": [
         "W 11:15-12:45",
         "F 14:15-15:45"
-      ]
+      ],
+      "search": "BUS-LBA-A1 Introduction to Business"
     },
     {
       "key": 273,
@@ -644,7 +700,8 @@
       "classes": [
         "M 11:15-12:45",
         "H 08:15-09:45"
-      ]
+      ],
+      "search": "ECO-LBA-A1 Introduction to Economics"
     },
     {
       "key": 275,
@@ -655,7 +712,8 @@
       "classes": [
         "M 14:15-15:45",
         "H 11:15-12:45"
-      ]
+      ],
+      "search": "POL-LBA-A1 Introduction to World Politics"
     },
     {
       "key": 277,
@@ -666,7 +724,8 @@
       "classes": [
         "T 08:15-09:45",
         "F 08:15-09:45"
-      ]
+      ],
+      "search": "PSY-LAA-A1 Inside your mind: Explorations in Psychology"
     },
     {
       "key": 279,
@@ -677,7 +736,8 @@
       "classes": [
         "T 16:15-17:45",
         "H 16:15-17:45"
-      ]
+      ],
+      "search": "ITA-LAA Italian I"
     },
     {
       "key": 281,
@@ -688,7 +748,8 @@
       "classes": [
         "M 14:15-15:45",
         "H 11:15-12:45"
-      ]
+      ],
+      "search": "SPA-LAL Spanish I"
     },
     {
       "key": 284,
@@ -698,7 +759,8 @@
       "teacher": "Bellevue-Fortin, Nicolas",
       "classes": [
         "M 12:15-14:15"
-      ]
+      ],
+      "search": "109-101-MQ Fit/ Combatives"
     },
     {
       "key": 306,
@@ -708,7 +770,8 @@
       "teacher": "Vachon-Gee, Alexandre",
       "classes": [
         "W 08:15-10:15"
-      ]
+      ],
+      "search": "109-102-MQ Badminton"
     },
     {
       "key": 323,
@@ -718,7 +781,8 @@
       "teacher": "Vachon-Gee, Alexandre",
       "classes": [
         "M 08:15-10:15"
-      ]
+      ],
+      "search": "109-103-MQ Weight Training"
     }
   ]
 }

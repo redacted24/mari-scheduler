@@ -17,6 +17,7 @@ data.slice(1).forEach(line => {
     const ID = templines[0].split(' ')[1]
     const name = templines[0].split(' ').slice(2).join(' ')
     const classes = templines.slice(2)
+    const search = ID + " " + name
     keynumber++
     let teacher = templines[1]
 
@@ -25,7 +26,7 @@ data.slice(1).forEach(line => {
     }
 
     courses.push({
-      key, section, ID, name, teacher, classes
+      key, section, ID, name, teacher, classes, search
     })
 
     templines = [line]
@@ -36,6 +37,7 @@ data.slice(1).forEach(line => {
   }
 })
 
+// Unique
 for (let i = 0; i < keynumber-1; i++) {
   if (seen.includes(courses[i].ID)) {
     continue
