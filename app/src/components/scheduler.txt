@@ -1,0 +1,3 @@
+https://ej2.syncfusion.com/react/documentation/schedule/getting-started
+
+maybe use this template?

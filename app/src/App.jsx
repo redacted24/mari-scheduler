@@ -4,6 +4,7 @@ import SearchBar from './components/searchBar'
 import SelectedCourses from './components/selectedCourses'
 import Title from './components/title'
 import SearchResult from './components/searchResult'
+import Results from './components/results'
 
 const App = () => {
   console.log("Loaded App")
@@ -14,6 +15,7 @@ const App = () => {
   const [errorMessage, setErrorMessage] = useState(null)
   const [search, setSearch] = useState('')
   const [selected, setSelected] = useState([])
+  const [page, setPage] = useState(false)
 
   // Handlers
   const handleAdd = (event) => {
@@ -34,7 +36,8 @@ const App = () => {
   }
 
   const handleCompute = () => {
-    // Send all selected courses through logic and compute, send to results page
+    // Send all selected courses through logic and compute
+    setPage(true)
   }
 
   // Initial data fetch
@@ -56,7 +59,15 @@ const App = () => {
       setTimeout(() => setErrorMessage(null), 3000)
     })
   }, [])
-
+  if (page) {
+    return (
+      <div>
+        <Title/>
+        <h2>Possible schedules</h2>
+        <Results/>
+      </div>
+    )
+  }
   // App return
   return (
     <div>
