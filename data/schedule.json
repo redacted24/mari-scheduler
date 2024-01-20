@@ -778,13 +778,19 @@
       "classes": [
         "T 11:15-12:45",
         "W 12:45-14:15",
-        "F 12:15-14:15",
-        "\"1 203-NYC-05 Waves, Light and Modern Physics\"",
-        "\"Dayon, Matthieu\"",
-        "M 16:15-17:45",
-        "W 16:15-17:45",
         "F 12:15-14:15"
       ]
+    },
+    {
+        "section": 1,
+        "ID": "203-NYC-05",
+        "name": "Waves, Light and Modern Physics",
+        "teacher": "Dayon, Matthieu",
+        "classes": [
+          "M 16:15-17:45",
+          "W 16:15-17:45",
+          "F 12:15-14:15"
+        ]
     },
     {
       "section": 1,
@@ -1449,56 +1455,6 @@
       ]
     },
     {
-      "section": 4,
-      "ID": "603-LPE-MS",
-      "name": "The Power of Representation",
-      "teacher": "Carrier, Nicolas",
-      "classes": [
-        "W 12:15-14:15",
-        "F 12:15-14:15"
-      ]
-    },
-    {
-      "section": 5,
-      "ID": "603-LPE-MS",
-      "name": "The Power of Representation",
-      "teacher": "Carrier, Nicolas",
-      "classes": [
-        "T 14:15-16:15",
-        "H 14:15-16:15"
-      ]
-    },
-    {
-      "section": 7,
-      "ID": "603-LPE-MS",
-      "name": "The Artist in Fiction and Non-Fiction",
-      "teacher": "MacDonald, John",
-      "classes": [
-        "M 16:15-18:15",
-        "W 16:15-18:15"
-      ]
-    },
-    {
-      "section": 8,
-      "ID": "603-LPE-MS",
-      "name": "Writings and Writing about Food",
-      "teacher": "Khoo, Jun Ling",
-      "classes": [
-        "T 08:15-10:15",
-        "F 08:15-10:15"
-      ]
-    },
-    {
-      "section": 9,
-      "ID": "603-LPE-MS",
-      "name": "Writings and Writing about Food",
-      "teacher": "Khoo, Jun Ling",
-      "classes": [
-        "M 10:15-12:15",
-        "W 10:15-12:15"
-      ]
-    },
-    {
       "section": 10,
       "ID": "603-LPE-MS",
       "name": "Gossip in Literature and Film",
@@ -1519,76 +1475,6 @@
       ]
     },
     {
-      "section": 12,
-      "ID": "603-LPE-MS",
-      "name": "Law and Literature",
-      "teacher": "Fitz-James, Megan",
-      "classes": [
-        "M 12:15-14:15",
-        "H 08:15-10:15"
-      ]
-    },
-    {
-      "section": 13,
-      "ID": "603-LPE-MS",
-      "name": "Literature and The Body",
-      "teacher": "Malott, Paul",
-      "classes": [
-        "M 12:15-14:15",
-        "H 08:15-10:15"
-      ]
-    },
-    {
-      "section": 14,
-      "ID": "603-LPE-MS",
-      "name": "World Mythology and Critical Theory",
-      "teacher": "McCambridge, Andrew",
-      "classes": [
-        "M 10:15-12:15",
-        "W 10:15-12:15"
-      ]
-    },
-    {
-      "section": 15,
-      "ID": "603-LPE-MS",
-      "name": "World Mythology and Critical Theory",
-      "teacher": "McCambridge, Andrew",
-      "classes": [
-        "M 14:15-16:15",
-        "H 10:45-12:45"
-      ]
-    },
-    {
-      "section": 16,
-      "ID": "603-LPE-MS",
-      "name": "Creative Nonfiction: Writing (True) Stories",
-      "teacher": "Walser, Sabine",
-      "classes": [
-        "M 16:15-18:15",
-        "W 16:15-18:15"
-      ]
-    },
-    {
-      "section": 17,
-      "ID": "603-LPE-MS",
-      "name": "American Nature Writing",
-      "teacher": "Fleming, David",
-      "classes": [
-        "M 08:15-10:15",
-        "W 08:15-10:15"
-      ]
-    },
-    {
-      "section": 18,
-      "ID": "603-LPE-MS",
-      "name": "Literature and Religion",
-      "teacher": "Webster, Barry",
-      "classes": [
-        "T 10:15-12:15",
-        "F 10:15-12:15"
-      ]
-    },
-    {
       "section": 19,
       "ID": "603-LPE-MS",
       "name": "Creative Writing",
@@ -1596,76 +1482,6 @@
       "classes": [
         "W 14:15-16:15",
         "F 14:15-16:15"
-      ]
-    },
-    {
-      "section": 22,
-      "ID": "603-LPE-MS",
-      "name": "Shakespeare over Time",
-      "teacher": "Morris, Blair",
-      "classes": [
-        "T 14:15-16:15",
-        "H 14:15-16:15"
-      ]
-    },
-    {
-      "section": 23,
-      "ID": "603-LPE-MS",
-      "name": "Eroticism in Poetry",
-      "teacher": "Ralickas, Vivian",
-      "classes": [
-        "T 16:15-18:15",
-        "H 16:15-18:15"
-      ]
-    },
-    {
-      "section": 24,
-      "ID": "603-LPE-MS",
-      "name": "Eroticism in Poetry",
-      "teacher": "Ralickas, Vivian",
-      "classes": [
-        "M 14:15-16:15",
-        "H 10:45-12:45"
-      ]
-    },
-    {
-      "section": 25,
-      "ID": "603-LPE-MS",
-      "name": "Literature and Theory",
-      "teacher": "Huffels, Natalie",
-      "classes": [
-        "T 14:15-16:15",
-        "H 14:15-16:15"
-      ]
-    },
-    {
-      "section": 26,
-      "ID": "603-LPE-MS",
-      "name": "Law and Literature",
-      "teacher": "Fitz-James, Megan",
-      "classes": [
-        "T 10:15-12:15",
-        "F 10:15-12:15"
-      ]
-    },
-    {
-      "section": 71,
-      "ID": "603-LPE-MS",
-      "name": "LIBERAL ARTS - English Adapted to Programs",
-      "teacher": "Berdichevsky, Leon",
-      "classes": [
-        "M 08:15-10:15",
-        "W 08:15-10:15"
-      ]
-    },
-    {
-      "section": 72,
-      "ID": "603-LPE-MS",
-      "name": "LIBERAL ARTS - English Adapted to Programs",
-      "teacher": "Dubé, Peter",
-      "classes": [
-        "T 16:15-18:15",
-        "H 16:15-18:15"
       ]
     },
     {
@@ -2021,17 +1837,35 @@
       "teacher": "Hays, Matthew",
       "classes": [
         "T 16:15-17:45",
-        "H 16:15-17:45",
-        "\"17 345-LPH-MS Representation, Reporting and the Stories We Tell\"",
-        "\"Brand, Sarah\"",
+        "H 16:15-17:45"
+      ]
+    },
+    {
+      "section": 17,
+      "ID": "345-LPH-MS",
+      "name": "Representation, Reporting and the Stories We Tell",
+      "teacher": "Brand, Sarah",
+      "classes": [
         "W 14:15-15:45",
-        "F 14:15-15:45",
-        "\"18 345-LPH-MS Representation, Reporting and the Stories We Tell\"",
-        "\"Brand, Sarah\"",
+        "F 14:15-15:45"
+      ]
+    },
+    {
+      "section": 18,
+      "ID": "345-LPH-MS",
+      "name": "Representation, Reporting and the Stories We Tell",
+      "teacher": "Brand, Sarah",
+      "classes": [
         "M 14:15-15:45",
-        "H 11:15-12:45",
-        "\"19 345-LPH-MS Squaring the Circle: Ethics, Economics and the Environment\"",
-        "\"Hamel-Perron, Hugo\"",
+        "H 11:15-12:45"
+      ]
+    },
+    {
+      "section": 19,
+      "ID": "345-LPH-MS",
+      "name": "Squaring the Circle: Ethics, Economics and the Environment",
+      "teacher": "Hamel-Perron, Hugo",
+      "classes": [
         "M 09:45-11:15",
         "W 09:45-11:15"
       ]

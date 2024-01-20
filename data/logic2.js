@@ -58,54 +58,61 @@ const getClassTime = (_class) => {
 }
 
 const schedule = [
-  {
-    "section": 2,
-    "ID": "202-LCU-05",
-    "name": "Organic Chemistry I",
-    "teacher": "Daly, Stewart",
-    "classes": [
-      "M 11:15-12:45",
-      "W 10:15-12:15",
-      "H 08:15-09:45"
-    ]
-  },
+    {
+      "section": 2,
+      "ID": "420-LCW-MS",
+      "name": "Programming Techniques and Applications",
+      "teacher": "Vincent, Robert",
+      "classes": [
+        "M 09:45-11:15",
+        "W 09:45-11:15",
+        "H 14:15-16:15"
+      ]
+    },
+    {
+      "section": 1,
+      "ID": "201-LCT-MS",
+      "name": "Topics in Advanced Mathematics",
+      "teacher": "Hamel, Mariah",
+      "classes": [
+        "M 14:15-15:45",
+        "W 12:15-14:15",
+        "F 12:45-14:15"
+      ]
+    },
+    {
+      section: 5,
+      ID: '203-NYB-05',
+      name: 'Electricity and Magnetism',
+      teacher: 'Perreault, Jean',
+      classes: [ 'M 16:15-17:45', 'W 16:15-17:45', 'F 10:15-12:15' ]
+    },
+    {
+      "section": 10,
+      "ID": "603-LPE-MS",
+      "name": "Gossip in Literature and Film",
+      "teacher": "King, Stephanie",
+      "classes": [
+        "T 08:15-10:15",
+        "F 08:15-10:15"
+      ]
+    },
+    {
+      "section": 4,
+      "ID": "345-LPH-MS",
+      "name": "Global Religious Violence",
+      "teacher": "Miceli, Calogero",
+      "classes": [
+        "W 14:15-15:45",
+        "F 14:15-15:45"
+      ]
+    }
 
-  {
-    "section": 1,
-    "ID": "101-LCV-05",
-    "name": "Human Physiology",
-    "teacher": "Barrie, Christine",
-    "classes": [
-      "M 14:15-16:15",
-      "T 16:15-17:45",
-      "H 16:15-17:45"
-    ]
-  },
-  {
-    section: 1,
-    ID: '203-NYB-05',
-    name: 'Electricity and Magnetism',
-    teacher: 'Fatholahzadeh, Baharak',
-    classes: [ 'M 16:15-17:45', 'T 14:15-15:45', 'H 14:15-16:15' ]
-  },
-  {
-    section: 3,
-    ID: '603-LPE-MS',
-    name: 'Business Communication',
-    teacher: 'Burton, Andrew',
-    classes: [ 'W 14:15-16:15', 'F 14:15-16:15' ]
-  },
-  {
-    section: 5,
-    ID: '345-LPH-MS',
-    name: 'Ethics and the Family',
-    teacher: 'Richardson, Wendy',
-    classes: [ 'T 08:15-09:45', 'F 08:15-09:45' ]
-  },
 ]
 
 const choices = [
-  ["345-LPH-MS"]
+  ["109-103-MQ"]
 ]
 
+console.log(findPossibilities(choices, schedule).length)
 console.log(findPossibilities(choices, schedule).map(schedule => schedule[schedule.length - 1]))

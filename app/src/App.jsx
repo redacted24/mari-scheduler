@@ -1,43 +1,22 @@
-import backendService from './services/backend'
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
+import Schedule from './components/schedule'
 
-const Second = () => {
-  console.log("Loaded Second")
-  return (
-    <div>
-      second
-    </div>
-  )
-}
 
 const App = () => {
-  console.log("Loaded App")
+  const [courseID, setCourseID] = useState('')
 
-  const [courses, setCourses] = useState([])
-  const [errorMessage, setErrorMessage] = useState(null)  
-
-  // Initial data fetch
-  useEffect(() => {
-    console.log('Fetching courses data...')
-    backendService
-    .getData()
-    .then((response) => {
-      console.log(response)
-      console.log('✅ Courses data successfully fetched!')
-      setCourses(response)
-    })
-    // Make an Error Message Component
-    .catch(() => {
-      console.log('❌ Courses data could not be fetched')
-      setErrorMessage('Error in fetching country data')
-      setTimeout(() => setErrorMessage(null), 3000)
-    })
-  }, [])
+  const handleIDChange = (event) => {
+    setCourseID(event.target.value)
+  }
 
   return (
     <div>
-      <p>first app</p>
-      <Second/>
+      <h3>Mari Schedule Builder</h3>
+      <Schedule />
+      <br />
+      <br />
+      <br />
+      <br />
     </div>
   )
 }
